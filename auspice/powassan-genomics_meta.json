@@ -1,0 +1,303 @@
+{
+  "annotations": {
+    "2K": {
+      "end": 6887,
+      "start": 6818,
+      "strand": 1
+    },
+    "NS1": {
+      "end": 3491,
+      "start": 2432,
+      "strand": 1
+    },
+    "NS2a": {
+      "end": 4181,
+      "start": 3491,
+      "strand": 1
+    },
+    "NS2b": {
+      "end": 4574,
+      "start": 4181,
+      "strand": 1
+    },
+    "NS3": {
+      "end": 6440,
+      "start": 4574,
+      "strand": 1
+    },
+    "NS4a": {
+      "end": 6818,
+      "start": 6440,
+      "strand": 1
+    },
+    "NS4b": {
+      "end": 7643,
+      "start": 6887,
+      "strand": 1
+    },
+    "NS5": {
+      "end": 10352,
+      "start": 7643,
+      "strand": 1
+    },
+    "capsid": {
+      "end": 443,
+      "start": 107,
+      "strand": 1
+    },
+    "envelope": {
+      "end": 2432,
+      "start": 941,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 10647,
+      "start": 0,
+      "strand": 1
+    },
+    "premembrane": {
+      "end": 941,
+      "start": 443,
+      "strand": 1
+    }
+  },
+  "author_info": {
+    "Grubaugh Lab": {
+      "journal": "Unpublished",
+      "n": 76,
+      "title": "Unpublished"
+    },
+    "Grubaugh et al": {
+      "journal": "Submitted (07-MAR-2016) Microbiology, Immunology and Pathology, Colorado State University, 1690 Campus Delivery, Fort Collins, CO 80523, USA",
+      "n": 1,
+      "title": "Direct Submission"
+    },
+    "Pesko et al": {
+      "journal": "Submitted (01-JUN-2010) Pathology, University of New Mexico School of Medicine, 915 Camino de Salud, Albuquerque, NM 87131, USA",
+      "n": 2,
+      "title": "Direct Submission"
+    },
+    "Robich et al": {
+      "journal": "Submitted (17-DEC-2018) Lyme and Vector-borne Disease Laboratory, Maine Medical Center Research Institute, 81 Research Drive, Scarborough, ME 04074, USA",
+      "n": 2,
+      "title": "Direct Submission"
+    },
+    "Tokarz et al": {
+      "journal": "Submitted (06-DEC-2017) Center for Infection and Immunity, Columbia University, 722 W 168th St, New York, NY 10032, USA",
+      "n": 6,
+      "title": "Direct Submission"
+    }
+  },
+  "color_options": {
+    "authors": {
+      "key": "authors",
+      "legendTitle": "Authors",
+      "menuItem": "authors",
+      "type": "discrete"
+    },
+    "city": {
+      "color_map": [
+        [
+          "Bridgeport",
+          "#0054A8"
+        ],
+        [
+          "Cape-Elizabeth",
+          "#6737AE"
+        ],
+        [
+          "Groton",
+          "#A849A8"
+        ],
+        [
+          "Long-Island",
+          "#FF8000"
+        ],
+        [
+          "Lyme",
+          "#7EA800"
+        ],
+        [
+          "Nantucket",
+          "#50C1E7"
+        ],
+        [
+          "North-Branford",
+          "#A80000"
+        ],
+        [
+          "Redding",
+          "#E7AD00"
+        ],
+        [
+          "Wells",
+          "#6737AE"
+        ]
+      ],
+      "key": "city",
+      "legendTitle": "City",
+      "menuItem": "city",
+      "type": "discrete"
+    },
+    "county": {
+      "key": "county",
+      "legendTitle": "County",
+      "menuItem": "county",
+      "type": "discrete"
+    },
+    "host": {
+      "key": "host",
+      "legendTitle": "Host Species",
+      "menuItem": "host",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "state": {
+      "color_map": [
+        [
+          "Connecticut",
+          "#0054A8"
+        ],
+        [
+          "Maine",
+          "#6737AE"
+        ],
+        [
+          "Massachusetts",
+          "#50C1E7"
+        ],
+        [
+          "New-York",
+          "#FF8000"
+        ]
+      ],
+      "key": "state",
+      "legendTitle": "State",
+      "menuItem": "state",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "colorBy": "city",
+    "geoResolution": "city",
+    "mapTriplicate": false
+  },
+  "filters": [
+    "state",
+    "city",
+    "authors"
+  ],
+  "geo": {
+    "city": {
+      "Bridgeport": {
+        "latitude": 41.208906,
+        "longitude": -73.167084
+      },
+      "Cape-Elizabeth": {
+        "latitude": 43.563674,
+        "longitude": -70.200001
+      },
+      "Groton": {
+        "latitude": 41.335594,
+        "longitude": -72.033408
+      },
+      "Long-Island": {
+        "latitude": 40.8,
+        "longitude": -73.1
+      },
+      "Lyme": {
+        "latitude": 41.358801,
+        "longitude": -72.348391
+      },
+      "Nantucket": {
+        "latitude": 41.274539,
+        "longitude": -70.052327
+      },
+      "New-YorkState": {
+        "latitude": 43.299437,
+        "longitude": -74.217138
+      },
+      "North-Branford": {
+        "latitude": 41.370778,
+        "longitude": -72.778166
+      },
+      "Redding": {
+        "latitude": 41.286584,
+        "longitude": -73.369246
+      },
+      "Wells": {
+        "latitude": 43.322425,
+        "longitude": -70.580458
+      }
+    },
+    "county": {
+      "Cumberland": {
+        "latitude": 43.563674,
+        "longitude": -70.200001
+      },
+      "Fairfield": {
+        "latitude": 41.208906,
+        "longitude": -73.167084
+      },
+      "Nantucket": {
+        "latitude": 41.274539,
+        "longitude": -70.052327
+      },
+      "New-Haven": {
+        "latitude": 41.370778,
+        "longitude": -72.778166
+      },
+      "New-London": {
+        "latitude": 41.335594,
+        "longitude": -72.033408
+      },
+      "New-YorkState": {
+        "latitude": 43.299437,
+        "longitude": -74.217138
+      },
+      "Suffolk": {
+        "latitude": 40.8,
+        "longitude": -73.1
+      },
+      "York": {
+        "latitude": 43.322425,
+        "longitude": -70.580458
+      }
+    },
+    "state": {
+      "Connecticut": {
+        "latitude": 41.625089,
+        "longitude": -72.691524
+      },
+      "Maine": {
+        "latitude": 45.012162,
+        "longitude": -69.09493
+      },
+      "Massachusetts": {
+        "latitude": 42.35031,
+        "longitude": -72.051734
+      },
+      "New-York": {
+        "latitude": 42.362333,
+        "longitude": -74.494279
+      }
+    }
+  },
+  "maintainer": [
+    "Grubaugh Lab",
+    "http://grubaughlab.com/"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Powassan virus evolution in the North America",
+  "updated": "17 Oct 2019",
+  "virus_count": 86
+}

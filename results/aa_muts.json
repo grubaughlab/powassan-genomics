@@ -1,0 +1,2549 @@
+{
+ "annotations": {
+  "2K": {
+   "end": 6887,
+   "start": 6818,
+   "strand": 1
+  },
+  "NS1": {
+   "end": 3491,
+   "start": 2432,
+   "strand": 1
+  },
+  "NS2a": {
+   "end": 4181,
+   "start": 3491,
+   "strand": 1
+  },
+  "NS2b": {
+   "end": 4574,
+   "start": 4181,
+   "strand": 1
+  },
+  "NS3": {
+   "end": 6440,
+   "start": 4574,
+   "strand": 1
+  },
+  "NS4a": {
+   "end": 6818,
+   "start": 6440,
+   "strand": 1
+  },
+  "NS4b": {
+   "end": 7643,
+   "start": 6887,
+   "strand": 1
+  },
+  "NS5": {
+   "end": 10352,
+   "start": 7643,
+   "strand": 1
+  },
+  "capsid": {
+   "end": 443,
+   "start": 107,
+   "strand": 1
+  },
+  "envelope": {
+   "end": 2432,
+   "start": 941,
+   "strand": 1
+  },
+  "nuc": {
+   "end": 10647,
+   "start": 0,
+   "strand": 1
+  },
+  "premembrane": {
+   "end": 941,
+   "start": 443,
+   "strand": 1
+  }
+ },
+ "nodes": {
+  "HM440559": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [
+     "L9S"
+    ],
+    "NS4a": [],
+    "NS4b": [
+     "E212G"
+    ],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "KJ746872": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "KU886216": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "MG647779": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [
+     "I182T"
+    ],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [
+     "D388E"
+    ],
+    "premembrane": []
+   }
+  },
+  "MG647780": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [
+     "M275I"
+    ],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [
+     "I182M"
+    ],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "MG647781": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [
+     "K13R"
+    ],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "MG647782": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [
+     "A525E",
+     "T807N"
+    ],
+    "capsid": [],
+    "envelope": [
+     "N205S"
+    ],
+    "premembrane": []
+   }
+  },
+  "MG647783": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [
+     "A105T"
+    ],
+    "NS2a": [
+     "V51I"
+    ],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [
+     "L116M"
+    ],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [
+     "M403I",
+     "V486A"
+    ],
+    "premembrane": []
+   }
+  },
+  "MK104144": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [
+     "D209E"
+    ],
+    "NS2a": [
+     "T201I"
+    ],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "MK309362": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000000": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [
+     "V97A"
+    ],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [
+     "K649R",
+     "D703A"
+    ],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000001": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000002": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [
+     "K23R",
+     "L275M"
+    ],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [
+     "I11V"
+    ],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000004": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000005": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [
+     "P132S"
+    ],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000006": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000008": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000010": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000011": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000012": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [
+     "I47V"
+    ],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000017": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [
+     "K855R"
+    ],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000020": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000024": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000026": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [
+     "P275H"
+    ],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000027": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000029": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000030": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000031": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [
+     "M352I"
+    ],
+    "NS2a": [
+     "I75T",
+     "N190K"
+    ],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [
+     "G657E"
+    ],
+    "capsid": [],
+    "envelope": [
+     "I373M",
+     "M403V"
+    ],
+    "premembrane": [
+     "Y12H"
+    ]
+   }
+  },
+  "NODE_0000032": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [
+     "A182V"
+    ],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000033": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [
+     "D209G"
+    ],
+    "NS2a": [
+     "S187N"
+    ],
+    "NS2b": [
+     "L125F"
+    ],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [
+     "R389Q",
+     "R521K"
+    ],
+    "capsid": [
+     "S29G"
+    ],
+    "envelope": [
+     "D149N"
+    ],
+    "premembrane": []
+   }
+  },
+  "NODE_0000035": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [
+     "V97F"
+    ],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000036": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000037": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [
+     "V699A",
+     "K855R"
+    ],
+    "capsid": [
+     "T102A"
+    ],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000048": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [
+     "S205N"
+    ],
+    "premembrane": []
+   }
+  },
+  "NODE_0000049": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [
+     "K178R"
+    ],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000051": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [
+     "V68I"
+    ],
+    "NS4b": [
+     "Y19H"
+    ],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000052": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000053": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [
+     "K272R"
+    ],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000055": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [
+     "R311H"
+    ],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000056": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000058": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [
+     "T11I",
+     "V32A"
+    ],
+    "NS2b": [
+     "A58V"
+    ],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000060": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000061": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [
+     "I110V"
+    ],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000062": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [
+     "G23V"
+    ],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000064": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000067": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000069": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000070": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [
+     "T156I"
+    ],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000076": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000077": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000078": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [
+     "I75V"
+    ],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [
+     "H890Y"
+    ],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000079": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000086": {
+   "aa_muts": {},
+   "aa_sequences": {
+    "2K": "SGEDNRLAFLLIGLGSVIGLLAA",
+    "NS1": "DYGCAVDPERMEIRCGEGLVVWKEVSEWYDGYAYHPESPDTLAQALREAFERGICGVVPQNRLEMAMWRSTAPELNLVLSEGEANLTIVVDKTDPADYRGGTPMALKKTGKESKVSWKSWGKSILWSVPESPRRMMMGVDGAGECPLHKRATGVFTVAEFGVGLRTKVFLDLRGEASKECDTGVMGAAVKNGKAIHTDQSMWMSSFRNDTGTYIQELILTDLRNCTWPASHTIDNDGVLDSRLFLPVTLAGPRSKYNRIPGYSEQTKGPWDQTPLRVVRDHCPGTSVKIDSQCDKRGASVRSTTESGKIIPEWCCRACELPPVTFRSGTDCWYAMEIRPVHSQGGLVRSMVMA",
+    "NS2a": "DNGAMLSEGGTPGLVAVFVLMEFLLRRRPGSVTSILWGGILMLGLLVTGLVRVEEIVRYIIAVGITFHLELGPEIMALVMLQAVFSMRTCYLIGFLVKRVITTREVVTVYFLLLVLEMGIPEMNFGHLWEWADSLAMGLLIIKASSMEDRKGLGFLLAGLMTQRHLTAVHHGLIVFLTVALAVVGRSIYNGQKERKGLSFTIPLASLLGGPGSGLRMLALWECLGGRGRR",
+    "NS2b": "SLSEPLTVVGVMLAMASGLLRHSSQEALLVLSAGSFLILMLILGTRRLQLTAEWAGLAEWNPELVNEGGEVSLKVRQDAMGNLHLTEVEREERRLALWLAFGLLASAFHWSGILVTMGAWTLYELFSSARR",
+    "NS3": "TDLVFSGQLSDHGEKRPFDIKDGVYRIYAPGLVWGHRQIGVGYGTKGVLHTMWHVTRGAALSVEGAVSGPYWADVREDVVCYGGAWSLEGKWGGEVVQVHAFPPDSGHKVHQCQPGKLNLEGGRVMGAIPIDLPRGTSGSPIINAQGVVLGLYGNGLKSNDVYISSIAQGSVEKSRPEMPLAIQGGRWTSKGSITVLDMHPGSGKTHRVLPELIRECIDKRLRTVVLAPTRVVLKEMERALQGKRVKFHSAAVDNTSSSLGAIVDVMCHATYVNRRLLPQGRQNWEVAIMDEAHWTDPHSIAARGHLYSLAKENRCAFVLMTATPPGKSEAFPESKGAIVSEERPIPDGEWRDGFDWITEFEGRTAWFVSSIAKGGAIARTLRQKGKSVICLNSKTFDKDYGRVREEKPDFVVTTDISEMGANLDVNRVIDGRTNIKPEEIDGRVELAGTRRVTTASAAQRRGRVGRHEGRTDTYVYSGQCDDDDSSLVQWKEAQILLDNITTVRGPVATFYGPEQGKMLEVAGHFRLTEEKRKHFRHLLTNCDFTPWLAWHVAANTTCVTDRKWTWEGPEENAIDGPDGELVTFRSPNGAERKLKPVWKDSRMFREGRDVADFLQYASGRR",
+    "NS4a": "SAMDIFTGLGGVPDLLRLRCTAAWDVVYTLLNETPGSRAMKMAERDAPEAMLTLLEVAVLGIATLGVVWCFIVRTSVSRMVLGTVVLVVALILLWLGGMDYGTMAGVALIFYLLLTVLQPEPGKQR",
+    "NS4b": "NELGYLERTKADIAGLFRYDTQGDRVWDTWTNIDIQPARSWGTYVFIVSLFTPYMLHQLQTKIQRLVNSSVAAGTQAMKDLGGGTPFFGVAGHVVALGVTSLVGATPTSLALGVALAILHLAVVTSGLEAELTQRAHRAFFSAMVKNPMVDGEVINPIPDGEPKPALYERKMSLLLAVGLCIAAVALNRTAAAMTEAGAVAVAALGQLLRPEEESWWTMPMACGMAGLVRGSLWGLLPVLHRIWLRTQGARR",
+    "NS5": "GGAEGSTLGDIWKQRLNSCTKEEFFAYRRTGVMETNRDQARELLRRGETNMGLAVSRGCAKLAWLEERGYATLKGEVVDLGCGRGGWSYYAASRPSVMAVKAYTIGGKGHEAPRLVTSLGWNLIKFRSGMDVFSMPATRVDTILCDIGESNPDPEKEGTRSRRVILLMEQWKARNPDAAAVFKVLAPYRPEVLEALHRFQLQWGGGLVRVPFSRNSTHEMYYSTAVTGNLVNSVNVLSRKLLARFGETRGPIQVPEIDLGTGTRCVTLAEDKVKPSDVMERIGALKEQYSESWHEDKEHPYRTWQYWGSYRTPATGSAASLINGVVKLLSWPWNAREDVTRMAMTDTTAFGQQRVFKEKVDTKAQEPQPGTRVIMRAVSDWLLEHLHSRARVRMCTRDEFIAKVRSNAALGAWSDEQNKWSSAKEAVEDPEFWNLVDEERSRHLKGQCRHCVYNMMGKREKKLGEFGVAKGSRAIWYMWLGSRFLEFEVLGFLNEEHWASRVVSGAGVEGTSLNYLGWLLRELGAKDGGRLYADDTAGWDTRITNADLEDEEQILRYMEGEHHVLAKTILEKAYHAKVVKVARPSPQGGCVMDVITRRDQRGSGQVVTYALNTITNMKVQLIRMMEGEGVIGPADSQDPRLKRVEAWLKEHGAERLGRMLVSGDDCVVKPIDDRFGKALYFLNDMAKTRKDVGEWEPSVGFTDWEEVPFCSHHFHELVMKDGRSLIVPCRDQDELVGRARVSPGCGWSVRETACLSKAYGQMWLLNYFHRRDLRTLGLAICSAVPVNWVPMGRTTWSIHASGEWMTTEDMLRIWNKVWILDNPHMENKQMVDEWRDIPYLPKTQDLVCSSLVGRKERAEWAKNIWGSVEKVRKLIGAEEYRDYLANMDRHDLHWELKLESSII",
+    "capsid": "MVTTSKGKGGGPPKRKLKVTANKSRPATSPMPKGFVLSRMLGILWHAMTGTARTPVLKMFWKTVPLRQAESALKKIKRVIGNLMQSLHMRGRRRSGVDWTWTFLVMALMAMA",
+    "envelope": "TRCTHLENRDFVTGVQGTTRVSLVLELGGCVTITAEGKPSIDVWLEDIFQESPAETREYCLHAKLSNTKVEARCPTTGPATLPEEHQANMVCKRDQSDRGWGNHCGFFGKGSIVACAKFECEEAKKAVGHVYDSTKITYVVKVEPHTGDYQAANETNENRKTAQFTVASEKVILNLGDYGDVSLTCKVASGIDVAQTVVMSLGSSKDHLPSAWQVHRDWFEDLALPWKHKDNQDWNSVEKLVEFGPPHAVKMDIFNLGDQTAVLLKSLAGVPLASVDNQKYHLKSGHVTCDVGLEKLKLKGTTYSMCDKTKFKWKRVPVDSGHDTVVMEVSYTGSDKPCRIPVRAVAHGVPTINVAMLITPNPTIETSGGGFIEMQLPPGDNIIYVGDLSQQWFQKGSTIGRMLEKTRKGLERLSVVGEHAWDFGSVGGILSSVGKAVHTVLGGAFNTLFGGVGFIPKMLLGVALVWLGLNARNPTMSMTFLAVGVLTLMMTMGVGA",
+    "premembrane": "MATSIHRDKEGYMVMRASGRDAASQVRVQNGTCVILATDMGEWCEDSITYSCVTIDQEEEPVDVDCFCRGVDRVKLEYGRCGRQAGFRGRRSVVIPTHAQKDMVGRGHAWLKGDNIRDHVTRVEGWMWKNKLLTVAVVALAWLMLDSWMARVTVILLALSLGPVYA"
+   }
+  },
+  "NODE_0000087": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000088": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000089": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000090": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000091": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000092": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000093": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000094": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000095": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000096": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000097": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000098": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000099": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000100": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000101": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000102": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000103": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000104": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000105": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000106": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000107": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000108": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000109": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000110": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000111": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV01": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV02": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV03": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [
+     "T162M"
+    ],
+    "premembrane": []
+   }
+  },
+  "PV04": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV05": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV06": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [
+     "K124R"
+    ],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [
+     "V343A",
+     "V438I"
+    ],
+    "premembrane": []
+   }
+  },
+  "PV07": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [
+     "P275T",
+     "K855R"
+    ],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV08": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV09": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [
+     "V6I"
+    ],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [
+     "K109E"
+    ],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV10": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV11": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": [
+     "V164I"
+    ]
+   }
+  },
+  "PV12": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [
+     "A40V"
+    ],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV13": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [
+     "G91R"
+    ],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV14": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV15": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV16": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [
+     "Y71C",
+     "S602G"
+    ],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV17": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [
+     "H68Y"
+    ],
+    "NS2b": [],
+    "NS3": [
+     "L260V"
+    ],
+    "NS4a": [
+     "V88M"
+    ],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV18": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV19": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV20": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV21": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV22": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [
+     "S215N"
+    ],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV23": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV24": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV25": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV26": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV27": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV28": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV29": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV30": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV32": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV33": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV34": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV35": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [
+     "N124S"
+    ],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV36": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV37": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [
+     "L125F"
+    ],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV38": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV39": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV40": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [
+     "V148I"
+    ],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV41": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV42": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV43": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [
+     "M350L"
+    ],
+    "NS2a": [
+     "V175A"
+    ],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV45": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV46": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [
+     "L245I"
+    ],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV47": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV48": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV49": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV50": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV51": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [
+     "G39C"
+    ],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV52": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV53": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV54": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV55": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV56": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV57": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV58": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV59": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV60": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV61": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV62": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV63": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV64": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [
+     "D30N"
+    ],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": [
+     "A141V"
+    ]
+   }
+  },
+  "PV65": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [
+     "T189I"
+    ],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV66": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV67": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV69": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV70": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [
+     "M830L"
+    ],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV71": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [
+     "L125F"
+    ],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV72": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV73": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV74": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV75": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV76": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV77": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [
+     "A250V"
+    ],
+    "NS5": [
+     "G47E"
+    ],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": [
+     "V137I"
+    ]
+   }
+  },
+  "PV78": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "PV80": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  }
+ }
+}

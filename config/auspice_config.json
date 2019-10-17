@@ -1,0 +1,30 @@
+{
+  "title": "Powassan virus evolution in the North America",
+  "color_options": {
+    "num_date": {"menuItem": "date", "legendTitle": "Sampling date", "type": "continuous"},
+    "state": {"legendTitle":"State", "menuItem":"state", "type":"discrete"},
+    "county": {"legendTitle":"County", "type":"discrete"},
+    "city": {"legendTitle":"City", "type":"discrete"},
+    "authors": {"legendTitle":"Authors", "type":"discrete"},
+    "host": {"legendTitle":"Host Species", "type":"discrete"}
+  },
+  "geo": [
+    "state",
+    "county",
+    "city"
+  ],
+  "maintainer": [
+    "Grubaugh Lab",
+    "http://grubaughlab.com/"
+  ],
+  "filters": [
+    "state",
+    "city",
+    "authors"
+  ],
+  "defaults": {
+   "colorBy": "city",
+   "mapTriplicate": false,
+   "geoResolution": "city"
+ }
+}

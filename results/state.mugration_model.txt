@@ -1,0 +1,29 @@
+Map from character to field name
+A:	Connecticut
+B:	Maine
+C:	Massachusetts
+D:	New-York
+E:	?
+
+
+Substitution rate (mu): 32.78196
+
+Equilibrium frequencies (pi_i):
+  A: 0.4276
+  B: 0.1862
+  C: 0.1851
+  D: 0.2011
+
+Symmetrized rates from j->i (W_ij):
+	A	B	C	D
+  A	0	1.3312	1.332	2.2141
+  B	1.3312	0	0.9001	0.8995
+  C	1.332	0.9001	0	0.8997
+  D	2.2141	0.8995	0.8997	0
+
+Actual rates from j->i (Q_ij):
+	A	B	C	D
+  A	0	0.5692	0.5696	0.9468
+  B	0.2479	0	0.1676	0.1675
+  C	0.2465	0.1666	0	0.1665
+  D	0.4453	0.1809	0.1809	0
