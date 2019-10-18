@@ -218,10 +218,6 @@
         "latitude": 41.274539,
         "longitude": -70.052327
       },
-      "New-YorkState": {
-        "latitude": 43.299437,
-        "longitude": -74.217138
-      },
       "North-Branford": {
         "latitude": 41.370778,
         "longitude": -72.778166
@@ -255,10 +251,6 @@
       "New-London": {
         "latitude": 41.335594,
         "longitude": -72.033408
-      },
-      "New-YorkState": {
-        "latitude": 43.299437,
-        "longitude": -74.217138
       },
       "Suffolk": {
         "latitude": 40.8,
@@ -297,7 +289,7 @@
     "map",
     "entropy"
   ],
-  "title": "Powassan virus evolution in the North America",
+  "title": "Powassan virus evolution in North America",
   "updated": "17 Oct 2019",
-  "virus_count": 86
+  "virus_count": 85
 }
