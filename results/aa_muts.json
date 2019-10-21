@@ -408,7 +408,22 @@
     "premembrane": []
    }
   },
-  "NODE_0000017": {
+  "NODE_0000019": {
+   "aa_muts": {
+    "2K": [],
+    "NS1": [],
+    "NS2a": [],
+    "NS2b": [],
+    "NS3": [],
+    "NS4a": [],
+    "NS4b": [],
+    "NS5": [],
+    "capsid": [],
+    "envelope": [],
+    "premembrane": []
+   }
+  },
+  "NODE_0000021": {
    "aa_muts": {
     "2K": [],
     "NS1": [],
@@ -420,21 +435,6 @@
     "NS5": [
      "K855R"
     ],
-    "capsid": [],
-    "envelope": [],
-    "premembrane": []
-   }
-  },
-  "NODE_0000020": {
-   "aa_muts": {
-    "2K": [],
-    "NS1": [],
-    "NS2a": [],
-    "NS2b": [],
-    "NS3": [],
-    "NS4a": [],
-    "NS4b": [],
-    "NS5": [],
     "capsid": [],
     "envelope": [],
     "premembrane": []

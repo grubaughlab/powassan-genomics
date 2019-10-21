@@ -18,14 +18,14 @@
    "state_entropy": -1.000088900581841e-12
   },
   "KJ746872": {
-   "city": "New-YorkState",
+   "city": "Long-Island",
    "city_confidence": {
-    "New-YorkState": 1.0
+    "Long-Island": 0.9999999999999999
    },
-   "city_entropy": -1.000088900581841e-12,
-   "county": "New-YorkState",
+   "city_entropy": -9.99866855976916e-13,
+   "county": "Suffolk",
    "county_confidence": {
-    "New-YorkState": 1.0
+    "Suffolk": 1.0
    },
    "county_entropy": -1.000088900581841e-12,
    "state": "New-York",
@@ -47,9 +47,9 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "MG647779": {
    "city": "Long-Island",
@@ -71,9 +71,9 @@
   "MG647780": {
    "city": "Long-Island",
    "city_confidence": {
-    "Long-Island": 1.0
+    "Long-Island": 0.9999999999999999
    },
-   "city_entropy": -1.000088900581841e-12,
+   "city_entropy": -9.99866855976916e-13,
    "county": "Suffolk",
    "county_confidence": {
     "Suffolk": 1.0
@@ -105,9 +105,9 @@
   "MG647782": {
    "city": "Long-Island",
    "city_confidence": {
-    "Long-Island": 1.0
+    "Long-Island": 0.9999999999999999
    },
-   "city_entropy": -1.000088900581841e-12,
+   "city_entropy": -9.99866855976916e-13,
    "county": "Suffolk",
    "county_confidence": {
     "Suffolk": 1.0
@@ -139,14 +139,14 @@
   "MK104144": {
    "city": "Cape-Elizabeth",
    "city_confidence": {
-    "Cape-Elizabeth": 0.9999999999999999
+    "Cape-Elizabeth": 1.0
    },
-   "city_entropy": -9.99866855976916e-13,
+   "city_entropy": -1.000088900581841e-12,
    "county": "Cumberland",
    "county_confidence": {
-    "Cumberland": 0.9999999999999999
+    "Cumberland": 1.0
    },
-   "county_entropy": -9.99866855976916e-13,
+   "county_entropy": -1.000088900581841e-12,
    "state": "Maine",
    "state_confidence": {
     "Maine": 1.0
@@ -173,1230 +173,1228 @@
   "NODE_0000000": {
    "city": "Long-Island",
    "city_confidence": {
-    "Long-Island": 0.9431684134513901,
-    "Lyme": 0.0023032865426734434,
-    "Nantucket": 0.03884461783319132,
-    "North-Branford": 0.012303672352259713
+    "Long-Island": 0.9433980928552638,
+    "Lyme": 0.0021446798427328627,
+    "Nantucket": 0.03918708926104899,
+    "North-Branford": 0.012258091376408901
    },
-   "city_entropy": 0.27373614046538103,
+   "city_entropy": 0.2705487591483247,
    "county": "Suffolk",
    "county_confidence": {
-    "Nantucket": 0.0840060552394655,
-    "New-Haven": 0.026566223844973487,
-    "New-London": 0.015684796048143244,
-    "Suffolk": 0.8579740520169882
+    "Nantucket": 0.08570972436066131,
+    "New-Haven": 0.026759936722229226,
+    "New-London": 0.015345059560068089,
+    "Suffolk": 0.8573323770362835
    },
-   "county_entropy": 0.572919039836703,
+   "county_entropy": 0.5699684387519193,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.8619879810593712,
-    "Massachusetts": 0.04448335205602543,
-    "New-York": 0.09324157541452001
+    "Connecticut": 0.8574251807642753,
+    "Massachusetts": 0.04668305710002766,
+    "New-York": 0.0955948936769449
    },
-   "state_entropy": 0.4900407273132874
+   "state_entropy": 0.5017778831296265
   },
   "NODE_0000001": {
    "city": "Long-Island",
    "city_confidence": {
-    "Long-Island": 0.9541006350686152,
-    "Nantucket": 0.011215853612006192,
-    "North-Branford": 0.03223455420734518
+    "Long-Island": 0.9544925220007962,
+    "Nantucket": 0.01131163462165556,
+    "North-Branford": 0.03202842255236934
    },
-   "city_entropy": 0.2249731119227635,
+   "city_entropy": 0.22220748201023946,
    "county": "Suffolk",
    "county_confidence": {
-    "Fairfield": 0.0047867584738654064,
-    "Nantucket": 0.02423642678199211,
-    "New-Haven": 0.06574451592128619,
-    "Suffolk": 0.899526776979086
+    "Fairfield": 0.004679691811304283,
+    "Nantucket": 0.024722030594574076,
+    "New-Haven": 0.06610222372964672,
+    "Suffolk": 0.8993091280051503
    },
-   "county_entropy": 0.42300322422257836,
+   "county_entropy": 0.42096695863836725,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.8579077349331432,
-    "Massachusetts": 0.008934910556352168,
-    "New-York": 0.1329940823008151
+    "Connecticut": 0.8545662916844021,
+    "Massachusetts": 0.009373412347574162,
+    "New-York": 0.13589310332392682
    },
-   "state_entropy": 0.44336761146665427
+   "state_entropy": 0.45075856319493346
   },
   "NODE_0000002": {
    "city": "Long-Island",
    "city_confidence": {
-    "Long-Island": 0.9999891215939186
+    "Long-Island": 0.9999971179116144
    },
-   "city_entropy": 0.00014915848505397754,
+   "city_entropy": 4.244763447927465e-05,
    "county": "Suffolk",
    "county_confidence": {
-    "Suffolk": 0.9999726196534013
+    "Suffolk": 0.9999919520329316
    },
-   "county_entropy": 0.00035157688218183576,
+   "county_entropy": 0.00011085993358162133,
    "state": "New-York",
    "state_confidence": {
-    "New-York": 0.999808407234587
+    "New-York": 0.9998099533837413
    },
-   "state_entropy": 0.001835821419922434
+   "state_entropy": 0.0018226534931946705
   },
   "NODE_0000004": {
    "city": "Long-Island",
    "city_confidence": {
-    "Long-Island": 0.9917489989520203,
-    "New-YorkState": 0.0078788210140765
+    "Long-Island": 0.999995875726863
    },
-   "city_entropy": 0.05009061407403293,
+   "city_entropy": 6.382888415550055e-05,
    "county": "Suffolk",
    "county_confidence": {
-    "New-YorkState": 0.008570127636284256,
-    "Suffolk": 0.9910924883594564
+    "Suffolk": 0.9999954383376152
    },
-   "county_entropy": 0.052914101493856336,
+   "county_entropy": 6.769590942937817e-05,
    "state": "New-York",
    "state_confidence": {
-    "New-York": 0.9999899738796927
+    "New-York": 0.9999900364911488
    },
-   "state_entropy": 0.00012751931235139644
+   "state_entropy": 0.0001267855930421769
   },
   "NODE_0000005": {
    "city": "North-Branford",
    "city_confidence": {
-    "Long-Island": 0.008762554501554554,
-    "North-Branford": 0.9908669079620812
+    "Long-Island": 0.008662755805686307,
+    "North-Branford": 0.9910112497078538
    },
-   "city_entropy": 0.05426590171763179,
+   "city_entropy": 0.05330416538585091,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9901314968052514,
-    "Suffolk": 0.009371531929390291
+    "New-Haven": 0.990208961413659,
+    "Suffolk": 0.009341813180594795
    },
-   "county_entropy": 0.05812749184108572,
+   "county_entropy": 0.05746633806979958,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9957159440374147,
-    "New-York": 0.004089927442524495
+    "Connecticut": 0.9956199687443241,
+    "New-York": 0.0041773011740073454
    },
-   "state_entropy": 0.02847823940880619
+   "state_entropy": 0.029032050491548597
   },
   "NODE_0000006": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999111388109023
+    "North-Branford": 0.9999141112274527
    },
-   "city_entropy": 0.0009564796973320003,
+   "city_entropy": 0.0009228112131017723,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9998921544562496
+    "New-Haven": 0.9998939905225184
    },
-   "county_entropy": 0.0011362143901572164,
+   "county_entropy": 0.001112723825928627,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9998459931806357
+    "Connecticut": 0.9998431709558478
    },
-   "state_entropy": 0.0015502444116205195
+   "state_entropy": 0.001575672602223395
   },
   "NODE_0000008": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999974419152633
+    "North-Branford": 0.999997773072539
    },
-   "city_entropy": 4.0886575425035204e-05,
+   "city_entropy": 3.562267121076655e-05,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999970423859732
+    "New-Haven": 0.9999974034246809
    },
-   "county_entropy": 4.6064669051811076e-05,
+   "county_entropy": 4.034806410775405e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.999979705936857
+    "Connecticut": 0.9999797626381688
    },
-   "state_entropy": 0.0002558868270898414
+   "state_entropy": 0.0002552297331084525
   },
   "NODE_0000010": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999966458923601
+    "North-Branford": 0.9999970121970696
    },
-   "city_entropy": 5.194890848238857e-05,
+   "city_entropy": 4.6215541792474956e-05,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999959539804213
+    "New-Haven": 0.9999963359534256
    },
-   "county_entropy": 6.0818551024019605e-05,
+   "county_entropy": 5.480801481411648e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999757875325032
+    "Connecticut": 0.9999757617790105
    },
-   "state_entropy": 0.00029925010746430106
+   "state_entropy": 0.0002995090101813599
   },
   "NODE_0000011": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999999999999913
+    "North-Branford": 0.9999999999999926
    },
-   "city_entropy": -7.503795515964335e-13,
+   "city_entropy": -7.849187209279044e-13,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999999999999819
+    "New-Haven": 0.9999999999999833
    },
-   "county_entropy": -4.819503859827193e-13,
+   "county_entropy": -5.233868300530832e-13,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999841058
+    "Connecticut": 0.9999999999841692
    },
-   "state_entropy": 4.11855694842811e-10
+   "state_entropy": 4.1025933850554964e-10
   },
   "NODE_0000012": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999974610351234
+    "North-Branford": 0.9999977895591889
    },
-   "city_entropy": 4.060150759963437e-05,
+   "city_entropy": 3.537674502538273e-05,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999970677128323
+    "New-Haven": 0.9999974257883768
    },
-   "county_entropy": 4.569759374576655e-05,
+   "county_entropy": 4.0024893880291375e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999802650507361
+    "Connecticut": 0.9999803200542844
    },
-   "state_entropy": 0.00024946588100585717
+   "state_entropy": 0.00024882672116913646
   },
-  "NODE_0000017": {
+  "NODE_0000019": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999974610351234
+    "North-Branford": 0.9999977895591889
    },
-   "city_entropy": 4.060150759963437e-05,
+   "city_entropy": 3.537674502538273e-05,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999970677128323
+    "New-Haven": 0.9999974257883768
    },
-   "county_entropy": 4.569759374576655e-05,
+   "county_entropy": 4.0024893880291375e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999802650507361
+    "Connecticut": 0.9999803200542844
    },
-   "state_entropy": 0.00024946588100585717
+   "state_entropy": 0.00024882672116913646
   },
-  "NODE_0000020": {
+  "NODE_0000021": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999974610351234
+    "North-Branford": 0.9999977895591889
    },
-   "city_entropy": 4.060150759963437e-05,
+   "city_entropy": 3.537674502538273e-05,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999970677128323
+    "New-Haven": 0.9999974257883768
    },
-   "county_entropy": 4.569759374576655e-05,
+   "county_entropy": 4.0024893880291375e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999802650507361
+    "Connecticut": 0.9999803200542844
    },
-   "state_entropy": 0.00024946588100585717
+   "state_entropy": 0.00024882672116913646
   },
   "NODE_0000024": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999999815221761
+    "North-Branford": 0.9999999839820553
    },
-   "city_entropy": 3.845071236787821e-07,
+   "city_entropy": 3.334982964531764e-07,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999999753479752
+    "New-Haven": 0.9999999781146869
    },
-   "county_entropy": 4.991780895253102e-07,
+   "county_entropy": 4.419714720975408e-07,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999994275975458
+    "Connecticut": 0.9999994294022146
    },
-   "state_entropy": 9.162450403860573e-06
+   "state_entropy": 9.135399872155407e-06
   },
   "NODE_0000026": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999974608943945
+    "North-Branford": 0.9999977894381511
    },
-   "city_entropy": 4.060359371549504e-05,
+   "city_entropy": 3.53785396526232e-05,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999970674975288
+    "New-Haven": 0.9999974255959029
    },
-   "county_entropy": 4.570069514717077e-05,
+   "county_entropy": 4.00276575846612e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999802492297141
+    "Connecticut": 0.9999803042890139
    },
-   "state_entropy": 0.0002496461351728062
+   "state_entropy": 0.00024900638493845944
   },
   "NODE_0000027": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999974419874219
+    "North-Branford": 0.9999977731387352
    },
-   "city_entropy": 4.0885539825680236e-05,
+   "city_entropy": 3.562172012827772e-05,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999970425091618
+    "New-Haven": 0.9999974035430079
    },
-   "county_entropy": 4.6062946666806184e-05,
+   "county_entropy": 4.034641208545876e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999797090658591
+    "Connecticut": 0.9999797658414437
    },
-   "state_entropy": 0.00025585184747801244
+   "state_entropy": 0.00025519391400982754
   },
   "NODE_0000029": {
    "city": "Long-Island",
    "city_confidence": {
-    "Groton": 0.005204154688878636,
-    "Long-Island": 0.9690785148400926,
-    "Lyme": 0.007395526184032594,
-    "Nantucket": 0.0115818551144289
+    "Groton": 0.005132830227592757,
+    "Long-Island": 0.9702513570561728,
+    "Lyme": 0.007090371741769145,
+    "Nantucket": 0.01127182413137376
    },
-   "city_entropy": 0.18842858711235277,
+   "city_entropy": 0.18141066297084013,
    "county": "Suffolk",
    "county_confidence": {
-    "Fairfield": 0.044849687078119586,
-    "Nantucket": 0.02973748626233198,
-    "New-London": 0.05331459849860715,
-    "Suffolk": 0.8602737521065232
+    "Fairfield": 0.04526265905599884,
+    "Nantucket": 0.0294739453800612,
+    "New-London": 0.053984631002328115,
+    "Suffolk": 0.8603427330839759
    },
-   "county_entropy": 0.5896492819448351,
+   "county_entropy": 0.5853321912005216,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9246728558028827,
-    "Massachusetts": 0.0024662866684383995,
-    "New-York": 0.07275700160159762
+    "Connecticut": 0.9229205250391103,
+    "Massachusetts": 0.0025127080364344026,
+    "New-York": 0.07445847567684545
    },
-   "state_entropy": 0.2788479717332158
+   "state_entropy": 0.2834671861599678
   },
   "NODE_0000030": {
    "city": "Long-Island",
    "city_confidence": {
-    "Groton": 0.214481587949329,
-    "Long-Island": 0.4433211629414007,
-    "Lyme": 0.3075925027703863,
-    "Nantucket": 0.008134099573689487
+    "Groton": 0.2103150936376734,
+    "Long-Island": 0.4652849530526819,
+    "Lyme": 0.2929805540212462,
+    "Nantucket": 0.008331107091941218
    },
-   "city_entropy": 1.2358941367714569,
+   "city_entropy": 1.2073951192373558,
    "county": "New-London",
    "county_confidence": {
-    "Fairfield": 0.0015110582489178469,
-    "Nantucket": 0.0010117577438026445,
-    "New-London": 0.9670559593438512,
-    "Suffolk": 0.029092762115438243
+    "Fairfield": 0.0017393476324205931,
+    "Nantucket": 0.0011501901510521072,
+    "New-London": 0.9623822476272476,
+    "Suffolk": 0.03357641608602132
    },
-   "county_entropy": 0.1626245346902419,
+   "county_entropy": 0.1786279578808065,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9927791909989927,
-    "New-York": 0.006928314688797827
+    "Connecticut": 0.9915793360678399,
+    "New-York": 0.008079144932092214
    },
-   "state_entropy": 0.04419023449662347
+   "state_entropy": 0.05023503025995722
   },
   "NODE_0000031": {
    "city": "Groton",
    "city_confidence": {
-    "Groton": 0.9980616660152246,
-    "Long-Island": 0.0011373168578298674
+    "Groton": 0.9981851060960166,
+    "Long-Island": 0.0011143152491884002
    },
-   "city_entropy": 0.016321530187154494,
+   "city_entropy": 0.015268562920894995,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.9998804157894557
+    "New-London": 0.9998733207480487
    },
-   "county_entropy": 0.001298939473645935,
+   "county_entropy": 0.0013553032137262194,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.999866134158138
+    "Connecticut": 0.9998555525774026
    },
-   "state_entropy": 0.0014004058755153212
+   "state_entropy": 0.0014995651839555294
   },
   "NODE_0000032": {
    "city": "Groton",
    "city_confidence": {
-    "Groton": 0.9999836573468974
+    "Groton": 0.9999849209788052
    },
-   "city_entropy": 0.00021802381165979292,
+   "city_entropy": 0.00020082966759467566,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.9999959377805407
+    "New-London": 0.999996212862841
    },
-   "county_entropy": 6.11557281812505e-05,
+   "county_entropy": 5.656680972658677e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999765052695356
+    "Connecticut": 0.9999762620220415
    },
-   "state_entropy": 0.00029174448164006304
+   "state_entropy": 0.0002944307071144511
   },
   "NODE_0000033": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.999977494636696
+    "Lyme": 0.9999796181983247
    },
-   "city_entropy": 0.00028287494514849047,
+   "city_entropy": 0.0002570730575267977,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.9999982718655981
+    "New-London": 0.9999982278904965
    },
-   "county_entropy": 2.5582158669032042e-05,
+   "county_entropy": 2.607799731098391e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999951754043045
+    "Connecticut": 0.9999948929816656
    },
-   "state_entropy": 6.534278488651811e-05
+   "state_entropy": 6.889551778080839e-05
   },
   "NODE_0000035": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.9999974665372063
+    "Lyme": 0.9999977855671569
    },
-   "city_entropy": 4.04084684555494e-05,
+   "city_entropy": 3.534047600235103e-05,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.9999971003521433
+    "New-London": 0.9999974453883559
    },
-   "county_entropy": 4.521167304084285e-05,
+   "county_entropy": 3.9730195390369195e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999801249644183
+    "Connecticut": 0.9999801718813006
    },
-   "state_entropy": 0.0002510420609593004
+   "state_entropy": 0.00025049443281086807
   },
   "NODE_0000036": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.9999973528232415
+    "Lyme": 0.9999977138937979
    },
-   "city_entropy": 4.211805230530465e-05,
+   "city_entropy": 3.6419158700427784e-05,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.9999969509413968
+    "New-London": 0.9999973501398207
    },
-   "county_entropy": 4.738962680469997e-05,
+   "county_entropy": 4.1115565588046526e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999791211718572
+    "Connecticut": 0.999979444050195
    },
-   "state_entropy": 0.0002627011649760485
+   "state_entropy": 0.00025895497816966754
   },
   "NODE_0000037": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.9999974479257268
+    "Lyme": 0.999997769445899
    },
-   "city_entropy": 4.0684855929130604e-05,
+   "city_entropy": 3.557995185313807e-05,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.9999970754067959
+    "New-London": 0.999997423260555
    },
-   "county_entropy": 4.557342311897808e-05,
+   "county_entropy": 4.0050051730149764e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999795479305937
+    "Connecticut": 0.9999795964311838
    },
-   "state_entropy": 0.00025766213984909604
+   "state_entropy": 0.00025709764467310545
   },
   "NODE_0000048": {
    "city": "Long-Island",
    "city_confidence": {
-    "Bridgeport": 0.0017182772032725716,
-    "Long-Island": 0.9942983143910785
+    "Bridgeport": 0.001612233116727109,
+    "Long-Island": 0.9946871314578981
    },
-   "city_entropy": 0.04634731874829079,
+   "city_entropy": 0.043420451221775645,
    "county": "Suffolk",
    "county_confidence": {
-    "Fairfield": 0.09136118732126575,
-    "Nantucket": 0.008525919000323167,
-    "New-London": 0.015113202219034914,
-    "Suffolk": 0.8804469250995897
+    "Fairfield": 0.09141256746178995,
+    "Nantucket": 0.008410370449390123,
+    "New-London": 0.015221120300997034,
+    "Suffolk": 0.8808976790421426
    },
-   "county_entropy": 0.4638638485101945,
+   "county_entropy": 0.4598226538795543,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9031157434638134,
-    "New-York": 0.09585911775101616
+    "Connecticut": 0.9011768649492161,
+    "New-York": 0.09778646326351963
    },
-   "state_entropy": 0.32455603856684345
+   "state_entropy": 0.3289429836252176
   },
   "NODE_0000049": {
    "city": "Long-Island",
    "city_confidence": {
-    "Bridgeport": 0.014753786814933568,
-    "Cape-Elizabeth": 0.004755030654004795,
-    "Long-Island": 0.970058161373316,
-    "Wells": 0.004755035517666764
+    "Bridgeport": 0.014070450239274218,
+    "Cape-Elizabeth": 0.00458148638239889,
+    "Long-Island": 0.9714727162681622,
+    "Wells": 0.00458148824881766
    },
-   "city_entropy": 0.17601157604956835,
+   "city_entropy": 0.16862351123343508,
    "county": "Fairfield",
    "county_confidence": {
-    "Cumberland": 0.002983310838718476,
-    "Fairfield": 0.6107365177908812,
-    "Suffolk": 0.38413526132498704,
-    "York": 0.0015357662730057693
+    "Cumberland": 0.0029636614473984267,
+    "Fairfield": 0.6067288249154668,
+    "Suffolk": 0.38822513804138303,
+    "York": 0.0015263875928802266
    },
-   "county_entropy": 0.701214215774286,
+   "county_entropy": 0.7023691039396539,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9471499306804941,
-    "Maine": 0.0016398263672498408,
-    "New-York": 0.05118855805851656
+    "Connecticut": 0.945450470068088,
+    "Maine": 0.0016496272925764486,
+    "New-York": 0.05287795604478908
    },
-   "state_entropy": 0.2143222200425715
+   "state_entropy": 0.21928777065147897
   },
   "NODE_0000051": {
    "city": "Long-Island",
    "city_confidence": {
-    "Bridgeport": 0.007026408054445637,
-    "Cape-Elizabeth": 0.278545613587653,
-    "Long-Island": 0.42335479294273587,
-    "Wells": 0.27854574752179867
+    "Bridgeport": 0.006680337071491232,
+    "Cape-Elizabeth": 0.28092328705044933,
+    "Long-Island": 0.42102340596090865,
+    "Wells": 0.28092327901349895
    },
-   "city_entropy": 1.18768430489276,
+   "city_entropy": 1.1751707904744844,
    "county": "Cumberland",
    "county_confidence": {
-    "Cumberland": 0.3921439636677251,
-    "Fairfield": 0.18753176633925378,
-    "Suffolk": 0.10246607748536718,
-    "York": 0.31026843711040514
+    "Cumberland": 0.3952196492508326,
+    "Fairfield": 0.18370385123089272,
+    "Suffolk": 0.10236066803409687,
+    "York": 0.3129827436260483
    },
-   "county_entropy": 1.3250895925707593,
+   "county_entropy": 1.3109092043279102,
    "state": "Maine",
    "state_confidence": {
-    "Connecticut": 0.009283312263582486,
-    "Maine": 0.9902759946233841
+    "Connecticut": 0.008880355109016323,
+    "Maine": 0.9906871773974903
    },
-   "state_entropy": 0.056651121754515484
+   "state_entropy": 0.05469224931875242
   },
   "NODE_0000052": {
    "city": "Long-Island",
    "city_confidence": {
-    "Bridgeport": 0.004770846630491204,
-    "Long-Island": 0.9689195775098312,
-    "Redding": 0.022272669131821958,
-    "Wells": 0.0016029271960237674
+    "Bridgeport": 0.004461834081779358,
+    "Long-Island": 0.9706315363607,
+    "Redding": 0.02123021198853814,
+    "Wells": 0.0015134287373185277
    },
-   "city_entropy": 0.16868338733933438,
+   "city_entropy": 0.16018703505088092,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.6115634710636845,
-    "Suffolk": 0.38688721167212065
+    "Fairfield": 0.6073628240735531,
+    "Suffolk": 0.39119221279343874
    },
-   "county_entropy": 0.6802426649310886,
+   "county_entropy": 0.6812304562473861,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9263847803807518,
-    "New-York": 0.07313098120539367
+    "Connecticut": 0.9241577383738889,
+    "New-York": 0.07536496322876457
    },
-   "state_entropy": 0.2660036744460237
+   "state_entropy": 0.2715836103583263
   },
   "NODE_0000053": {
    "city": "Redding",
    "city_confidence": {
-    "Redding": 0.9999305638089245
+    "Redding": 0.9999314004531688
    },
-   "city_entropy": 0.0007463560090844485,
+   "city_entropy": 0.000736591797633499,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999197107891301
+    "Fairfield": 0.9999186351002243
    },
-   "county_entropy": 0.0008435940561234227,
+   "county_entropy": 0.0008528533719934817,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999286534700363
+    "Connecticut": 0.9999255634831025
    },
-   "state_entropy": 0.0007556176937455987
+   "state_entropy": 0.0007850895462593862
   },
   "NODE_0000055": {
    "city": "Redding",
    "city_confidence": {
-    "Redding": 0.9999973102613416
+    "Redding": 0.9999975907068611
    },
-   "city_entropy": 4.229626516947643e-05,
+   "city_entropy": 3.782042727315711e-05,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999936602746856
+    "Fairfield": 0.9999940528787314
    },
-   "county_entropy": 9.141367636454474e-05,
+   "county_entropy": 8.522735996813442e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999775238402983
+    "Connecticut": 0.9999774865656929
    },
-   "state_entropy": 0.00028008515346393477
+   "state_entropy": 0.00028046900880595996
   },
   "NODE_0000056": {
    "city": "Redding",
    "city_confidence": {
-    "Redding": 0.9999978801637256
+    "Redding": 0.9999981475664402
    },
-   "city_entropy": 3.428095248703108e-05,
+   "city_entropy": 2.997456570108822e-05,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999947395955833
+    "Fairfield": 0.9999951453141425
    },
-   "county_entropy": 7.764978121640041e-05,
+   "county_entropy": 7.129868063526766e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999791034239751
+    "Connecticut": 0.9999791590548751
    },
-   "state_entropy": 0.0002627713634754512
+   "state_entropy": 0.00026212732279088025
   },
   "NODE_0000058": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9906757905112402,
-    "Long-Island": 0.008937831900970711
+    "Bridgeport": 0.9908176758157247,
+    "Long-Island": 0.008844842022111686
    },
-   "city_entropy": 0.055269935085714705,
+   "city_entropy": 0.05430084405690041,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9943964161527394,
-    "Suffolk": 0.005467480288993036
+    "Fairfield": 0.9943714726689283,
+    "Suffolk": 0.005507692882188591
    },
-   "county_entropy": 0.03550412827984646,
+   "county_entropy": 0.03552955557314774,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9983739400860171,
-    "New-York": 0.0015825678909520313
+    "Connecticut": 0.9983224693079228,
+    "New-York": 0.0016336871579598227
    },
-   "state_entropy": 0.012285535829474423
+   "state_entropy": 0.012618031871224601
   },
   "NODE_0000060": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9999966163020263
+    "Bridgeport": 0.9999969848693068
    },
-   "city_entropy": 5.2369735461498715e-05,
+   "city_entropy": 4.66028090429631e-05,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999936860969747
+    "Fairfield": 0.9999940929268648
    },
-   "county_entropy": 9.111204561566826e-05,
+   "county_entropy": 8.474308201987875e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999782464612705
+    "Connecticut": 0.9999782574601364
    },
-   "state_entropy": 0.000272126834351111
+   "state_entropy": 0.00027197956269749796
   },
   "NODE_0000061": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9999999812781183
+    "Bridgeport": 0.9999999837684221
    },
-   "city_entropy": 3.892773374754894e-07,
+   "city_entropy": 3.3767446547413064e-07,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999999407239905
+    "Fairfield": 0.9999999442121809
    },
-   "county_entropy": 1.124843745381659e-06,
+   "county_entropy": 1.0544466601424755e-06,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999994261823835
+    "Connecticut": 0.9999994279435479
    },
-   "state_entropy": 9.183125827446466e-06
+   "state_entropy": 9.156715167737973e-06
   },
   "NODE_0000062": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.999997445454125
+    "Bridgeport": 0.9999977762603864
    },
-   "city_entropy": 4.083486534129036e-05,
+   "city_entropy": 3.557605325284774e-05,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999948739977164
+    "Fairfield": 0.9999952723676819
    },
-   "county_entropy": 7.583480275952241e-05,
+   "county_entropy": 6.959056671094244e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999802491876731
+    "Connecticut": 0.9999803042456941
    },
-   "state_entropy": 0.00024964660575348824
+   "state_entropy": 0.00024900686995030805
   },
   "NODE_0000064": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9999991553685851
+    "Bridgeport": 0.99999919268634
    },
-   "city_entropy": 1.292909923358598e-05,
+   "city_entropy": 1.2360872098944852e-05,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999987647101608
+    "Fairfield": 0.9999987739876868
    },
-   "county_entropy": 1.8309878216877245e-05,
+   "county_entropy": 1.8146705556493617e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999978088709865
+    "Connecticut": 0.9999977600309548
    },
-   "state_entropy": 3.133708386403325e-05
+   "state_entropy": 3.1975620195464895e-05
   },
   "NODE_0000067": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9999974262940251
+    "Bridgeport": 0.9999977597410851
    },
-   "city_entropy": 4.1120423786001604e-05,
+   "city_entropy": 3.582237421231721e-05,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999948148034853
+    "Fairfield": 0.9999952168844713
    },
-   "county_entropy": 7.66386076257182e-05,
+   "county_entropy": 7.03404960727035e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999797076016224
+    "Connecticut": 0.9999797643313281
    },
-   "state_entropy": 0.0002558682715677812
+   "state_entropy": 0.00025521085392328366
   },
   "NODE_0000069": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9999974263669333
+    "Bridgeport": 0.9999977598088552
    },
-   "city_entropy": 4.111938235963465e-05,
+   "city_entropy": 3.58214042491392e-05,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999948150505736
+    "Fairfield": 0.9999952171278543
    },
-   "county_entropy": 7.663538875465209e-05,
+   "county_entropy": 7.033732753783332e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999797095280667
+    "Connecticut": 0.9999797663009808
    },
-   "state_entropy": 0.00025584670196190056
+   "state_entropy": 0.0002551887967188359
   },
   "NODE_0000070": {
    "city": "Bridgeport",
    "city_confidence": {
     "Bridgeport": 1.0
    },
-   "city_entropy": -9.981272119045514e-13,
+   "city_entropy": -9.98405397871924e-13,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999999999999983
+    "Fairfield": 0.9999999999999984
    },
-   "county_entropy": -9.526258863567312e-13,
+   "county_entropy": -9.546928475370692e-13,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999995766
+    "Connecticut": 0.9999999999995786
    },
-   "state_entropy": 1.0980269386697064e-11
+   "state_entropy": 1.0927116664168295e-11
   },
   "NODE_0000076": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9999973991625194
+    "Bridgeport": 0.9999977357226202
    },
-   "city_entropy": 4.151957897351653e-05,
+   "city_entropy": 3.617579087804833e-05,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999947375179907
+    "Fairfield": 0.9999951435520474
    },
-   "county_entropy": 7.76772797948538e-05,
+   "county_entropy": 7.132200220934288e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999790854612342
+    "Connecticut": 0.9999791429487752
    },
-   "state_entropy": 0.0002629782991409967
+   "state_entropy": 0.0002623135597605772
   },
   "NODE_0000077": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9999974262939971
+    "Bridgeport": 0.9999977597410692
    },
-   "city_entropy": 4.1120424197389427e-05,
+   "city_entropy": 3.582237444453651e-05,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.999994814803114
+    "Fairfield": 0.9999952168842334
    },
-   "county_entropy": 7.66386125281759e-05,
+   "county_entropy": 7.034049921275927e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999797075609909
+    "Connecticut": 0.9999797643040662
    },
-   "state_entropy": 0.0002558687286211038
+   "state_entropy": 0.00025521116064199215
   },
   "NODE_0000078": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9999974066250195
+    "Bridgeport": 0.9999977429167449
    },
-   "city_entropy": 4.1413408972381654e-05,
+   "city_entropy": 3.6073120313500006e-05,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.999994752946477
+    "Fairfield": 0.9999951595736721
    },
-   "county_entropy": 7.747742978247873e-05,
+   "county_entropy": 7.111419795800044e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999791042314813
+    "Connecticut": 0.9999791786198615
    },
-   "state_entropy": 0.00026277566718908233
+   "state_entropy": 0.0002619194928761225
   },
   "NODE_0000079": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9999999814894087
+    "Bridgeport": 0.9999999839552274
    },
-   "city_entropy": 3.851702677760431e-07,
+   "city_entropy": 3.3404241121493737e-07,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999999416646135
+    "Fairfield": 0.9999999451153133
    },
-   "county_entropy": 1.1082547736477585e-06,
+   "county_entropy": 1.0385593139705937e-06,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999994429151421
+    "Connecticut": 0.9999994446796112
    },
-   "state_entropy": 8.934331921730379e-06
+   "state_entropy": 8.907833213158314e-06
   },
   "NODE_0000086": {
    "city": "Long-Island",
    "city_confidence": {
-    "Groton": 0.10953075370181796,
-    "Long-Island": 0.6968605051990463,
-    "Lyme": 0.15650234068523836,
-    "Nantucket": 0.011227445767777641
+    "Groton": 0.10754671839021936,
+    "Long-Island": 0.7099386871638396,
+    "Lyme": 0.14933030729334776,
+    "Nantucket": 0.011112692774665462
    },
-   "city_entropy": 0.9748838321545641,
+   "city_entropy": 0.9361460301675494,
    "county": "New-London",
    "county_confidence": {
-    "Fairfield": 0.02670800402969131,
-    "Nantucket": 0.017781716159156483,
-    "New-London": 0.5053989298451885,
-    "Suffolk": 0.4336809381604908
+    "Fairfield": 0.02703691483616688,
+    "Nantucket": 0.017735687720258825,
+    "New-London": 0.5042211312377866,
+    "Suffolk": 0.437987512775465
    },
-   "county_entropy": 0.963358383160613,
+   "county_entropy": 0.9444119491840254,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9580942644638408,
-    "Massachusetts": 0.001586868430766231,
-    "New-York": 0.039968163123697505
+    "Connecticut": 0.9566233208200563,
+    "Massachusetts": 0.0016284722793871295,
+    "New-York": 0.04138885467135177
    },
-   "state_entropy": 0.18271853154559792
+   "state_entropy": 0.1875399706153536
   },
   "NODE_0000087": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.9999976018177359
+    "Lyme": 0.9999979083113696
    },
-   "city_entropy": 3.848421127433672e-05,
+   "city_entropy": 3.35894837372935e-05,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.9999970431715834
+    "New-London": 0.9999973970819429
    },
-   "county_entropy": 4.604979742590155e-05,
+   "county_entropy": 4.043705498282112e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999785277749113
+    "Connecticut": 0.9999785880722833
    },
-   "state_entropy": 0.0002693601825513667
+   "state_entropy": 0.00026866527896776167
   },
   "NODE_0000088": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.9999976035602983
+    "Lyme": 0.9999979098510423
    },
-   "city_entropy": 3.845894315956992e-05,
+   "city_entropy": 3.356712920772034e-05,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.9999970435722491
+    "New-London": 0.9999973974629307
    },
-   "county_entropy": 4.6044105646043246e-05,
+   "county_entropy": 4.043166065031793e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999785492816365
+    "Connecticut": 0.9999786097658215
    },
-   "state_entropy": 0.00026911779189008663
+   "state_entropy": 0.0002684207520088591
   },
   "NODE_0000089": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.99999763756114
+    "Lyme": 0.999997939240177
    },
-   "city_entropy": 3.794958655582921e-05,
+   "city_entropy": 3.3126694592834185e-05,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.9999970930941791
+    "New-London": 0.9999974413433902
    },
-   "county_entropy": 4.5326043193022285e-05,
+   "county_entropy": 3.97973932637125e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999796928636571
+    "Connecticut": 0.9999797496977039
    },
-   "state_entropy": 0.00025603609923849943
+   "state_entropy": 0.0002553775467422517
   },
   "NODE_0000090": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.9999976206923084
+    "Lyme": 0.9999979246586816
    },
-   "city_entropy": 3.8202369781769825e-05,
+   "city_entropy": 3.33452832609696e-05,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.9999970685495511
+    "New-London": 0.9999974195966307
    },
-   "county_entropy": 4.5682064614869655e-05,
+   "county_entropy": 4.0111844847385785e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999791373733871
+    "Connecticut": 0.9999791959782544
    },
-   "state_entropy": 0.0002624002823468145
+   "state_entropy": 0.00026172302642160964
   },
   "NODE_0000091": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.9999976376858432
+    "Lyme": 0.999997939347216
    },
-   "city_entropy": 3.7947727485387165e-05,
+   "city_entropy": 3.312509876044389e-05,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.9999970933095947
+    "New-London": 0.9999974415359233
    },
-   "county_entropy": 4.532293621390962e-05,
+   "county_entropy": 3.979462588766542e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999797091013279
+    "Connecticut": 0.999979765877506
    },
-   "state_entropy": 0.0002558515285977178
+   "state_entropy": 0.00025519358787182226
   },
   "NODE_0000092": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.9999976034357158
+    "Lyme": 0.9999979097441075
    },
-   "city_entropy": 3.8460798589936436e-05,
+   "city_entropy": 3.356872190925844e-05,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.9999970433568552
+    "New-London": 0.9999973972704194
    },
-   "county_entropy": 4.6047208418344325e-05,
+   "county_entropy": 4.043442420359371e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999785330493584
+    "Connecticut": 0.9999785935916232
    },
-   "state_entropy": 0.00026930134014853505
+   "state_entropy": 0.00026860368992319503
   },
   "NODE_0000093": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.9999976206913701
+    "Lyme": 0.9999979246578804
    },
-   "city_entropy": 3.820238368868475e-05,
+   "city_entropy": 3.334529513290281e-05,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.999997068547621
+    "New-London": 0.9999974195948893
    },
-   "county_entropy": 4.5682092268688696e-05,
+   "county_entropy": 4.0111869714976675e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999791369009371
+    "Connecticut": 0.9999791955076702
    },
-   "state_entropy": 0.00026240560500315137
+   "state_entropy": 0.00026172832939958397
   },
   "NODE_0000094": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.9999976376858358
+    "Lyme": 0.9999979393472102
    },
-   "city_entropy": 3.7947727591764264e-05,
+   "city_entropy": 3.3125098850513785e-05,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.9999970933095772
+    "New-London": 0.9999974415359072
    },
-   "county_entropy": 4.5322936465016614e-05,
+   "county_entropy": 3.9794626115805306e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999797090877298
+    "Connecticut": 0.9999797658639663
    },
-   "state_entropy": 0.000255851681571333
+   "state_entropy": 0.00025519374022548146
   },
   "NODE_0000095": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.9999976206913701
+    "Lyme": 0.9999979246578804
    },
-   "city_entropy": 3.820238368868475e-05,
+   "city_entropy": 3.334529513290281e-05,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.999997068547621
+    "New-London": 0.9999974195948893
    },
-   "county_entropy": 4.5682092268688696e-05,
+   "county_entropy": 4.0111869714976675e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999791369009371
+    "Connecticut": 0.9999791955076702
    },
-   "state_entropy": 0.00026240560500315137
+   "state_entropy": 0.00026172832939958397
   },
   "NODE_0000096": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.9999976376858358
+    "Lyme": 0.9999979393472102
    },
-   "city_entropy": 3.7947727591764264e-05,
+   "city_entropy": 3.3125098850513785e-05,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.9999970933095772
+    "New-London": 0.9999974415359072
    },
-   "county_entropy": 4.5322936465016614e-05,
+   "county_entropy": 3.9794626115805306e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999797090877298
+    "Connecticut": 0.9999797658639663
    },
-   "state_entropy": 0.000255851681571333
+   "state_entropy": 0.00025519374022548146
   },
   "NODE_0000097": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999966193121682
+    "North-Branford": 0.9999969886879557
    },
-   "city_entropy": 5.2329934107835814e-05,
+   "city_entropy": 4.65519778602776e-05,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999959171599194
+    "New-Haven": 0.9999963023885812
    },
-   "county_entropy": 6.132950819006118e-05,
+   "county_entropy": 5.527131192136495e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999750974945151
+    "Connecticut": 0.9999750711180371
    },
-   "state_entropy": 0.0003069818600115999
+   "state_entropy": 0.0003072460757634801
   },
   "NODE_0000098": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999974154785732
+    "North-Branford": 0.9999977496862199
    },
-   "city_entropy": 4.1275970740094794e-05,
+   "city_entropy": 3.5967185739404254e-05,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999970057833324
+    "New-Haven": 0.9999973700536223
    },
-   "county_entropy": 4.658856753626818e-05,
+   "county_entropy": 4.082423646477462e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999790311908349
+    "Connecticut": 0.9999790872145818
    },
-   "state_entropy": 0.00026358036345536316
+   "state_entropy": 0.0002629322281504948
   },
   "NODE_0000099": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999974421281419
+    "North-Branford": 0.9999977732597652
    },
-   "city_entropy": 4.088345495461234e-05,
+   "city_entropy": 3.56199265639269e-05,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999970427244477
+    "New-Haven": 0.9999974037354655
    },
-   "county_entropy": 4.605984747941149e-05,
+   "county_entropy": 4.034365037642395e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.999979724874055
+    "Connecticut": 0.999979781593943
    },
-   "state_entropy": 0.00025567219394376434
+   "state_entropy": 0.0002550148485162756
   },
   "NODE_0000100": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999974419835997
+    "North-Branford": 0.9999977731361231
    },
-   "city_entropy": 4.088559824556034e-05,
+   "city_entropy": 3.562176026431572e-05,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999970425051121
+    "New-Haven": 0.9999974035404829
    },
-   "county_entropy": 4.6063007425822147e-05,
+   "county_entropy": 4.034645029353046e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999797095746947
+    "Connecticut": 0.9999797663490101
    },
-   "state_entropy": 0.00025584618133721174
+   "state_entropy": 0.0002551882603162269
   },
   "NODE_0000101": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999974229320855
+    "North-Branford": 0.9999977567130652
    },
-   "city_entropy": 4.116954252231678e-05,
+   "city_entropy": 3.586665032089083e-05,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999970172974113
+    "New-Haven": 0.9999973812926064
    },
-   "county_entropy": 4.642819872464869e-05,
+   "county_entropy": 4.0667809034321526e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999791541126306
+    "Connecticut": 0.9999792126576522
    },
-   "state_entropy": 0.00026221052943166173
+   "state_entropy": 0.0002615339042842031
   },
   "NODE_0000102": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999974227875779
+    "North-Branford": 0.9999977565894478
    },
-   "city_entropy": 4.117168414387788e-05,
+   "city_entropy": 3.586848267526918e-05,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999970170781233
+    "New-Haven": 0.9999973810976575
    },
-   "county_entropy": 4.6431355967337803e-05,
+   "county_entropy": 4.0670606659852665e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999791388113651
+    "Connecticut": 0.9999791974108019
    },
-   "state_entropy": 0.000262384083772314
+   "state_entropy": 0.0002617068849664373
   },
   "NODE_0000103": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999974229320856
+    "North-Branford": 0.9999977567130656
    },
-   "city_entropy": 4.116954252219718e-05,
+   "city_entropy": 3.58666503205505e-05,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999970172974111
+    "New-Haven": 0.9999973812926064
    },
-   "county_entropy": 4.642819872484795e-05,
+   "county_entropy": 4.066780903430046e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999791541126453
+    "Connecticut": 0.999979212657667
    },
-   "state_entropy": 0.0002622105292696267
+   "state_entropy": 0.00026153390412271354
   },
   "NODE_0000104": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999974419835999
+    "North-Branford": 0.999997773136123
    },
-   "city_entropy": 4.088559824444928e-05,
+   "city_entropy": 3.5621760263571075e-05,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999970425051125
+    "New-Haven": 0.999997403540483
    },
-   "county_entropy": 4.606300742317885e-05,
+   "county_entropy": 4.034645029128932e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999797095751738
+    "Connecticut": 0.9999797663494873
    },
-   "state_entropy": 0.00025584617596978193
+   "state_entropy": 0.0002551882549706989
   },
   "NODE_0000105": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9999098928762845
+    "Bridgeport": 0.999912835801538
    },
-   "city_entropy": 0.0009688681121278798,
+   "city_entropy": 0.000935360426258973,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999146334528876
+    "Fairfield": 0.99991505119229
    },
-   "county_entropy": 0.0009137804895566321,
+   "county_entropy": 0.0009057157225864261,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999303218286092
+    "Connecticut": 0.9999288215911349
    },
-   "state_entropy": 0.000763879429667221
+   "state_entropy": 0.0007783668535650816
   },
   "NODE_0000106": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9999973877589331
+    "Bridgeport": 0.9999977431076864
    },
-   "city_entropy": 4.1694396519240996e-05,
+   "city_entropy": 3.607032775175762e-05,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999946949802905
+    "Fairfield": 0.9999951605035918
    },
-   "county_entropy": 7.82635174054881e-05,
+   "county_entropy": 7.110187906405593e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999785823238098
+    "Connecticut": 0.999979196416674
    },
-   "state_entropy": 0.000268744171898662
+   "state_entropy": 0.0002617180794945057
   },
   "NODE_0000107": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9999974262201015
+    "Bridgeport": 0.9999977432354062
    },
-   "city_entropy": 4.112155892151808e-05,
+   "city_entropy": 3.6068435874645785e-05,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999948143236713
+    "Fairfield": 0.9999951612083494
    },
-   "county_entropy": 7.664513775693292e-05,
+   "county_entropy": 7.109247389061858e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999796937988358
+    "Connecticut": 0.9999792126281729
    },
-   "state_entropy": 0.0002560255357225478
+   "state_entropy": 0.0002615342349396315
   },
   "NODE_0000108": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9999974262201015
+    "Bridgeport": 0.999997759809474
    },
-   "city_entropy": 4.112155892151808e-05,
+   "city_entropy": 3.582139539129841e-05,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999948143236713
+    "Fairfield": 0.9999952171312343
    },
-   "county_entropy": 7.664513775693292e-05,
+   "county_entropy": 7.033728355312411e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999796937988358
+    "Connecticut": 0.999979766348628
    },
-   "state_entropy": 0.0002560255357225478
+   "state_entropy": 0.00025518826461097104
   },
   "NODE_0000109": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9999973991660093
+    "Bridgeport": 0.9999977357245985
    },
-   "city_entropy": 4.151952760909876e-05,
+   "city_entropy": 3.61757617612417e-05,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999947375463534
+    "Fairfield": 0.9999951435701784
    },
-   "county_entropy": 7.767690350500147e-05,
+   "county_entropy": 7.132176233420728e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.999979086872522
+    "Connecticut": 0.9999791438957824
    },
-   "state_entropy": 0.0002629624055147765
+   "state_entropy": 0.00026230289314711005
   },
   "NODE_0000110": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9999974070648346
+    "Bridgeport": 0.9999977431673978
    },
-   "city_entropy": 4.140689583492696e-05,
+   "city_entropy": 3.6069408193394806e-05,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999947551440672
+    "Fairfield": 0.9999951609672445
    },
-   "county_entropy": 7.744800320174815e-05,
+   "county_entropy": 7.109560714466627e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999791525258462
+    "Connecticut": 0.999979211023208
    },
-   "state_entropy": 0.0002622282001026853
+   "state_entropy": 0.0002615521100976026
   },
   "NODE_0000111": {
    "city": "Redding",
    "city_confidence": {
-    "Redding": 0.9999978990870356
+    "Redding": 0.9999981644272353
    },
-   "city_entropy": 3.399822620672831e-05,
+   "city_entropy": 2.972269169926995e-05,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999948148305409
+    "Fairfield": 0.9999952169073605
    },
-   "county_entropy": 7.663825092028609e-05,
+   "county_entropy": 7.034019431729679e-05,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999797080464404
+    "Connecticut": 0.9999797647347604
    },
-   "state_entropy": 0.0002558631800387994
+   "state_entropy": 0.00025520622364102666
   },
   "PV01": {
    "city": "Bridgeport",
@@ -1411,9 +1409,9 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV02": {
    "city": "Bridgeport",
@@ -1428,9 +1426,9 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV03": {
    "city": "North-Branford",
@@ -1445,9 +1443,9 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV04": {
    "city": "North-Branford",
@@ -1462,9 +1460,9 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV05": {
    "city": "North-Branford",
@@ -1479,9 +1477,9 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV06": {
    "city": "North-Branford",
@@ -1496,16 +1494,16 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV07": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 1.0
+    "Bridgeport": 0.9999999999999999
    },
-   "city_entropy": -1.000088900581841e-12,
+   "city_entropy": -9.99866855976916e-13,
    "county": "Fairfield",
    "county_confidence": {
     "Fairfield": 1.0
@@ -1537,9 +1535,9 @@
   "PV09": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 1.0
+    "North-Branford": 0.9999999999999999
    },
-   "city_entropy": -1.000088900581841e-12,
+   "city_entropy": -9.99866855976916e-13,
    "county": "New-Haven",
    "county_confidence": {
     "New-Haven": 1.0
@@ -1547,9 +1545,9 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV10": {
    "city": "North-Branford",
@@ -1690,9 +1688,9 @@
   "PV18": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.9999999999999999
+    "Lyme": 1.0
    },
-   "city_entropy": -9.99866855976916e-13,
+   "city_entropy": -1.000088900581841e-12,
    "county": "New-London",
    "county_confidence": {
     "New-London": 1.0
@@ -1707,9 +1705,9 @@
   "PV19": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 1.0
+    "Lyme": 0.9999999999999999
    },
-   "city_entropy": -1.000088900581841e-12,
+   "city_entropy": -9.99866855976916e-13,
    "county": "New-London",
    "county_confidence": {
     "New-London": 1.0
@@ -1724,9 +1722,9 @@
   "PV20": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 1.0
+    "Lyme": 0.9999999999999999
    },
-   "city_entropy": -1.000088900581841e-12,
+   "city_entropy": -9.99866855976916e-13,
    "county": "New-London",
    "county_confidence": {
     "New-London": 1.0
@@ -1741,9 +1739,9 @@
   "PV21": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.9999999999999999
+    "Lyme": 1.0
    },
-   "city_entropy": -9.99866855976916e-13,
+   "city_entropy": -1.000088900581841e-12,
    "county": "New-London",
    "county_confidence": {
     "New-London": 1.0
@@ -1775,9 +1773,9 @@
   "PV23": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.9999999999999999
+    "Lyme": 1.0
    },
-   "city_entropy": -9.99866855976916e-13,
+   "city_entropy": -1.000088900581841e-12,
    "county": "New-London",
    "county_confidence": {
     "New-London": 1.0
@@ -1785,16 +1783,16 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV24": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 1.0
+    "Lyme": 0.9999999999999999
    },
-   "city_entropy": -1.000088900581841e-12,
+   "city_entropy": -9.99866855976916e-13,
    "county": "New-London",
    "county_confidence": {
     "New-London": 1.0
@@ -1819,9 +1817,9 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV26": {
    "city": "Lyme",
@@ -1848,14 +1846,14 @@
    "city_entropy": -1.000088900581841e-12,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.9999999999999999
+    "New-London": 1.0
    },
-   "county_entropy": -9.99866855976916e-13,
+   "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV28": {
    "city": "Lyme",
@@ -1870,9 +1868,9 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 1.0
+    "Connecticut": 0.9999999999999999
    },
-   "state_entropy": -1.000088900581841e-12
+   "state_entropy": -9.99866855976916e-13
   },
   "PV29": {
    "city": "Lyme",
@@ -1882,21 +1880,21 @@
    "city_entropy": -1.000088900581841e-12,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 0.9999999999999999
+    "New-London": 1.0
    },
-   "county_entropy": -9.99866855976916e-13,
+   "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV30": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.9999999999999999
+    "Lyme": 1.0
    },
-   "city_entropy": -9.99866855976916e-13,
+   "city_entropy": -1.000088900581841e-12,
    "county": "New-London",
    "county_confidence": {
     "New-London": 1.0
@@ -1904,16 +1902,16 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV32": {
    "city": "Lyme",
    "city_confidence": {
-    "Lyme": 0.9999999999999999
+    "Lyme": 1.0
    },
-   "city_entropy": -9.99866855976916e-13,
+   "city_entropy": -1.000088900581841e-12,
    "county": "New-London",
    "county_confidence": {
     "New-London": 1.0
@@ -1921,9 +1919,9 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV33": {
    "city": "Lyme",
@@ -1938,9 +1936,9 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 1.0
+    "Connecticut": 0.9999999999999999
    },
-   "state_entropy": -1.000088900581841e-12
+   "state_entropy": -9.99866855976916e-13
   },
   "PV34": {
    "city": "Bridgeport",
@@ -1955,16 +1953,16 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV35": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9999999999999999
+    "Bridgeport": 1.0
    },
-   "city_entropy": -9.99866855976916e-13,
+   "city_entropy": -1.000088900581841e-12,
    "county": "Fairfield",
    "county_confidence": {
     "Fairfield": 1.0
@@ -2006,9 +2004,9 @@
    "county_entropy": -9.99866855976916e-13,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 1.0
+    "Connecticut": 0.9999999999999999
    },
-   "state_entropy": -1.000088900581841e-12
+   "state_entropy": -9.99866855976916e-13
   },
   "PV38": {
    "city": "North-Branford",
@@ -2047,9 +2045,9 @@
   "PV40": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 0.9999999999999999
+    "North-Branford": 1.0
    },
-   "city_entropy": -9.99866855976916e-13,
+   "city_entropy": -1.000088900581841e-12,
    "county": "New-Haven",
    "county_confidence": {
     "New-Haven": 1.0
@@ -2064,14 +2062,14 @@
   "PV41": {
    "city": "North-Branford",
    "city_confidence": {
-    "North-Branford": 1.0
+    "North-Branford": 0.9999999999999999
    },
-   "city_entropy": -1.000088900581841e-12,
+   "city_entropy": -9.99866855976916e-13,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999999999999999
+    "New-Haven": 1.0
    },
-   "county_entropy": -9.99866855976916e-13,
+   "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
     "Connecticut": 1.0
@@ -2098,9 +2096,9 @@
   "PV43": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 0.9999999999999999
+    "Bridgeport": 1.0
    },
-   "city_entropy": -9.99866855976916e-13,
+   "city_entropy": -1.000088900581841e-12,
    "county": "Fairfield",
    "county_confidence": {
     "Fairfield": 0.9999999999999999
@@ -2113,40 +2111,6 @@
    "state_entropy": -9.99866855976916e-13
   },
   "PV45": {
-   "city": "North-Branford",
-   "city_confidence": {
-    "North-Branford": 1.0
-   },
-   "city_entropy": -1.000088900581841e-12,
-   "county": "New-Haven",
-   "county_confidence": {
-    "New-Haven": 0.9999999999999999
-   },
-   "county_entropy": -9.99866855976916e-13,
-   "state": "Connecticut",
-   "state_confidence": {
-    "Connecticut": 1.0
-   },
-   "state_entropy": -1.000088900581841e-12
-  },
-  "PV46": {
-   "city": "North-Branford",
-   "city_confidence": {
-    "North-Branford": 1.0
-   },
-   "city_entropy": -1.000088900581841e-12,
-   "county": "New-Haven",
-   "county_confidence": {
-    "New-Haven": 0.9999999999999999
-   },
-   "county_entropy": -9.99866855976916e-13,
-   "state": "Connecticut",
-   "state_confidence": {
-    "Connecticut": 1.0
-   },
-   "state_entropy": -1.000088900581841e-12
-  },
-  "PV47": {
    "city": "North-Branford",
    "city_confidence": {
     "North-Branford": 0.9999999999999999
@@ -2163,6 +2127,40 @@
    },
    "state_entropy": -1.000088900581841e-12
   },
+  "PV46": {
+   "city": "North-Branford",
+   "city_confidence": {
+    "North-Branford": 1.0
+   },
+   "city_entropy": -1.000088900581841e-12,
+   "county": "New-Haven",
+   "county_confidence": {
+    "New-Haven": 1.0
+   },
+   "county_entropy": -1.000088900581841e-12,
+   "state": "Connecticut",
+   "state_confidence": {
+    "Connecticut": 0.9999999999999999
+   },
+   "state_entropy": -9.99866855976916e-13
+  },
+  "PV47": {
+   "city": "North-Branford",
+   "city_confidence": {
+    "North-Branford": 1.0
+   },
+   "city_entropy": -1.000088900581841e-12,
+   "county": "New-Haven",
+   "county_confidence": {
+    "New-Haven": 0.9999999999999999
+   },
+   "county_entropy": -9.99866855976916e-13,
+   "state": "Connecticut",
+   "state_confidence": {
+    "Connecticut": 1.0
+   },
+   "state_entropy": -1.000088900581841e-12
+  },
   "PV48": {
    "city": "Bridgeport",
    "city_confidence": {
@@ -2171,9 +2169,9 @@
    "city_entropy": -1.000088900581841e-12,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 1.0
+    "Fairfield": 0.9999999999999999
    },
-   "county_entropy": -1.000088900581841e-12,
+   "county_entropy": -9.99866855976916e-13,
    "state": "Connecticut",
    "state_confidence": {
     "Connecticut": 1.0
@@ -2188,9 +2186,9 @@
    "city_entropy": -1.000088900581841e-12,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 1.0
+    "Fairfield": 0.9999999999999999
    },
-   "county_entropy": -1.000088900581841e-12,
+   "county_entropy": -9.99866855976916e-13,
    "state": "Connecticut",
    "state_confidence": {
     "Connecticut": 1.0
@@ -2222,14 +2220,14 @@
    "city_entropy": -1.000088900581841e-12,
    "county": "New-Haven",
    "county_confidence": {
-    "New-Haven": 0.9999999999999999
+    "New-Haven": 1.0
    },
-   "county_entropy": -9.99866855976916e-13,
+   "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 1.0
+    "Connecticut": 0.9999999999999999
    },
-   "state_entropy": -1.000088900581841e-12
+   "state_entropy": -9.99866855976916e-13
   },
   "PV52": {
    "city": "Bridgeport",
@@ -2421,9 +2419,9 @@
   "PV63": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 1.0
+    "Bridgeport": 0.9999999999999999
    },
-   "city_entropy": -1.000088900581841e-12,
+   "city_entropy": -9.99866855976916e-13,
    "county": "Fairfield",
    "county_confidence": {
     "Fairfield": 1.0
@@ -2431,16 +2429,16 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV64": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 1.0
+    "Bridgeport": 0.9999999999999999
    },
-   "city_entropy": -1.000088900581841e-12,
+   "city_entropy": -9.99866855976916e-13,
    "county": "Fairfield",
    "county_confidence": {
     "Fairfield": 1.0
@@ -2448,16 +2446,16 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV65": {
    "city": "Bridgeport",
    "city_confidence": {
-    "Bridgeport": 1.0
+    "Bridgeport": 0.9999999999999999
    },
-   "city_entropy": -1.000088900581841e-12,
+   "city_entropy": -9.99866855976916e-13,
    "county": "Fairfield",
    "county_confidence": {
     "Fairfield": 1.0
@@ -2465,9 +2463,9 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV66": {
    "city": "North-Branford",
@@ -2482,9 +2480,9 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 1.0
+    "Connecticut": 0.9999999999999999
    },
-   "state_entropy": -1.000088900581841e-12
+   "state_entropy": -9.99866855976916e-13
   },
   "PV67": {
    "city": "North-Branford",
@@ -2499,9 +2497,9 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 1.0
+    "Connecticut": 0.9999999999999999
    },
-   "state_entropy": -1.000088900581841e-12
+   "state_entropy": -9.99866855976916e-13
   },
   "PV69": {
    "city": "Redding",
@@ -2533,16 +2531,16 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV71": {
    "city": "Redding",
    "city_confidence": {
-    "Redding": 0.9999999999999999
+    "Redding": 1.0
    },
-   "city_entropy": -9.99866855976916e-13,
+   "city_entropy": -1.000088900581841e-12,
    "county": "Fairfield",
    "county_confidence": {
     "Fairfield": 1.0
@@ -2562,9 +2560,9 @@
    "city_entropy": -9.99866855976916e-13,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999999999999999
+    "Fairfield": 1.0
    },
-   "county_entropy": -9.99866855976916e-13,
+   "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
     "Connecticut": 1.0
@@ -2579,9 +2577,9 @@
    "city_entropy": -9.99866855976916e-13,
    "county": "Fairfield",
    "county_confidence": {
-    "Fairfield": 0.9999999999999999
+    "Fairfield": 1.0
    },
-   "county_entropy": -9.99866855976916e-13,
+   "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
     "Connecticut": 1.0
@@ -2591,14 +2589,14 @@
   "PV74": {
    "city": "Groton",
    "city_confidence": {
-    "Groton": 0.9999999999999999
+    "Groton": 1.0
    },
-   "city_entropy": -9.99866855976916e-13,
+   "city_entropy": -1.000088900581841e-12,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 1.0
+    "New-London": 0.9999999999999999
    },
-   "county_entropy": -1.000088900581841e-12,
+   "county_entropy": -9.99866855976916e-13,
    "state": "Connecticut",
    "state_confidence": {
     "Connecticut": 0.9999999999999999
@@ -2608,14 +2606,14 @@
   "PV75": {
    "city": "Groton",
    "city_confidence": {
-    "Groton": 0.9999999999999999
+    "Groton": 1.0
    },
-   "city_entropy": -9.99866855976916e-13,
+   "city_entropy": -1.000088900581841e-12,
    "county": "New-London",
    "county_confidence": {
-    "New-London": 1.0
+    "New-London": 0.9999999999999999
    },
-   "county_entropy": -1.000088900581841e-12,
+   "county_entropy": -9.99866855976916e-13,
    "state": "Connecticut",
    "state_confidence": {
     "Connecticut": 0.9999999999999999
@@ -2635,9 +2633,9 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 1.0
+    "Connecticut": 0.9999999999999999
    },
-   "state_entropy": -1.000088900581841e-12
+   "state_entropy": -9.99866855976916e-13
   },
   "PV77": {
    "city": "North-Branford",
@@ -2652,11 +2650,28 @@
    "county_entropy": -1.000088900581841e-12,
    "state": "Connecticut",
    "state_confidence": {
-    "Connecticut": 0.9999999999999999
+    "Connecticut": 1.0
    },
-   "state_entropy": -9.99866855976916e-13
+   "state_entropy": -1.000088900581841e-12
   },
   "PV78": {
+   "city": "North-Branford",
+   "city_confidence": {
+    "North-Branford": 1.0
+   },
+   "city_entropy": -1.000088900581841e-12,
+   "county": "New-Haven",
+   "county_confidence": {
+    "New-Haven": 1.0
+   },
+   "county_entropy": -1.000088900581841e-12,
+   "state": "Connecticut",
+   "state_confidence": {
+    "Connecticut": 1.0
+   },
+   "state_entropy": -1.000088900581841e-12
+  },
+  "PV80": {
    "city": "North-Branford",
    "city_confidence": {
     "North-Branford": 1.0
@@ -2672,23 +2687,6 @@
     "Connecticut": 0.9999999999999999
    },
    "state_entropy": -9.99866855976916e-13
-  },
-  "PV80": {
-   "city": "North-Branford",
-   "city_confidence": {
-    "North-Branford": 0.9999999999999999
-   },
-   "city_entropy": -9.99866855976916e-13,
-   "county": "New-Haven",
-   "county_confidence": {
-    "New-Haven": 1.0
-   },
-   "county_entropy": -1.000088900581841e-12,
-   "state": "Connecticut",
-   "state_confidence": {
-    "Connecticut": 1.0
-   },
-   "state_entropy": -1.000088900581841e-12
   }
  }
 }

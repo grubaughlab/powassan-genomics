@@ -3,7 +3,7 @@ city	Cape-Elizabeth	43.563674	-70.200001
 city	ColumbiaCounty	42.2415027	-73.6723456
 city	Groton	41.335594	-72.033408
 city	Ipswich	42.679171	-70.841138
-city	Long-Island	40.8	-73.1
+city	Long-Island	40.80387	-73.30722
 city	Lyme	41.358801	-72.348391
 city	Nantucket	41.274539	-70.052327
 city	New-YorkState	43.299437	-74.217138
@@ -27,7 +27,7 @@ county	New-YorkState	43.299437	-74.217138
 county	Northwest	41.812242	-73.121405
 county	Putnam	41.426996	-73.760156
 county	Rockland	41.1519319	-74.0357266
-county	Suffolk	40.80000	-73.10000
+county	Suffolk	40.80387	-73.30722
 county	Westchester	41.136145	-73.688824
 county	York	43.322425	-70.580458
 state	Connecticut	41.625089	-72.691524

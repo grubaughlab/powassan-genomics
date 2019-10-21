@@ -207,8 +207,8 @@
         "longitude": -72.033408
       },
       "Long-Island": {
-        "latitude": 40.8,
-        "longitude": -73.1
+        "latitude": 40.80387,
+        "longitude": -73.30722
       },
       "Lyme": {
         "latitude": 41.358801,
@@ -253,8 +253,8 @@
         "longitude": -72.033408
       },
       "Suffolk": {
-        "latitude": 40.8,
-        "longitude": -73.1
+        "latitude": 40.80387,
+        "longitude": -73.30722
       },
       "York": {
         "latitude": 43.322425,
@@ -290,6 +290,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution in North America",
-  "updated": "17 Oct 2019",
-  "virus_count": 85
+  "updated": "21 Oct 2019",
+  "virus_count": 86
 }
