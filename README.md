@@ -5,12 +5,14 @@ In this project we aim to understand local transmission of Powassan virus by seq
 Ticks were collected at different locations by colleagues at the Connecticut Agricultural Experiment Station and the Maine Medical Center Research Institute. Metadata and sequencing statistics can be found [here](https://docs.google.com/spreadsheets/d/1vPY7roZUkjlYLiJvrNX6X5KLFuoD-c_5LbVUiRM02KQ/edit?usp=sharing).
 
 ## Sequencing
+### Sequencing platform
 * Library construction was performed using a [metagenomics approach](https://docs.google.com/document/d/1Tm-fABgAUdCHuBHnyW9az5tbEcoQW7AzjXeIdduDy-I/edit), without DNAse treatment.
 * Sequencing was performed on the NovaSeq, paired-end 150.
 
 ### Alignments
+* Geneious Prime was used to process sequence data.
 * PCR duplicates were removed using dedupe duplicates remover.
-* Sequences mapped to reference sequence using bowtie2 at high sensitivity.
+* Sequences were mapped to reference sequence using bowtie2 at high sensitivity.
 
 ### Consensus genomes
 * Created using a 75% treshold and at least 10X coverage
