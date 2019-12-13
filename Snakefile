@@ -10,6 +10,7 @@ colors = "config/colors.tsv",
 lat_longs = "config/lat_longs.tsv",
 auspice_config = "config/auspice_config.json"
 
+
 rule filter:
     message:
         """
