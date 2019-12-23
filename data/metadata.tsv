@@ -30,79 +30,104 @@ MG647782	MG647782	2016-XX-XX	New-York	Suffolk	Long-Island	Powassan virus isolate
 MG647783	MG647783	2016-XX-XX	New-York	Suffolk	Long-Island	Powassan virus isolate RTS84 polyprotein gene, complete cds	Ixodes scapularis	Tokarz et al	Direct Submission	Submitted (06-DEC-2017) Center for Infection and Immunity, Columbia University, 722 W 168th St, New York, NY 10032, USA	https://www.ncbi.nlm.nih.gov/nuccore/MG647783
 MK104144	MK104144	2017-11-15	Maine	Cumberland	Cape-Elizabeth	Powassan virus strain MeC17-166 isolate DTVMeC17, complete genome	Ixodes scapularis	Robich et al	Direct Submission	Submitted (26-OCT-2018) Lyme and Vector-borne Disease Laboratory, Maine Medical Center Research Institute, 81 Research Drive, Scarborough, ME 04074, USA	https://www.ncbi.nlm.nih.gov/nuccore/MK104144
 MK309362	MK309362	2017-11-15	Maine	York	Wells	Powassan virus strain MeW17-228, complete genome	Ixodes scapularis	Robich et al	Direct Submission	Submitted (17-DEC-2018) Lyme and Vector-borne Disease Laboratory, Maine Medical Center Research Institute, 81 Research Drive, Scarborough, ME 04074, USA	https://www.ncbi.nlm.nih.gov/nuccore/MK309362
-PV01	PV01	2014-10-29	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV01-P1734, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV02	PV02	2014-10-29	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV02-P1735, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV03	PV03	2014-10-30	Connecticut	New-Haven	North-Branford	Powassan virus strain PV03-P1663, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV04	PV04	2014-10-30	Connecticut	New-Haven	North-Branford	Powassan virus strain PV04-P1665, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV05	PV05	2014-10-30	Connecticut	New-Haven	North-Branford	Powassan virus strain PV05-P1666, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV06	PV06	2014-10-30	Connecticut	New-Haven	North-Branford	Powassan virus strain PV06-P1677, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV07	PV07	2014-05-02	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV07-P1384, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV08	PV08	2014-06-24	Connecticut	New-Haven	North-Branford	Powassan virus strain PV08-P1429, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV09	PV09	2014-10-27	Connecticut	New-Haven	North-Branford	Powassan virus strain PV09-P1742, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV10	PV10	2014-10-30	Connecticut	New-Haven	North-Branford	Powassan virus strain PV10-P1783A, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV11	PV11	2014-10-28	Connecticut	New-Haven	North-Branford	Powassan virus strain PV11-P1774A, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV12	PV12	2013-06-12	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV12-P913, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV13	PV13	2015-10-22	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV13-P2552, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV14	PV14	2015-12-28	Connecticut	Fairfield	Redding	Powassan virus strain PV14-8, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV15	PV15	2015-12-03	Connecticut	New-Haven	North-Branford	Powassan virus strain PV15-67, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV16	PV16	2016-11-10	Connecticut	Fairfield	Redding	Powassan virus strain PV16-32, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV17	PV17	2016-11-28	Connecticut	New-London	Lyme	Powassan virus strain PV17-45, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV18	PV18	2016-11-28	Connecticut	New-London	Lyme	Powassan virus strain PV18-50, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV19	PV19	2016-11-28	Connecticut	New-London	Lyme	Powassan virus strain PV19-52, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV20	PV20	2016-11-28	Connecticut	New-London	Lyme	Powassan virus strain PV20-53, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV21	PV21	2016-11-28	Connecticut	New-London	Lyme	Powassan virus strain PV21-55, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV22	PV22	2016-11-16	Connecticut	New-London	Lyme	Powassan virus strain PV22-62, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV23	PV23	2016-11-07	Connecticut	New-London	Lyme	Powassan virus strain PV23-93, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV24	PV24	2016-11-07	Connecticut	New-London	Lyme	Powassan virus strain PV24-95, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV25	PV25	2016-11-07	Connecticut	New-London	Lyme	Powassan virus strain PV25-98, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV26	PV26	2016-11-07	Connecticut	New-London	Lyme	Powassan virus strain PV26-101, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV27	PV27	2016-11-01	Connecticut	New-London	Lyme	Powassan virus strain PV27-114, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV28	PV28	2016-11-01	Connecticut	New-London	Lyme	Powassan virus strain PV28-116, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV29	PV29	2016-11-01	Connecticut	New-London	Lyme	Powassan virus strain PV29-118, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV30	PV30	2016-11-01	Connecticut	New-London	Lyme	Powassan virus strain PV30-122, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV32	PV32	2016-11-01	Connecticut	New-London	Lyme	Powassan virus strain PV32-125, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV33	PV33	2016-11-01	Connecticut	New-London	Lyme	Powassan virus strain PV33-126, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV34	PV34	2010-11-01	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV34-P0375, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV35	PV35	2008-11-01	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV35-P0183, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV36	PV36	2008-11-01	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV36-P0096, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV37	PV37	2010-11-02	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV37-P0494, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV38	PV38	2010-10-29	Connecticut	New-Haven	North-Branford	Powassan virus strain PV38-P0525, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV39	PV39	2010-10-29	Connecticut	New-Haven	North-Branford	Powassan virus strain PV39-P0526, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV40	PV40	2010-10-29	Connecticut	New-Haven	North-Branford	Powassan virus strain PV40-P0618, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV41	PV41	2010-10-29	Connecticut	New-Haven	North-Branford	Powassan virus strain PV41-P0621, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV42	PV42	2010-10-29	Connecticut	New-Haven	North-Branford	Powassan virus strain PV42-P0629, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV43	PV43	2011-11-09	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV43-P1697, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV45	PV45	2011-04-26	Connecticut	New-Haven	North-Branford	Powassan virus strain PV45-P0690, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV46	PV46	2011-04-26	Connecticut	New-Haven	North-Branford	Powassan virus strain PV46-P0681, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV47	PV47	2011-05-09	Connecticut	New-Haven	North-Branford	Powassan virus strain PV47-P0785, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV48	PV48	2011-04-27	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV48-P0751, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV49	PV49	2011-04-27	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV49-P0760, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV50	PV50	2011-05-09	Connecticut	New-Haven	North-Branford	Powassan virus strain PV50-P0795, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV51	PV51	2011-10-21	Connecticut	New-Haven	North-Branford	Powassan virus strain PV51-P0933, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV52	PV52	2011-10-18	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV52-P1113, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV53	PV53	2011-10-18	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV53-P1104, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV54	PV54	2011-10-18	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV54-P1109, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV55	PV55	2011-10-18	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV55-P1112, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV56	PV56	2011-10-18	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV56-P1114, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV57	PV57	2011-10-18	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV57-P1107, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV58	PV58	2011-10-28	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV58-P1241, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV59	PV59	2011-10-25	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV59-P1514, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV60	PV60	2011-10-25	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV60-P1518, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV61	PV61	2011-11-09	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV61-P1730, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV62	PV62	2011-11-09	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV62-P1753, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV63	PV63	2012-04-05	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV63-P1912, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV64	PV64	2012-04-05	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV64-P1933, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV65	PV65	2012-04-05	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV65-P1930, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV66	PV66	2014-05-29	Connecticut	New-Haven	North-Branford	Powassan virus strain PV66-P1184, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV67	PV67	2014-05-29	Connecticut	New-Haven	North-Branford	Powassan virus strain PV67-P1290, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV69	PV69	2016-11-10	Connecticut	Fairfield	Redding	Powassan virus strain PV69-165, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV70	PV70	2016-12-06	Connecticut	New-Haven	North-Branford	Powassan virus strain PV70-188, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV71	PV71	2016-11-14	Connecticut	Fairfield	Redding	Powassan virus strain PV71-219, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV72	PV72	2016-11-14	Connecticut	Fairfield	Redding	Powassan virus strain PV72-228, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV73	PV73	2016-11-14	Connecticut	Fairfield	Redding	Powassan virus strain PV73-237, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV74	PV74	2016-11-02	Connecticut	New-London	Groton	Powassan virus strain PV74-3338, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV75	PV75	2016-11-02	Connecticut	New-London	Groton	Powassan virus strain PV75-3381, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV76	PV76	2016-11-02	Connecticut	New-London	Groton	Powassan virus strain PV76-3464, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV77	PV77	2016-10-17	Connecticut	New-Haven	North-Branford	Powassan virus strain PV77-3569, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV78	PV78	2016-10-20	Connecticut	New-Haven	North-Branford	Powassan virus strain PV78-3591, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
-PV80	PV80	2016-12-01	Connecticut	New-Haven	North-Branford	Powassan virus strain PV80-160, complete genome	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV01	PV01	2014-10-29	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV01-P1734	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV02	PV02	2014-10-29	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV02-P1735	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV03	PV03	2014-10-30	Connecticut	New-Haven	North-Branford	Powassan virus strain PV03-P1663	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV04	PV04	2014-10-30	Connecticut	New-Haven	North-Branford	Powassan virus strain PV04-P1665	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV05	PV05	2014-10-30	Connecticut	New-Haven	North-Branford	Powassan virus strain PV05-P1666	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV06	PV06	2014-10-30	Connecticut	New-Haven	North-Branford	Powassan virus strain PV06-P1677	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV07	PV07	2014-05-02	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV07-P1384	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV08	PV08	2014-06-24	Connecticut	New-Haven	North-Branford	Powassan virus strain PV08-P1429	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV09	PV09	2014-10-27	Connecticut	New-Haven	North-Branford	Powassan virus strain PV09-P1742	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV10	PV10	2014-10-30	Connecticut	New-Haven	North-Branford	Powassan virus strain PV10-P1783A	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV11	PV11	2014-10-28	Connecticut	New-Haven	North-Branford	Powassan virus strain PV11-P1774A	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV12	PV12	2013-06-12	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV12-P913	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV13	PV13	2015-10-22	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV13-P2552	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV14	PV14	2015-12-28	Connecticut	Fairfield	Redding	Powassan virus strain PV14-8	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV15	PV15	2015-12-03	Connecticut	New-Haven	North-Branford	Powassan virus strain PV15-67	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV16	PV16	2016-11-10	Connecticut	Fairfield	Redding	Powassan virus strain PV16-32	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV17	PV17	2016-11-28	Connecticut	New-London	Lyme	Powassan virus strain PV17-45	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV18	PV18	2016-11-28	Connecticut	New-London	Lyme	Powassan virus strain PV18-50	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV19	PV19	2016-11-28	Connecticut	New-London	Lyme	Powassan virus strain PV19-52	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV20	PV20	2016-11-28	Connecticut	New-London	Lyme	Powassan virus strain PV20-53	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV21	PV21	2016-11-28	Connecticut	New-London	Lyme	Powassan virus strain PV21-55	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV22	PV22	2016-11-16	Connecticut	New-London	Lyme	Powassan virus strain PV22-62	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV23	PV23	2016-11-07	Connecticut	New-London	Lyme	Powassan virus strain PV23-93	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV24	PV24	2016-11-07	Connecticut	New-London	Lyme	Powassan virus strain PV24-95	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV25	PV25	2016-11-07	Connecticut	New-London	Lyme	Powassan virus strain PV25-98	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV26	PV26	2016-11-07	Connecticut	New-London	Lyme	Powassan virus strain PV26-101	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV27	PV27	2016-11-01	Connecticut	New-London	Lyme	Powassan virus strain PV27-114	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV28	PV28	2016-11-01	Connecticut	New-London	Lyme	Powassan virus strain PV28-116	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV29	PV29	2016-11-01	Connecticut	New-London	Lyme	Powassan virus strain PV29-118	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV30	PV30	2016-11-01	Connecticut	New-London	Lyme	Powassan virus strain PV30-122	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV31	PV31	2016-11-01	Connecticut	New-London	Lyme	Powassan virus strain PV31-124	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV32	PV32	2016-11-01	Connecticut	New-London	Lyme	Powassan virus strain PV32-125	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV33	PV33	2016-11-01	Connecticut	New-London	Lyme	Powassan virus strain PV33-126	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV34	PV34	2010-11-01	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV34-P0375	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV35	PV35	2008-11-01	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV35-P0183	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV36	PV36	2008-11-01	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV36-P0096	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV37	PV37	2010-11-02	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV37-P0494	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV38	PV38	2010-10-29	Connecticut	New-Haven	North-Branford	Powassan virus strain PV38-P0525	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV39	PV39	2010-10-29	Connecticut	New-Haven	North-Branford	Powassan virus strain PV39-P0526	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV40	PV40	2010-10-29	Connecticut	New-Haven	North-Branford	Powassan virus strain PV40-P0618	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV41	PV41	2010-10-29	Connecticut	New-Haven	North-Branford	Powassan virus strain PV41-P0621	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV42	PV42	2010-10-29	Connecticut	New-Haven	North-Branford	Powassan virus strain PV42-P0629	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV43	PV43	2011-11-09	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV43-P1697	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV45	PV45	2011-04-26	Connecticut	New-Haven	North-Branford	Powassan virus strain PV45-P0690	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV46	PV46	2011-04-26	Connecticut	New-Haven	North-Branford	Powassan virus strain PV46-P0681	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV47	PV47	2011-05-09	Connecticut	New-Haven	North-Branford	Powassan virus strain PV47-P0785	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV48	PV48	2011-04-27	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV48-P0751	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV49	PV49	2011-04-27	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV49-P0760,	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV50	PV50	2011-05-09	Connecticut	New-Haven	North-Branford	Powassan virus strain PV50-P0795	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV51	PV51	2011-10-21	Connecticut	New-Haven	North-Branford	Powassan virus strain PV51-P0933	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV52	PV52	2011-10-18	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV52-P1113	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV53	PV53	2011-10-18	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV53-P1104	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV54	PV54	2011-10-18	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV54-P1109	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV55	PV55	2011-10-18	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV55-P1112	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV56	PV56	2011-10-18	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV56-P1114	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV57	PV57	2011-10-18	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV57-P1107	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV58	PV58	2011-10-28	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV58-P1241	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV59	PV59	2011-10-25	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV59-P1514	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV60	PV60	2011-10-25	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV60-P1518	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV61	PV61	2011-11-09	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV61-P1730	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV62	PV62	2011-11-09	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV62-P1753	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV63	PV63	2012-04-05	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV63-P1912	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV64	PV64	2012-04-05	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV64-P1933	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV65	PV65	2012-04-05	Connecticut	Fairfield	Bridgeport	Powassan virus strain PV65-P1930	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV66	PV66	2014-05-29	Connecticut	New-Haven	North-Branford	Powassan virus strain PV66-P1184	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV67	PV67	2014-05-29	Connecticut	New-Haven	North-Branford	Powassan virus strain PV67-P1290	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV68	PV68	2014-05-14	Connecticut	New-Haven	North-Branford	Powassan virus strain PV68-P1295	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV69	PV69	2016-11-10	Connecticut	Fairfield	Redding	Powassan virus strain PV69-165	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV70	PV70	2016-12-06	Connecticut	New-Haven	North-Branford	Powassan virus strain PV70-188	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV71	PV71	2016-11-14	Connecticut	Fairfield	Redding	Powassan virus strain PV71-219	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV72	PV72	2016-11-14	Connecticut	Fairfield	Redding	Powassan virus strain PV72-228	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV73	PV73	2016-11-14	Connecticut	Fairfield	Redding	Powassan virus strain PV73-237	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV74	PV74	2016-11-02	Connecticut	New-London	Groton	Powassan virus strain PV74-3338	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV75	PV75	2016-11-02	Connecticut	New-London	Groton	Powassan virus strain PV75-3381	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV76	PV76	2016-11-02	Connecticut	New-London	Groton	Powassan virus strain PV76-3464	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV77	PV77	2016-10-17	Connecticut	New-Haven	North-Branford	Powassan virus strain PV77-3569	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV78	PV78	2016-10-20	Connecticut	New-Haven	North-Branford	Powassan virus strain PV78-3591	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV80	PV80	2016-12-01	Connecticut	New-Haven	North-Branford	Powassan virus strain PV80-160	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished	http://grubaughlab.com/
+PV81	PV81	2016-04-08	Maine	Cumberland	Cape-Elizabeth	Powassan virus strain PV81-H11	Ixodes scapularis	Grubaugh Lab	Unpublished Unpublished	http://grubaughlab.com/
+PV83	PV83	2016-06-13	Maine	Cumberland	Cape-Elizabeth	Powassan virus strain PV83-242	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV84	PV84	2016-10-07	Maine	York	Wells	Powassan virus strain PV84-612	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/	
+PV85	PV85	2016-10-07	Maine	York	Wells	Powassan virus strain PV85-632	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV87	PV87	2016-10-06	Maine	Cumberland	Cape-Elizabeth	Powassan virus strain PV87-946	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV88	PV88	2016-11-07	Maine	York	Wells	Powassan virus strain PV88-963	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV89	PV89	2016-11-07	Maine	York	Wells	Powassan virus strain PV89-1003	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV90	PV90	2016-11-09	Maine	York	Wells	Powassan virus strain PV90-1135	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV91	PV91	2016-11-09	Maine	York	Wells	Powassan virus strain PV91-1141	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV93	PV93	2016-11-17	Maine	Cumberland	Standish	Powassan virus strain PV93-1331	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV94	PV94	2016-11-17	Maine	Cumberland	Standish	Powassan virus strain PV94-1341	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV96	PV96	2017-11-15	Maine	Cumberland	Cape-Elizabeth	Powassan virus strain PV96-CO18	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV98	PV98	2017-11-15	Maine	Cumberland	Cape-Elizabeth	Powassan virus strain PV98-CO57	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV100	PV100	2017-11-15	Maine	Cumberland	Cape-Elizabeth	Powassan virus strain PV100-CO95	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV102	PV102	2017-11-15	Maine	Cumberland	Cape-Elizabeth	Powassan virus strain PV102-CO166	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV103	PV103	2017-11-15	Maine	Cumberland	Cape-Elizabeth	Powassan virus strain PV103-CO527	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV105	PV105	2017-11-07	Maine	Cumberland	Cape-Elizabeth	Powassan virus strain PV105-Co570	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV106	PV106	2017-11-07	Maine	Cumberland	Cape-Elizabeth	Powassan virus strain PV106-CO574	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV109	PV109	2017-11-15	Maine	York	Wells	Powassan virus strain PV109-CO452	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV111	PV111	2019-04-09	Connecticut	Fairfield	Westport	Powassan virus strain PV111-69	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV112	PV112	2019-04-17	Connecticut	New-London	Lyme	Powassan virus strain PV112-140		Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV113	PV113	2019-05-07	Connecticut	Fairfield	Westport	Powassan virus strain PV113-364	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
+PV114	PV114	2019-05-08	Connecticut	New-Haven	Northford	Powassan virus strain PV114-375	Ixodes scapularis	Grubaugh Lab	Unpublished	Unpublished http://grubaughlab.com/
