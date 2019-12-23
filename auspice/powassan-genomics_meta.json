@@ -63,14 +63,19 @@
   },
   "author_info": {
     "Grubaugh Lab": {
-      "journal": "Unpublished",
-      "n": 76,
+      "journal": "Unpublished http://grubaughlab.com/",
+      "n": 100,
       "title": "Unpublished"
     },
     "Grubaugh et al": {
       "journal": "Submitted (07-MAR-2016) Microbiology, Immunology and Pathology, Colorado State University, 1690 Campus Delivery, Fort Collins, CO 80523, USA",
       "n": 1,
       "title": "Direct Submission"
+    },
+    "Ixodes scapularis": {
+      "journal": "Unpublished",
+      "n": 1,
+      "title": "Grubaugh Lab"
     },
     "Pesko et al": {
       "journal": "Submitted (01-JUN-2010) Pathology, University of New Mexico School of Medicine, 915 Camino de Salud, Albuquerque, NM 87131, USA",
@@ -99,39 +104,51 @@
       "color_map": [
         [
           "Bridgeport",
-          "#0054A8"
+          "#512DA8"
         ],
         [
           "Cape-Elizabeth",
-          "#6737AE"
+          "#455A64"
         ],
         [
           "Groton",
-          "#A849A8"
+          "#FFA000"
         ],
         [
           "Long-Island",
-          "#FF8000"
+          "#C2185B"
         ],
         [
           "Lyme",
-          "#7EA800"
+          "#AFB42B"
         ],
         [
           "Nantucket",
-          "#50C1E7"
+          "#E64A19"
         ],
         [
           "North-Branford",
-          "#A80000"
+          "#00796B"
+        ],
+        [
+          "Northford",
+          "#388E3C"
         ],
         [
           "Redding",
-          "#E7AD00"
+          "#303F9F"
+        ],
+        [
+          "Standish",
+          "#212121"
         ],
         [
           "Wells",
-          "#6737AE"
+          "#5D4037"
+        ],
+        [
+          "Westport",
+          "#0288D1"
         ]
       ],
       "key": "city",
@@ -161,19 +178,15 @@
       "color_map": [
         [
           "Connecticut",
-          "#0054A8"
+          "#303F9F"
         ],
         [
           "Maine",
-          "#6737AE"
-        ],
-        [
-          "Massachusetts",
-          "#50C1E7"
+          "#5D4037"
         ],
         [
           "New-York",
-          "#FF8000"
+          "#C2185B"
         ]
       ],
       "key": "state",
@@ -222,13 +235,25 @@
         "latitude": 41.370778,
         "longitude": -72.778166
       },
+      "Northford": {
+        "latitude": 41.397982,
+        "longitude": -72.791505
+      },
       "Redding": {
         "latitude": 41.286584,
         "longitude": -73.369246
       },
+      "Standish": {
+        "latitude": 43.817086,
+        "longitude": -70.550557
+      },
       "Wells": {
         "latitude": 43.322425,
         "longitude": -70.580458
+      },
+      "Westport": {
+        "latitude": 41.166964,
+        "longitude": -73.358576
       }
     },
     "county": {
@@ -290,6 +315,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution in North America",
-  "updated": "21 Oct 2019",
-  "virus_count": 86
+  "updated": "23 Dec 2019",
+  "virus_count": 111
 }
