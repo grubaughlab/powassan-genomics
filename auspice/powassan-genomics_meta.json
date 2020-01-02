@@ -103,52 +103,52 @@
     "city": {
       "color_map": [
         [
-          "Bridgeport",
-          "#512DA8"
-        ],
-        [
-          "Cape-Elizabeth",
-          "#455A64"
-        ],
-        [
-          "Groton",
-          "#FFA000"
-        ],
-        [
-          "Long-Island",
-          "#C2185B"
-        ],
-        [
-          "Lyme",
-          "#AFB42B"
-        ],
-        [
-          "Nantucket",
-          "#E64A19"
-        ],
-        [
-          "North-Branford",
-          "#00796B"
-        ],
-        [
-          "Northford",
-          "#388E3C"
-        ],
-        [
           "Redding",
-          "#303F9F"
-        ],
-        [
-          "Standish",
-          "#212121"
-        ],
-        [
-          "Wells",
-          "#5D4037"
+          "#00152A"
         ],
         [
           "Westport",
-          "#0288D1"
+          "#002A54"
+        ],
+        [
+          "Bridgeport",
+          "#003F7E"
+        ],
+        [
+          "North-Branford",
+          "#0054A8"
+        ],
+        [
+          "Northford",
+          "#3F7EBD"
+        ],
+        [
+          "Lyme",
+          "#7FA9D3"
+        ],
+        [
+          "Groton",
+          "#BFD4E9"
+        ],
+        [
+          "Wells",
+          "#BED37F"
+        ],
+        [
+          "Cape-Elizabeth",
+          "#7EA800"
+        ],
+        [
+          "Standish",
+          "#3F5400"
+        ],
+        [
+          "Nantucket",
+          "#E7AD00"
+        ],
+        [
+          "Long-Island",
+          "#A80000"
         ]
       ],
       "key": "city",
@@ -178,15 +178,19 @@
       "color_map": [
         [
           "Connecticut",
-          "#303F9F"
+          "#0054A8"
         ],
         [
           "Maine",
-          "#5D4037"
+          "#7EA800"
+        ],
+        [
+          "Massachusetts",
+          "#E7AD00"
         ],
         [
           "New-York",
-          "#C2185B"
+          "#A80000"
         ]
       ],
       "key": "state",
@@ -315,6 +319,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution in North America",
-  "updated": "23 Dec 2019",
+  "updated": "02 Jan 2020",
   "virus_count": 111
 }
