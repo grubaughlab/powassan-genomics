@@ -151,12 +151,6 @@
       "menuItem": "city",
       "type": "discrete"
     },
-    "county": {
-      "key": "county",
-      "legendTitle": "County",
-      "menuItem": "county",
-      "type": "discrete"
-    },
     "host": {
       "key": "host",
       "legendTitle": "Host Species",
@@ -253,36 +247,6 @@
       "Westport": {
         "latitude": 41.166964,
         "longitude": -73.358576
-      }
-    },
-    "county": {
-      "Cumberland": {
-        "latitude": 43.563674,
-        "longitude": -70.200001
-      },
-      "Fairfield": {
-        "latitude": 41.208906,
-        "longitude": -73.167084
-      },
-      "Nantucket": {
-        "latitude": 41.274539,
-        "longitude": -70.052327
-      },
-      "New-Haven": {
-        "latitude": 41.370778,
-        "longitude": -72.778166
-      },
-      "New-London": {
-        "latitude": 41.335594,
-        "longitude": -72.033408
-      },
-      "Suffolk": {
-        "latitude": 40.80387,
-        "longitude": -73.30722
-      },
-      "York": {
-        "latitude": 43.322425,
-        "longitude": -70.580458
       }
     },
     "state": {
