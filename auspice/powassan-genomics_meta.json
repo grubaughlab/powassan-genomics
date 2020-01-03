@@ -114,16 +114,12 @@
           "#0054A8"
         ],
         [
-          "Northford",
-          "#3F7EBD"
-        ],
-        [
           "Lyme",
-          "#7FA9D3"
+          "#558DC5"
         ],
         [
           "Groton",
-          "#BFD4E9"
+          "#AAC6E2"
         ],
         [
           "Wells",
@@ -228,10 +224,6 @@
         "latitude": 41.370778,
         "longitude": -72.778166
       },
-      "Northford": {
-        "latitude": 41.397982,
-        "longitude": -72.791505
-      },
       "Redding": {
         "latitude": 41.286584,
         "longitude": -73.369246
@@ -278,6 +270,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution in North America",
-  "updated": "02 Jan 2020",
+  "updated": "03 Jan 2020",
   "virus_count": 111
 }
