@@ -62,30 +62,47 @@
     }
   },
   "author_info": {
-    "Grubaugh Lab": {
-      "journal": "Unpublished http://grubaughlab.com/",
-      "n": 101,
-      "title": "Unpublished"
-    },
-    "Grubaugh et al": {
-      "journal": "Submitted (07-MAR-2016) Microbiology, Immunology and Pathology, Colorado State University, 1690 Campus Delivery, Fort Collins, CO 80523, USA",
+    "Grubaugh et al. (2016)": {
+      "journal": "Virus Evol. 2(2): vew033 (2016)",
       "n": 1,
-      "title": "Direct Submission"
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5210029/",
+      "title": "Transmission bottlenecks and RNAi collectively influence tick-borne flavivirus evolution"
     },
-    "Pesko et al": {
-      "journal": "Submitted (01-JUN-2010) Pathology, University of New Mexico School of Medicine, 915 Camino de Salud, Albuquerque, NM 87131, USA",
-      "n": 2,
-      "title": "Direct Submission"
+    "Normandin et al.": {
+      "journal": "",
+      "n": 28,
+      "paper_url": "",
+      "title": ""
     },
-    "Robich et al": {
-      "journal": "Submitted (17-DEC-2018) Lyme and Vector-borne Disease Laboratory, Maine Medical Center Research Institute, 81 Research Drive, Scarborough, ME 04074, USA",
-      "n": 2,
-      "title": "Direct Submission"
-    },
-    "Tokarz et al": {
-      "journal": "Submitted (06-DEC-2017) Center for Infection and Immunity, Columbia University, 722 W 168th St, New York, NY 10032, USA",
+    "Pesko et al. (2010)": {
+      "journal": "J. Gen. Virol. 91 (PT 11), 2698-2705 (2010)",
       "n": 6,
-      "title": "Direct Submission"
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/20631087",
+      "title": "Molecular epidemiology of Powassan virus in North America"
+    },
+    "Robich et al. (2019)": {
+      "journal": "Am. J. Trop. Med. Hyg.\u00a0101(2):467-471 (2019)",
+      "n": 2,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/31218999",
+      "title": "Prevalence and genetic characterization of deer tick virus (Powassan virus, lineage II) in\u00a0Ixodes scapularis\u00a0ticks collected in Maine"
+    },
+    "Tokarz et al. (2014)": {
+      "journal": "J. Virol. 88 (19), 11480-11492 (2014)",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/25056893",
+      "title": "Virome analysis of Amblyomma americanum, Dermacentor variabilis, and Ixodes scapularis ticks reveals novel highly divergent vertebrate and invertebrate viruses"
+    },
+    "Tokarz et al. (2018)": {
+      "journal": "mSphere 3 (2) e00614-17 (2018)",
+      "n": 5,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/29564401",
+      "title": "Identification of novel viruses in Amblyomma americanum, Dermacentor variablis, and Ixodes scapularis ticks"
+    },
+    "Vogels et al.": {
+      "journal": "",
+      "n": 103,
+      "paper_url": "",
+      "title": ""
     }
   },
   "color_options": {
@@ -98,48 +115,80 @@
     "city": {
       "color_map": [
         [
-          "Redding",
+          "Redding_CT",
           "#00152A"
         ],
         [
-          "Westport",
+          "Westport_CT",
           "#002A54"
         ],
         [
-          "Bridgeport",
+          "Bridgeport_CT",
           "#003F7E"
         ],
         [
-          "North-Branford",
+          "North-Branford_CT",
           "#0054A8"
         ],
         [
-          "Lyme",
+          "Lyme_CT",
           "#558DC5"
         ],
         [
-          "Groton",
+          "Groton_CT",
           "#AAC6E2"
         ],
         [
-          "Wells",
+          "Wells_ME",
           "#3F5400"
         ],
         [
-          "Cape-Elizabeth",
+          "Cape-Elizabeth_ME",
           "#7EA800"
         ],
         [
-          "Standish",
+          "Standish_ME",
           "#BED37F"
         ],
         [
-          "Nantucket",
+          "Unknown_ME",
+          "#DEE9BF"
+        ],
+        [
+          "Ipswich_MA",
+          "#4D3900"
+        ],
+        [
+          "Sherborn_MA",
+          "#9A7300"
+        ],
+        [
+          "Millis_MA",
           "#E7AD00"
         ],
         [
-          "Long-Island",
+          "Marthas-Vineyard_MA",
+          "#EFC855"
+        ],
+        [
+          "Nantucket_MA",
+          "#F7E3AA"
+        ],
+        [
+          "East-Islip_NY",
+          "#380000"
+        ],
+        [
+          "Islip_NY",
+          "#700000"
+        ],
+        [
+          "Lloyd-Harbor_NY",
           "#A80000"
+        ],
+        [
+          "Unknown_RI",
+          "#6C00A8"
         ]
       ],
       "key": "city",
@@ -153,11 +202,11 @@
       "menuItem": "host",
       "type": "discrete"
     },
-    "num_date": {
-      "key": "num_date",
-      "legendTitle": "Sampling date",
-      "menuItem": "date",
-      "type": "continuous"
+    "source": {
+      "key": "source",
+      "legendTitle": "Source",
+      "menuItem": "source",
+      "type": "discrete"
     },
     "state": {
       "color_map": [
@@ -176,6 +225,10 @@
         [
           "New-York",
           "#A80000"
+        ],
+        [
+          "Rhode-Island",
+          "#6C00A8"
         ]
       ],
       "key": "state",
@@ -192,51 +245,80 @@
   "filters": [
     "state",
     "city",
-    "authors"
+    "authors",
+    "source"
   ],
   "geo": {
     "city": {
-      "Bridgeport": {
+      "Bridgeport_CT": {
         "latitude": 41.208906,
         "longitude": -73.167084
       },
-      "Cape-Elizabeth": {
-        "latitude": 43.563674,
-        "longitude": -70.200001
+      "East-Islip_NY": {
+        "latitude": 40.710314,
+        "longitude": -73.165628
       },
-      "Groton": {
+      "Groton_CT": {
         "latitude": 41.335594,
         "longitude": -72.033408
       },
-      "Long-Island": {
-        "latitude": 40.80387,
-        "longitude": -73.30722
+      "Ipswich_MA": {
+        "latitude": 42.679171,
+        "longitude": -70.841138
       },
-      "Lyme": {
+      "Islip_NY": {
+        "latitude": 40.715997,
+        "longitude": -73.210236
+      },
+      "Lloyd-Harbor_NY": {
+        "latitude": 40.926012,
+        "longitude": -73.46892
+      },
+      "Lyme_CT": {
         "latitude": 41.358801,
         "longitude": -72.348391
       },
-      "Nantucket": {
+      "Marthas-Vineyard_MA": {
+        "latitude": 41.38807,
+        "longitude": -70.645364
+      },
+      "Millis_MA": {
+        "latitude": 42.167719,
+        "longitude": -71.352688
+      },
+      "Nantucket_MA": {
         "latitude": 41.274539,
         "longitude": -70.052327
       },
-      "North-Branford": {
+      "North-Branford_CT": {
         "latitude": 41.370778,
         "longitude": -72.778166
       },
-      "Redding": {
+      "Redding_CT": {
         "latitude": 41.286584,
         "longitude": -73.369246
       },
-      "Standish": {
+      "Sherborn_MA": {
+        "latitude": 42.240436,
+        "longitude": -71.372815
+      },
+      "Standish_ME": {
         "latitude": 43.817086,
         "longitude": -70.550557
       },
-      "Wells": {
+      "Unknown_ME": {
+        "latitude": 45.012162,
+        "longitude": -69.09493
+      },
+      "Unknown_RI": {
+        "latitude": 41.730736,
+        "longitude": -71.566135
+      },
+      "Wells_ME": {
         "latitude": 43.322425,
         "longitude": -70.580458
       },
-      "Westport": {
+      "Westport_CT": {
         "latitude": 41.166964,
         "longitude": -73.358576
       }
@@ -257,6 +339,10 @@
       "New-York": {
         "latitude": 42.362333,
         "longitude": -74.494279
+      },
+      "Rhode-Island": {
+        "latitude": 41.730736,
+        "longitude": -71.566135
       }
     }
   },
@@ -269,7 +355,7 @@
     "map",
     "entropy"
   ],
-  "title": "Powassan virus evolution in North America",
-  "updated": "03 Jan 2020",
-  "virus_count": 111
+  "title": "Powassan virus evolution in New England",
+  "updated": "21 Jan 2020",
+  "virus_count": 131
 }
