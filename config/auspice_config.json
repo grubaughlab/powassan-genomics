@@ -25,6 +25,8 @@
   "defaults": {
    "colorBy": "city",
    "mapTriplicate": false,
+   "distanceMeasure": "div",
    "geoResolution": "city"
  }
 }
+
