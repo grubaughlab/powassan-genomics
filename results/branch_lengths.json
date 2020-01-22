@@ -1,17 +1,17 @@
 {
  "alignment": "results/aligned.fasta",
  "clock": {
-  "intercept": -0.007255253152451318,
-  "rate": 5.6378386931906715e-06,
-  "rtt_Tmrca": 1286.8855508785919
+  "intercept": -0.005355429370152209,
+  "rate": 4.70773080454552e-06,
+  "rtt_Tmrca": 1137.5819035747134
  },
  "input_tree": "results/tree_raw.nwk",
  "nodes": {
   "1003_Wells_ME_USA_Ixodes-scapularis_2016-11-07": {
-   "branch_length": 0.00014439303836830903,
-   "clock_length": 0.00014439303836830903,
+   "branch_length": 0.0001443140969732427,
+   "clock_length": 0.0001443140969732427,
    "date": "2016-11-07",
-   "mutation_length": 0.00028176895430232125,
+   "mutation_length": 0.0002817850637273123,
    "num_date_confidence": [
     2016.8542094455852,
     2016.8542094455852
@@ -20,10 +20,10 @@
    "raw_date": "2016-11-07"
   },
   "101_Lyme_CT_USA_Ixodes-scapularis_2016-11-07": {
-   "branch_length": 1.5148898523588352e-05,
-   "clock_length": 1.5148898523588352e-05,
+   "branch_length": 2.2723347785382523e-05,
+   "clock_length": 2.2723347785382523e-05,
    "date": "2016-11-07",
-   "mutation_length": 9.136207624625566e-21,
+   "mutation_length": 1.5696597761108049e-18,
    "num_date_confidence": [
     2016.8542094455852,
     2016.8542094455852
@@ -32,10 +32,10 @@
    "raw_date": "2016-11-07"
   },
   "1135_Wells_ME_USA_Ixodes-scapularis_2016-11-09": {
-   "branch_length": 1.5148898523588352e-05,
-   "clock_length": 1.5148898523588352e-05,
+   "branch_length": 2.2723347785382523e-05,
+   "clock_length": 2.2723347785382523e-05,
    "date": "2016-11-10",
-   "mutation_length": 9.618145971667693e-21,
+   "mutation_length": 1.5715856066432767e-18,
    "num_date_confidence": [
     2016.8596851471596,
     2016.8596851471596
@@ -44,10 +44,10 @@
    "raw_date": "2016-11-09"
   },
   "1141_Wells_ME_USA_Ixodes-scapularis_2016-11-09": {
-   "branch_length": 1.5148898523588352e-05,
-   "clock_length": 1.5148898523588352e-05,
+   "branch_length": 2.2723347785382523e-05,
+   "clock_length": 2.2723347785382523e-05,
    "date": "2016-11-10",
-   "mutation_length": 9.618145971667693e-21,
+   "mutation_length": 1.5715856066432767e-18,
    "num_date_confidence": [
     2016.8596851471596,
     2016.8596851471596
@@ -56,10 +56,10 @@
    "raw_date": "2016-11-09"
   },
   "114_Lyme_CT_USA_Ixodes-scapularis_2016-11-01": {
-   "branch_length": 1.5148898523588349e-05,
-   "clock_length": 1.5148898523588349e-05,
+   "branch_length": 2.2723347785382527e-05,
+   "clock_length": 2.2723347785382527e-05,
    "date": "2016-11-02",
-   "mutation_length": 9.136207624625566e-21,
+   "mutation_length": 1.5696597761108049e-18,
    "num_date_confidence": [
     2016.8377823408625,
     2016.8377823408625
@@ -68,10 +68,10 @@
    "raw_date": "2016-11-01"
   },
   "116_Lyme_CT_USA_Ixodes-scapularis_2016-11-01": {
-   "branch_length": 1.5148898523588349e-05,
-   "clock_length": 1.5148898523588349e-05,
+   "branch_length": 2.2723347785382527e-05,
+   "clock_length": 2.2723347785382527e-05,
    "date": "2016-11-02",
-   "mutation_length": 1.0480943786924374e-20,
+   "mutation_length": 1.5895758211050347e-18,
    "num_date_confidence": [
     2016.8377823408625,
     2016.8377823408625
@@ -80,10 +80,10 @@
    "raw_date": "2016-11-01"
   },
   "118_Lyme_CT_USA_Ixodes-scapularis_2016-11-01": {
-   "branch_length": 1.5148898523588349e-05,
-   "clock_length": 1.5148898523588349e-05,
+   "branch_length": 2.2723347785382527e-05,
+   "clock_length": 2.2723347785382527e-05,
    "date": "2016-11-02",
-   "mutation_length": 9.136207624625566e-21,
+   "mutation_length": 1.5696597761108049e-18,
    "num_date_confidence": [
     2016.8377823408625,
     2016.8377823408625
@@ -92,10 +92,10 @@
    "raw_date": "2016-11-01"
   },
   "122_Lyme_CT_USA_Ixodes-scapularis_2016-11-01": {
-   "branch_length": 1.5148898523588349e-05,
-   "clock_length": 1.5148898523588349e-05,
+   "branch_length": 2.2723347785382527e-05,
+   "clock_length": 2.2723347785382527e-05,
    "date": "2016-11-02",
-   "mutation_length": 9.136207624625566e-21,
+   "mutation_length": 1.5696597761108049e-18,
    "num_date_confidence": [
     2016.8377823408625,
     2016.8377823408625
@@ -104,10 +104,10 @@
    "raw_date": "2016-11-01"
   },
   "124_Lyme_CT_USA_Ixodes-scapularis_2016-11-01": {
-   "branch_length": 0.0001123835774168846,
-   "clock_length": 0.0001123835774168846,
+   "branch_length": 0.00012188846382731466,
+   "clock_length": 0.00012188846382731466,
    "date": "2016-11-02",
-   "mutation_length": 9.390669498584962e-05,
+   "mutation_length": 9.391202178412705e-05,
    "num_date_confidence": [
     2016.8377823408625,
     2016.8377823408625
@@ -116,10 +116,10 @@
    "raw_date": "2016-11-01"
   },
   "125_Lyme_CT_USA_Ixodes-scapularis_2016-11-01": {
-   "branch_length": 1.5148898523588349e-05,
-   "clock_length": 1.5148898523588349e-05,
+   "branch_length": 2.2723347785382527e-05,
+   "clock_length": 2.2723347785382527e-05,
    "date": "2016-11-02",
-   "mutation_length": 9.136207624625566e-21,
+   "mutation_length": 1.5696597761108049e-18,
    "num_date_confidence": [
     2016.8377823408625,
     2016.8377823408625
@@ -128,10 +128,10 @@
    "raw_date": "2016-11-01"
   },
   "126_Lyme_CT_USA_Ixodes-scapularis_2016-11-01": {
-   "branch_length": 1.5148898523588349e-05,
-   "clock_length": 1.5148898523588349e-05,
+   "branch_length": 2.2723347785382527e-05,
+   "clock_length": 2.2723347785382527e-05,
    "date": "2016-11-02",
-   "mutation_length": 1.0480943786924374e-20,
+   "mutation_length": 1.5895758211050347e-18,
    "num_date_confidence": [
     2016.8377823408625,
     2016.8377823408625
@@ -140,10 +140,10 @@
    "raw_date": "2016-11-01"
   },
   "1331_Standish_ME_USA_Ixodes-scapularis_2016-11-17": {
-   "branch_length": 0.00022666670492442194,
-   "clock_length": 0.00022666670492442194,
+   "branch_length": 0.00022847473527680832,
+   "clock_length": 0.00022847473527680832,
    "date": "2016-11-18",
-   "mutation_length": 0.00046996821582232895,
+   "mutation_length": 0.00046999405140225685,
    "num_date_confidence": [
     2016.8815879534566,
     2016.8815879534566
@@ -152,10 +152,10 @@
    "raw_date": "2016-11-17"
   },
   "1341_Standish_ME_USA_Ixodes-scapularis_2016-11-17": {
-   "branch_length": 0.00022666670492442194,
-   "clock_length": 0.00022666670492442194,
+   "branch_length": 0.00022847473527680832,
+   "clock_length": 0.00022847473527680832,
    "date": "2016-11-18",
-   "mutation_length": 0.00018788835581427866,
+   "mutation_length": 0.00018789923189839274,
    "num_date_confidence": [
     2016.8815879534566,
     2016.8815879534566
@@ -164,10 +164,10 @@
    "raw_date": "2016-11-17"
   },
   "140_Lyme_CT_USA_Ixodes-scapularis_2019-04-17": {
-   "branch_length": 0.0004135270502167235,
-   "clock_length": 0.0004135270502167235,
+   "branch_length": 0.0004257377577003372,
+   "clock_length": 0.0004257377577003372,
    "date": "2019-04-17",
-   "mutation_length": 0.0007517047541652468,
+   "mutation_length": 0.0007517491288805322,
    "num_date_confidence": [
     2019.2929500342232,
     2019.2929500342232
@@ -176,10 +176,10 @@
    "raw_date": "2019-04-17"
   },
   "160_North-Branford_CT_USA_Ixodes-scapularis_2016-12-01": {
-   "branch_length": 0.000303691911346072,
-   "clock_length": 0.000303691911346072,
+   "branch_length": 0.00040191445823950544,
+   "clock_length": 0.00040191445823950544,
    "date": "2016-12-02",
-   "mutation_length": 0.0003758052984871906,
+   "mutation_length": 0.0003758259846276521,
    "num_date_confidence": [
     2016.9199178644765,
     2016.9199178644765
@@ -188,10 +188,10 @@
    "raw_date": "2016-12-01"
   },
   "165_Redding_CT_USA_Ixodes-scapularis_2016-11-10": {
-   "branch_length": 1.5148898523588349e-05,
-   "clock_length": 1.5148898523588349e-05,
+   "branch_length": 1.514889852358835e-05,
+   "clock_length": 1.514889852358835e-05,
    "date": "2016-11-11",
-   "mutation_length": 6.804768200531119e-21,
+   "mutation_length": 1.5567689971413466e-18,
    "num_date_confidence": [
     2016.8624229979466,
     2016.8624229979466
@@ -200,10 +200,10 @@
    "raw_date": "2016-11-10"
   },
   "188_North-Branford_CT_USA_Ixodes-scapularis_2016-12-06": {
-   "branch_length": 0.00025663040393997054,
-   "clock_length": 0.00025663040393997054,
+   "branch_length": 0.0002823737700190874,
+   "clock_length": 0.0002823737700190874,
    "date": "2016-12-07",
-   "mutation_length": 0.0004698014864637608,
+   "mutation_length": 0.00046982729940117505,
    "num_date_confidence": [
     2016.933607118412,
     2016.933607118412
@@ -212,10 +212,10 @@
    "raw_date": "2016-12-06"
   },
   "219_Redding_CT_USA_Ixodes-scapularis_2016-11-14": {
-   "branch_length": 0.00015034765333182685,
-   "clock_length": 0.00015034765333182685,
+   "branch_length": 0.00014562075169863666,
+   "clock_length": 0.00014562075169863666,
    "date": "2016-11-15",
-   "mutation_length": 0.000281755189800224,
+   "mutation_length": 0.00028177091638032593,
    "num_date_confidence": [
     2016.8733744010951,
     2016.8733744010951
@@ -224,10 +224,10 @@
    "raw_date": "2016-11-14"
   },
   "228_Redding_CT_USA_Ixodes-scapularis_2016-11-14": {
-   "branch_length": 1.5210640768003753e-05,
-   "clock_length": 1.5210640768003753e-05,
+   "branch_length": 1.520045478154359e-05,
+   "clock_length": 1.520045478154359e-05,
    "date": "2016-11-15",
-   "mutation_length": 6.804768200531119e-21,
+   "mutation_length": 1.5567689971413466e-18,
    "num_date_confidence": [
     2016.8733744010951,
     2016.8733744010951
@@ -239,7 +239,7 @@
    "branch_length": 3.787224630897087e-05,
    "clock_length": 3.787224630897087e-05,
    "date": "2016-11-15",
-   "mutation_length": 6.804768200531119e-21,
+   "mutation_length": 1.5567689971413466e-18,
    "num_date_confidence": [
     2016.8733744010951,
     2016.8733744010951
@@ -248,10 +248,10 @@
    "raw_date": "2016-11-14"
   },
   "242_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2016-06-13": {
-   "branch_length": 0.0002584081880308342,
-   "clock_length": 0.0002584081880308342,
+   "branch_length": 0.0002619370736317392,
+   "clock_length": 0.0002619370736317392,
    "date": "2016-06-13",
-   "mutation_length": 0.0005637522723447883,
+   "mutation_length": 0.0005637851738475719,
    "num_date_confidence": [
     2016.4517453798767,
     2016.4517453798767
@@ -260,10 +260,10 @@
    "raw_date": "2016-06-13"
   },
   "32_Redding_CT_USA_Ixodes-scapularis_2016-11-10": {
-   "branch_length": 0.0002650138199636147,
-   "clock_length": 0.0002650138199636147,
+   "branch_length": 0.00026601861630208025,
+   "clock_length": 0.00026601861630208025,
    "date": "2016-11-11",
-   "mutation_length": 0.00046969810193493846,
+   "mutation_length": 0.000469724048323316,
    "num_date_confidence": [
     2016.8624229979466,
     2016.8624229979466
@@ -272,10 +272,10 @@
    "raw_date": "2016-11-10"
   },
   "3338_Groton_CT_USA_Ixodes-scapularis_2016-11-02": {
-   "branch_length": 4.0233122890121764e-05,
-   "clock_length": 4.0233122890121764e-05,
+   "branch_length": 2.2723347785382523e-05,
+   "clock_length": 2.2723347785382523e-05,
    "date": "2016-11-03",
-   "mutation_length": 5.379556162717887e-21,
+   "mutation_length": 1.5431070291162387e-18,
    "num_date_confidence": [
     2016.8405201916496,
     2016.8405201916496
@@ -284,10 +284,10 @@
    "raw_date": "2016-11-02"
   },
   "3381_Groton_CT_USA_Ixodes-scapularis_2016-11-02": {
-   "branch_length": 4.0233122890121764e-05,
-   "clock_length": 4.0233122890121764e-05,
+   "branch_length": 2.2723347785382523e-05,
+   "clock_length": 2.2723347785382523e-05,
    "date": "2016-11-03",
-   "mutation_length": 9.393316608096485e-05,
+   "mutation_length": 9.393819143491468e-05,
    "num_date_confidence": [
     2016.8405201916496,
     2016.8405201916496
@@ -296,10 +296,10 @@
    "raw_date": "2016-11-02"
   },
   "3464_Groton_CT_USA_Ixodes-scapularis_2016-11-02": {
-   "branch_length": 0.00012876563745050097,
-   "clock_length": 0.00012876563745050097,
+   "branch_length": 0.00011361673892691264,
+   "clock_length": 0.00011361673892691264,
    "date": "2016-11-03",
-   "mutation_length": 5.168948596326403e-21,
+   "mutation_length": 1.537579214796933e-18,
    "num_date_confidence": [
     2016.8405201916496,
     2016.8405201916496
@@ -308,10 +308,10 @@
    "raw_date": "2016-11-02"
   },
   "3569_North-Branford_CT_USA_Ixodes-scapularis_2016-10-17": {
-   "branch_length": 0.00025585862588477606,
-   "clock_length": 0.00025585862588477606,
+   "branch_length": 0.00028172931679464524,
+   "clock_length": 0.00028172931679464524,
    "date": "2016-10-17",
-   "mutation_length": 0.0005637612290862241,
+   "mutation_length": 0.0005637940256330936,
    "num_date_confidence": [
     2016.7967145790553,
     2016.7967145790553
@@ -320,10 +320,10 @@
    "raw_date": "2016-10-17"
   },
   "3591_North-Branford_CT_USA_Ixodes-scapularis_2016-10-20": {
-   "branch_length": 9.899214221393559e-05,
-   "clock_length": 9.899214221393559e-05,
+   "branch_length": 0.0001194494682855654,
+   "clock_length": 0.0001194494682855654,
    "date": "2016-10-20",
-   "mutation_length": 9.392171077275334e-05,
+   "mutation_length": 9.392718821395191e-05,
    "num_date_confidence": [
     2016.8049281314168,
     2016.8049281314168
@@ -332,10 +332,10 @@
    "raw_date": "2016-10-20"
   },
   "364_Westport_CT_USA_Ixodes-scapularis_2019-05-07": {
-   "branch_length": 0.0006022125358621279,
-   "clock_length": 0.0006022125358621279,
+   "branch_length": 0.0006131897720511024,
+   "clock_length": 0.0006131897720511024,
    "date": "2019-05-06",
-   "mutation_length": 0.00084571367818232,
+   "mutation_length": 0.0008457616466198179,
    "num_date_confidence": [
     2019.3477070499657,
     2019.3477070499657
@@ -344,10 +344,10 @@
    "raw_date": "2019-05-07"
   },
   "375_North-Branford_CT_USA_Ixodes-scapularis_2019-05-08": {
-   "branch_length": 0.000317394830716038,
-   "clock_length": 0.000317394830716038,
+   "branch_length": 0.00041335672523946525,
+   "clock_length": 0.00041335672523946525,
    "date": "2019-05-08",
-   "mutation_length": 0.0003757752416573197,
+   "mutation_length": 0.0003757968336083546,
    "num_date_confidence": [
     2019.350444900753,
     2019.350444900753
@@ -356,10 +356,10 @@
    "raw_date": "2019-05-08"
   },
   "45_Lyme_CT_USA_Ixodes-scapularis_2016-11-28": {
-   "branch_length": 0.0004001019709466275,
-   "clock_length": 0.0004001019709466275,
+   "branch_length": 0.0004145274938611765,
+   "clock_length": 0.0004145274938611765,
    "date": "2016-11-29",
-   "mutation_length": 0.000657710044215025,
+   "mutation_length": 0.0006577478909086936,
    "num_date_confidence": [
     2016.911704312115,
     2016.911704312115
@@ -368,10 +368,10 @@
    "raw_date": "2016-11-28"
   },
   "50_Lyme_CT_USA_Ixodes-scapularis_2016-11-28": {
-   "branch_length": 0.00011280033756668888,
-   "clock_length": 0.00011280033756668888,
+   "branch_length": 0.00012223646856851278,
+   "clock_length": 0.00012223646856851278,
    "date": "2016-11-29",
-   "mutation_length": 9.390669498584962e-05,
+   "mutation_length": 9.391202178412705e-05,
    "num_date_confidence": [
     2016.911704312115,
     2016.911704312115
@@ -380,10 +380,10 @@
    "raw_date": "2016-11-28"
   },
   "52_Lyme_CT_USA_Ixodes-scapularis_2016-11-28": {
-   "branch_length": 4.5446695570765047e-05,
-   "clock_length": 4.5446695570765047e-05,
+   "branch_length": 1.8486791418616323e-05,
+   "clock_length": 1.8486791418616323e-05,
    "date": "2016-11-29",
-   "mutation_length": 9.136207624625566e-21,
+   "mutation_length": 1.5696597761108049e-18,
    "num_date_confidence": [
     2016.911704312115,
     2016.911704312115
@@ -392,10 +392,10 @@
    "raw_date": "2016-11-28"
   },
   "53_Lyme_CT_USA_Ixodes-scapularis_2016-11-28": {
-   "branch_length": 1.5148898523588352e-05,
-   "clock_length": 1.5148898523588352e-05,
+   "branch_length": 3.787224630897087e-05,
+   "clock_length": 3.787224630897087e-05,
    "date": "2016-11-29",
-   "mutation_length": 9.136207624625566e-21,
+   "mutation_length": 1.5696597761108049e-18,
    "num_date_confidence": [
     2016.911704312115,
     2016.911704312115
@@ -404,10 +404,10 @@
    "raw_date": "2016-11-28"
   },
   "55_Lyme_CT_USA_Ixodes-scapularis_2016-11-28": {
-   "branch_length": 1.5148898523588352e-05,
-   "clock_length": 1.5148898523588352e-05,
+   "branch_length": 1.8486791418616323e-05,
+   "clock_length": 1.8486791418616323e-05,
    "date": "2016-11-29",
-   "mutation_length": 9.136207624625566e-21,
+   "mutation_length": 1.5696597761108049e-18,
    "num_date_confidence": [
     2016.911704312115,
     2016.911704312115
@@ -416,10 +416,10 @@
    "raw_date": "2016-11-28"
   },
   "612_Wells_ME_USA_Ixodes-scapularis_2016-10-07": {
-   "branch_length": 4.079672247900115e-05,
-   "clock_length": 4.079672247900115e-05,
+   "branch_length": 4.023066532641181e-05,
+   "clock_length": 4.023066532641181e-05,
    "date": "2016-10-08",
-   "mutation_length": 9.392219685317033e-05,
+   "mutation_length": 9.39274283523587e-05,
    "num_date_confidence": [
     2016.7693360711842,
     2016.7693360711842
@@ -428,10 +428,10 @@
    "raw_date": "2016-10-07"
   },
   "62_Lyme_CT_USA_Ixodes-scapularis_2016-11-16": {
-   "branch_length": 0.00047748133173923084,
-   "clock_length": 0.00047748133173923084,
+   "branch_length": 0.0005022888162577526,
+   "clock_length": 0.0005022888162577526,
    "date": "2016-11-17",
-   "mutation_length": 0.0003757052855104887,
+   "mutation_length": 0.00037572699453372566,
    "num_date_confidence": [
     2016.8788501026695,
     2016.8788501026695
@@ -440,10 +440,10 @@
    "raw_date": "2016-11-16"
   },
   "632_Wells_ME_USA_Ixodes-scapularis_2016-10-07": {
-   "branch_length": 0.00014391453597408936,
-   "clock_length": 0.00014391453597408936,
+   "branch_length": 0.00014391453597408933,
+   "clock_length": 0.00014391453597408933,
    "date": "2016-10-08",
-   "mutation_length": 5.521308858613408e-21,
+   "mutation_length": 1.5309748377564481e-18,
    "num_date_confidence": [
     2016.7693360711842,
     2016.7693360711842
@@ -452,10 +452,10 @@
    "raw_date": "2016-10-07"
   },
   "67_North-Branford_CT_USA_Ixodes-scapularis_2015-12-03": {
-   "branch_length": 0.00025208487152762234,
-   "clock_length": 0.00025208487152762234,
+   "branch_length": 0.0002712279377228789,
+   "clock_length": 0.0002712279377228789,
    "date": "2015-12-03",
-   "mutation_length": 0.0006578506621707189,
+   "mutation_length": 0.0006578883718816656,
    "num_date_confidence": [
     2015.9226557152635,
     2015.9226557152635
@@ -464,10 +464,10 @@
    "raw_date": "2015-12-03"
   },
   "687_Unknown_ME_USA_Ixodes-scapularis_2016-10-14": {
-   "branch_length": 0.00047943957986044874,
-   "clock_length": 0.00047943957986044874,
+   "branch_length": 0.0004950975601519574,
+   "clock_length": 0.0004950975601519574,
    "date": "2016-10-15",
-   "mutation_length": 0.000751932547396839,
+   "mutation_length": 0.0007519731151572217,
    "num_date_confidence": [
     2016.7885010266941,
     2016.7885010266941
@@ -476,10 +476,10 @@
    "raw_date": "2016-10-14"
   },
   "69_Westport_CT_USA_Ixodes-scapularis_2019-04-09": {
-   "branch_length": 0.0009335924982134062,
-   "clock_length": 0.0009335924982134062,
+   "branch_length": 0.0008858096298446134,
+   "clock_length": 0.0008858096298446134,
    "date": "2019-04-09",
-   "mutation_length": 0.0011279988972531408,
+   "mutation_length": 0.0011280651422490872,
    "num_date_confidence": [
     2019.2710472279261,
     2019.2710472279261
@@ -488,10 +488,10 @@
    "raw_date": "2019-04-09"
   },
   "8_Redding_CT_USA_Ixodes-scapularis_2015-12-28": {
-   "branch_length": 0.00026010145264230666,
-   "clock_length": 0.00026010145264230666,
+   "branch_length": 0.0002619166715285101,
+   "clock_length": 0.0002619166715285101,
    "date": "2015-12-28",
-   "mutation_length": 9.390367070704008e-05,
+   "mutation_length": 9.39088878785612e-05,
    "num_date_confidence": [
     2015.991101984942,
     2015.991101984942
@@ -500,10 +500,10 @@
    "raw_date": "2015-12-28"
   },
   "93_Lyme_CT_USA_Ixodes-scapularis_2016-11-07": {
-   "branch_length": 1.5148898523588352e-05,
-   "clock_length": 1.5148898523588352e-05,
+   "branch_length": 2.2723347785382523e-05,
+   "clock_length": 2.2723347785382523e-05,
    "date": "2016-11-07",
-   "mutation_length": 9.136207624625566e-21,
+   "mutation_length": 1.5696597761108049e-18,
    "num_date_confidence": [
     2016.8542094455852,
     2016.8542094455852
@@ -512,10 +512,10 @@
    "raw_date": "2016-11-07"
   },
   "946_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2016-10-06": {
-   "branch_length": 0.00026018327755778116,
-   "clock_length": 0.00026018327755778116,
+   "branch_length": 0.00026341931604795585,
+   "clock_length": 0.00026341931604795585,
    "date": "2016-10-07",
-   "mutation_length": 0.00037577576036564335,
+   "mutation_length": 0.0003757975227867947,
    "num_date_confidence": [
     2016.766598220397,
     2016.766598220397
@@ -524,10 +524,10 @@
    "raw_date": "2016-10-06"
   },
   "95_Lyme_CT_USA_Ixodes-scapularis_2016-11-07": {
-   "branch_length": 1.5148898523588352e-05,
-   "clock_length": 1.5148898523588352e-05,
+   "branch_length": 2.2723347785382523e-05,
+   "clock_length": 2.2723347785382523e-05,
    "date": "2016-11-07",
-   "mutation_length": 9.136207624625566e-21,
+   "mutation_length": 1.5696597761108049e-18,
    "num_date_confidence": [
     2016.8542094455852,
     2016.8542094455852
@@ -536,10 +536,10 @@
    "raw_date": "2016-11-07"
   },
   "963_Wells_ME_USA_Ixodes-scapularis_2016-11-07": {
-   "branch_length": 8.22610267898267e-05,
-   "clock_length": 8.22610267898267e-05,
+   "branch_length": 8.008365135169242e-05,
+   "clock_length": 8.008365135169242e-05,
    "date": "2016-11-07",
-   "mutation_length": 0.00018782333938572256,
+   "mutation_length": 0.00018783426812170193,
    "num_date_confidence": [
     2016.8542094455852,
     2016.8542094455852
@@ -548,10 +548,10 @@
    "raw_date": "2016-11-07"
   },
   "98_Lyme_CT_USA_Ixodes-scapularis_2016-11-07": {
-   "branch_length": 1.5148898523588352e-05,
-   "clock_length": 1.5148898523588352e-05,
+   "branch_length": 2.2723347785382523e-05,
+   "clock_length": 2.2723347785382523e-05,
    "date": "2016-11-07",
-   "mutation_length": 9.136207624625566e-21,
+   "mutation_length": 1.5696597761108049e-18,
    "num_date_confidence": [
     2016.8542094455852,
     2016.8542094455852
@@ -560,10 +560,10 @@
    "raw_date": "2016-11-07"
   },
   "CO166_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2017-11-15": {
-   "branch_length": 1.772663722793558e-05,
-   "clock_length": 1.772663722793558e-05,
+   "branch_length": 1.7301372293223088e-05,
+   "clock_length": 1.7301372293223088e-05,
    "date": "2017-11-15",
-   "mutation_length": 6.2096441331694325e-21,
+   "mutation_length": 1.549385304965538e-18,
    "num_date_confidence": [
     2017.8733744010951,
     2017.8733744010951
@@ -572,10 +572,10 @@
    "raw_date": "2017-11-15"
   },
   "CO18_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2017-11-15": {
-   "branch_length": 1.5272383012419156e-05,
-   "clock_length": 1.5272383012419156e-05,
+   "branch_length": 1.5252011039498831e-05,
+   "clock_length": 1.5252011039498831e-05,
    "date": "2017-11-15",
-   "mutation_length": 5.1885360659228545e-21,
+   "mutation_length": 1.5294655875724736e-18,
    "num_date_confidence": [
     2017.8733744010951,
     2017.8733744010951
@@ -584,10 +584,10 @@
    "raw_date": "2017-11-15"
   },
   "CO452_Wells_ME_USA_Ixodes-scapularis_2017-11-15": {
-   "branch_length": 4.702111249413879e-05,
-   "clock_length": 4.702111249413879e-05,
+   "branch_length": 4.5428180581532644e-05,
+   "clock_length": 4.5428180581532644e-05,
    "date": "2017-11-15",
-   "mutation_length": 0.00018786093904372506,
+   "mutation_length": 0.00018787140049682414,
    "num_date_confidence": [
     2017.8733744010951,
     2017.8733744010951
@@ -596,10 +596,10 @@
    "raw_date": "2017-11-15"
   },
   "CO527_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2017-11-15": {
-   "branch_length": 8.775747281776181e-05,
-   "clock_length": 8.775747281776181e-05,
+   "branch_length": 8.297146122563725e-05,
+   "clock_length": 8.297146122563725e-05,
    "date": "2017-11-15",
-   "mutation_length": 9.391720964152666e-05,
+   "mutation_length": 9.392270109259594e-05,
    "num_date_confidence": [
     2017.8733744010951,
     2017.8733744010951
@@ -608,10 +608,10 @@
    "raw_date": "2017-11-15"
   },
   "CO570_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2017-11-07": {
-   "branch_length": 4.5296874332501386e-05,
-   "clock_length": 4.5296874332501386e-05,
+   "branch_length": 4.1947100942008316e-05,
+   "clock_length": 4.1947100942008316e-05,
    "date": "2017-11-07",
-   "mutation_length": 9.391803361447402e-05,
+   "mutation_length": 9.392351206595535e-05,
    "num_date_confidence": [
     2017.851471594798,
     2017.851471594798
@@ -623,7 +623,7 @@
    "branch_length": 1.5148898523588352e-05,
    "clock_length": 1.5148898523588352e-05,
    "date": "2017-11-07",
-   "mutation_length": 5.1885360659228545e-21,
+   "mutation_length": 1.5294655875724736e-18,
    "num_date_confidence": [
     2017.851471594798,
     2017.851471594798
@@ -632,10 +632,10 @@
    "raw_date": "2017-11-07"
   },
   "CO57_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2017-11-15": {
-   "branch_length": 4.5446695570765047e-05,
-   "clock_length": 4.5446695570765047e-05,
+   "branch_length": 4.1896394982682446e-05,
+   "clock_length": 4.1896394982682446e-05,
    "date": "2017-11-15",
-   "mutation_length": 6.2096441331694325e-21,
+   "mutation_length": 1.549385304965538e-18,
    "num_date_confidence": [
     2017.8733744010951,
     2017.8733744010951
@@ -644,10 +644,10 @@
    "raw_date": "2017-11-15"
   },
   "CO95_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2017-11-15": {
-   "branch_length": 8.775747281776181e-05,
-   "clock_length": 8.775747281776181e-05,
+   "branch_length": 8.297146122563725e-05,
+   "clock_length": 8.297146122563725e-05,
    "date": "2017-11-15",
-   "mutation_length": 9.391711717756332e-05,
+   "mutation_length": 9.392257664666411e-05,
    "num_date_confidence": [
     2017.8733744010951,
     2017.8733744010951
@@ -656,10 +656,10 @@
    "raw_date": "2017-11-15"
   },
   "DH18-D81-A1-A3_Marthas-Vineyard_MA_USA_Ixodes-scapularis_2018-06-01": {
-   "branch_length": 0.0009373080977771618,
-   "clock_length": 0.0009373080977771618,
+   "branch_length": 0.0009373605449658069,
+   "clock_length": 0.0009373605449658069,
    "date": "2018-06-01",
-   "mutation_length": 0.0012220819757204572,
+   "mutation_length": 0.0012221491193998876,
    "num_date_confidence": [
     2018.416153319644,
     2018.416153319644
@@ -668,10 +668,10 @@
    "raw_date": "2018-06-01"
   },
   "DH18-D81-A4-A6_Marthas-Vineyard_MA_USA_Ixodes-scapularis_2018-06-01": {
-   "branch_length": 0.0009373080977771618,
-   "clock_length": 0.0009373080977771618,
+   "branch_length": 0.0009373605449658069,
+   "clock_length": 0.0009373605449658069,
    "date": "2018-06-01",
-   "mutation_length": 0.0013163031849318372,
+   "mutation_length": 0.001316376838836693,
    "num_date_confidence": [
     2018.416153319644,
     2018.416153319644
@@ -680,10 +680,10 @@
    "raw_date": "2018-06-01"
   },
   "DH18-P1020C10_Millis_MA_USA_Ixodes-scapularis_2018-06-01": {
-   "branch_length": 4.5446695570765047e-05,
-   "clock_length": 4.5446695570765047e-05,
+   "branch_length": 4.1937545628268426e-05,
+   "clock_length": 4.1937545628268426e-05,
    "date": "2018-06-01",
-   "mutation_length": 9.867048724085727e-21,
+   "mutation_length": 1.5771554225203153e-18,
    "num_date_confidence": [
     2018.416153319644,
     2018.416153319644
@@ -692,10 +692,10 @@
    "raw_date": "2018-06-01"
   },
   "DH18-P52-B9_Millis_MA_USA_Unknown_2018-06-01": {
-   "branch_length": 4.5446695570765047e-05,
-   "clock_length": 4.5446695570765047e-05,
+   "branch_length": 4.1937545628268426e-05,
+   "clock_length": 4.1937545628268426e-05,
    "date": "2018-06-01",
-   "mutation_length": 9.389697094985998e-05,
+   "mutation_length": 9.390211681800763e-05,
    "num_date_confidence": [
     2018.416153319644,
     2018.416153319644
@@ -704,10 +704,10 @@
    "raw_date": "2018-06-01"
   },
   "DH18-P61-g2_Sherborn_MA_USA_Ixodes-scapularis_2018-06-01": {
-   "branch_length": 0.0007356829151981223,
-   "clock_length": 0.0007356829151981223,
+   "branch_length": 0.0007405308617558482,
+   "clock_length": 0.0007405308617558482,
    "date": "2018-06-01",
-   "mutation_length": 0.0007516673167727601,
+   "mutation_length": 0.0007517103735577179,
    "num_date_confidence": [
     2018.416153319644,
     2018.416153319644
@@ -716,10 +716,10 @@
    "raw_date": "2018-06-01"
   },
   "H11_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2016-04-08": {
-   "branch_length": 0.00039918191577248993,
-   "clock_length": 0.00039918191577248993,
+   "branch_length": 0.0003993380086921102,
+   "clock_length": 0.0003993380086921102,
    "date": "2016-04-09",
-   "mutation_length": 0.0008458954460461233,
+   "mutation_length": 0.0008459437473775732,
    "num_date_confidence": [
     2016.2710472279261,
     2016.2710472279261
@@ -728,10 +728,10 @@
    "raw_date": "2016-04-08"
   },
   "IPS001_Ipswich_MA_USA_Ixodes-scapularis_1995-06-01": {
-   "branch_length": 0.0006886908195146207,
-   "clock_length": 0.0006886908195146207,
+   "branch_length": 0.0006919690298542734,
+   "clock_length": 0.0006919690298542734,
    "date": "1995-06-01",
-   "mutation_length": 0.001222226757838301,
+   "mutation_length": 0.0012222993450100377,
    "num_date_confidence": [
     1995.416153319644,
     1995.416153319644
@@ -740,10 +740,10 @@
    "raw_date": "1995-06-01"
   },
   "LI-1_East-Islip_NY_USA_Ixodes-scapularis_2013-04-01": {
-   "branch_length": 0.0005752380254656356,
-   "clock_length": 0.0005752380254656356,
+   "branch_length": 0.0005896443813355505,
+   "clock_length": 0.0005896443813355505,
    "date": "2013-04-01",
-   "mutation_length": 0.0012224913911250434,
+   "mutation_length": 0.0012225620783534509,
    "num_date_confidence": [
     2013.2491444216291,
     2013.2491444216291
@@ -752,10 +752,10 @@
    "raw_date": "2013-04-01"
   },
   "ME18-F37_Unknown_ME_USA_Unknown_2018-06-01": {
-   "branch_length": 4.693172258610701e-05,
-   "clock_length": 4.693172258610701e-05,
+   "branch_length": 4.194765205103632e-05,
+   "clock_length": 4.194765205103632e-05,
    "date": "2018-06-01",
-   "mutation_length": 9.391931627053082e-05,
+   "mutation_length": 9.392474605100508e-05,
    "num_date_confidence": [
     2018.416153319644,
     2018.416153319644
@@ -764,10 +764,10 @@
    "raw_date": "2018-06-01"
   },
   "ME18-M192_Unknown_ME_USA_Ixodes-scapularis_2018-06-01": {
-   "branch_length": 5.0081212482982236e-05,
-   "clock_length": 5.0081212482982236e-05,
+   "branch_length": 4.7983437616443426e-05,
+   "clock_length": 4.7983437616443426e-05,
    "date": "2018-06-01",
-   "mutation_length": 2.0202005565906016e-22,
+   "mutation_length": 1.5023345613994865e-18,
    "num_date_confidence": [
     2018.416153319644,
     2018.416153319644
@@ -776,10 +776,10 @@
    "raw_date": "2018-06-01"
   },
   "ME18-M193_Unknown_ME_USA_Unknown_2018-06-01": {
-   "branch_length": 0.00015319902597807044,
-   "clock_length": 0.00015319902597807044,
+   "branch_length": 0.00015166730826412096,
+   "clock_length": 0.00015166730826412096,
    "date": "2018-06-01",
-   "mutation_length": 0.0005638790295861846,
+   "mutation_length": 0.0005639093726578939,
    "num_date_confidence": [
     2018.416153319644,
     2018.416153319644
@@ -788,10 +788,10 @@
    "raw_date": "2018-06-01"
   },
   "ME18-M32_Unknown_ME_USA_Ixodes-scapularis_2018-06-01": {
-   "branch_length": 4.693172258610701e-05,
-   "clock_length": 4.693172258610701e-05,
+   "branch_length": 4.194765205103632e-05,
+   "clock_length": 4.194765205103632e-05,
    "date": "2018-06-01",
-   "mutation_length": 5.16434545944889e-21,
+   "mutation_length": 1.5290834981781639e-18,
    "num_date_confidence": [
     2018.416153319644,
     2018.416153319644
@@ -800,10 +800,10 @@
    "raw_date": "2018-06-01"
   },
   "MeC17-166_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2017-06-01": {
-   "branch_length": 1.5148898523588352e-05,
-   "clock_length": 1.5148898523588352e-05,
+   "branch_length": 1.5148898523588349e-05,
+   "clock_length": 1.5148898523588349e-05,
    "date": "2017-06-01",
-   "mutation_length": 6.2096441331694325e-21,
+   "mutation_length": 1.549385304965538e-18,
    "num_date_confidence": [
     2017.416153319644,
     2017.416153319644
@@ -812,10 +812,10 @@
    "raw_date": "2017-06-01"
   },
   "MeW17-228_Wells_ME_USA_Ixodes-scapularis_2017-06-01": {
-   "branch_length": 0.00021845067722485857,
-   "clock_length": 0.00021845067722485857,
+   "branch_length": 0.00021446426550465633,
+   "clock_length": 0.00021446426550465633,
    "date": "2017-06-01",
-   "mutation_length": 9.390947526013643e-05,
+   "mutation_length": 9.391469707408247e-05,
    "num_date_confidence": [
     2017.416153319644,
     2017.416153319644
@@ -824,10 +824,10 @@
    "raw_date": "2017-06-01"
   },
   "N18-F18_Nantucket_MA_USA_Ixodes-scapularis_2018-06-01": {
-   "branch_length": 0.0008183611094580062,
-   "clock_length": 0.0008183611094580062,
+   "branch_length": 0.0008002468383588204,
+   "clock_length": 0.0008002468383588204,
    "date": "2018-06-01",
-   "mutation_length": 0.000751893512082423,
+   "mutation_length": 0.0007519368000453757,
    "num_date_confidence": [
     2018.416153319644,
     2018.416153319644
@@ -836,10 +836,10 @@
    "raw_date": "2018-06-01"
   },
   "NFS001_Nantucket_MA_USA_Ixodes-scapularis_1996-06-01": {
-   "branch_length": 0.0006943440937689149,
-   "clock_length": 0.0006943440937689149,
+   "branch_length": 0.0006966896497233075,
+   "clock_length": 0.0006966896497233075,
    "date": "1996-06-01",
-   "mutation_length": 0.0010340575163902957,
+   "mutation_length": 0.0010341187305774895,
    "num_date_confidence": [
     1996.4188911704312,
     1996.4188911704312
@@ -848,1165 +848,1176 @@
    "raw_date": "1996-06-01"
   },
   "NODE_0000002": {
-   "branch_length": 0.0003596060673937339,
-   "clock_length": 0.0003596060673937339,
-   "date": "1993-04-08",
-   "mutation_length": 0.0007520714280794177,
+   "branch_length": 0.0003756859933945517,
+   "clock_length": 0.0003756859933945517,
+   "date": "1988-09-21",
+   "mutation_length": 0.0007521108467775618,
    "num_date_confidence": [
-    1969.512991657754,
-    2009.91062227401
+    1933.7793087154853,
+    2009.1357179837673
    ],
-   "numdate": 1993.2710223848326
+   "numdate": 1988.7252888727319
   },
   "NODE_0000003": {
-   "branch_length": 0.00011395372226065052,
-   "clock_length": 0.00011395372226065052,
-   "date": "2013-06-25",
-   "mutation_length": 0.0002817737925141268,
+   "branch_length": 0.00010773013510186761,
+   "clock_length": 0.00010773013510186761,
+   "date": "2011-08-10",
+   "mutation_length": 0.0002817900217399782,
    "num_date_confidence": [
-    2005.5793543301772,
+    2001.728587420332,
     2014.8268309377138
    ],
-   "numdate": 2013.4833286358578
+   "numdate": 2011.6089539705429
   },
   "NODE_0000004": {
-   "branch_length": 0.00023409383757035346,
-   "clock_length": 0.00023409383757035346,
-   "date": "1929-06-26",
-   "mutation_length": 9.390480109051727e-05,
+   "branch_length": 0.00019638809634353366,
+   "clock_length": 0.00019638809634353366,
+   "date": "1908-12-03",
+   "mutation_length": 9.39100991581825e-05,
    "num_date_confidence": [
-    1809.4563274193954,
-    2008.1766939869399
+    1583.6367220065522,
+    2004.8716313180232
    ],
-   "numdate": 1929.4866385165847
+   "numdate": 1908.9233611516713
   },
   "NODE_0000005": {
-   "branch_length": 4.8414602358632253e-05,
-   "clock_length": 4.8414602358632253e-05,
-   "date": "1374-07-26",
-   "mutation_length": 9.114822390344238e-21,
+   "branch_length": 4.8868236831985535e-05,
+   "clock_length": 4.8868236831985535e-05,
+   "date": "1250-05-22",
+   "mutation_length": 1.5688946732601487e-18,
    "num_date_confidence": [
-    -442.50589085606657,
-    1962.7206116240623
+    -1105.0359234233347,
+    1943.55877427114
    ],
-   "numdate": 1374.5669215222629
+   "numdate": 1250.3903411359347
   },
   "NODE_0000006": {
-   "branch_length": 0.0008754944191327729,
-   "clock_length": 0.0008754944191327729,
-   "date": "1887-12-18",
-   "mutation_length": 0.001127932577694943,
+   "branch_length": 0.0009191044375305711,
+   "clock_length": 0.0009191044375305711,
+   "date": "1867-03-16",
+   "mutation_length": 0.0011279978823871169,
    "num_date_confidence": [
-    1795.918245839066,
-    1994.6177166872856
+    1504.2425087999663,
+    1992.1493562575793
    ],
-   "numdate": 1887.964727318045
+   "numdate": 1867.207276588401
   },
   "NODE_0000007": {
-   "branch_length": 0.00014813738541346374,
-   "clock_length": 0.00014813738541346374,
-   "date": "1914-03-28",
-   "mutation_length": 9.390469014261951e-05,
+   "branch_length": 0.00014523580788965954,
+   "clock_length": 0.00014523580788965954,
+   "date": "1898-01-21",
+   "mutation_length": 9.390997277894e-05,
    "num_date_confidence": [
-    1825.9709470052549,
-    1997.7212358690163
+    1563.1434589856133,
+    1995.1436367856722
    ],
-   "numdate": 1914.2402902553783
-  },
-  "NODE_0000008": {
-   "branch_length": 0.00010821765641414621,
-   "clock_length": 0.00010821765641414621,
-   "date": "1933-06-07",
-   "mutation_length": 0.00018782551976543086,
-   "num_date_confidence": [
-    1844.6648489934803,
-    2005.6568324803613
-   ],
-   "numdate": 1933.4351736678552
-  },
-  "NODE_0000009": {
-   "branch_length": 8.094823707899436e-05,
-   "clock_length": 8.094823707899436e-05,
-   "date": "1947-10-16",
-   "mutation_length": 9.390527133404114e-05,
-   "num_date_confidence": [
-    1863.5247661226795,
-    2013.930869267625
-   ],
-   "numdate": 1947.7932001180911
+   "numdate": 1898.0577678164525
   },
   "NODE_0000010": {
-   "branch_length": 0.00033661583022069836,
-   "clock_length": 0.00033661583022069836,
-   "date": "1993-02-20",
-   "mutation_length": 0.0005636750806723427,
+   "branch_length": 0.0003932803641956953,
+   "clock_length": 0.0003932803641956953,
+   "date": "2008-02-06",
+   "mutation_length": 0.00046971276425413036,
    "num_date_confidence": [
-    1966.7921881391328,
-    2008.7787053952627
-   ],
-   "numdate": 1993.1417116763407
-  },
-  "NODE_0000011": {
-   "branch_length": 5.614243001462736e-05,
-   "clock_length": 5.614243001462736e-05,
-   "date": "2003-02-05",
-   "mutation_length": 9.390589537770007e-05,
-   "num_date_confidence": [
-    1982.6464700769827,
-    2012.2628336755647
-   ],
-   "numdate": 2003.0998593052248
-  },
-  "NODE_0000012": {
-   "branch_length": 3.052440241657037e-05,
-   "clock_length": 3.052440241657037e-05,
-   "date": "2002-04-26",
-   "mutation_length": 9.136207624625566e-21,
-   "num_date_confidence": [
-    1988.9751005644416,
-    2013.6664660013416
-   ],
-   "numdate": 2002.3181801572841
-  },
-  "NODE_0000013": {
-   "branch_length": 2.8452888679867153e-05,
-   "clock_length": 2.8452888679867153e-05,
-   "date": "2007-05-13",
-   "mutation_length": 9.136207624625566e-21,
-   "num_date_confidence": [
-    1997.9331970265034,
-    2016.5872988608555
-   ],
-   "numdate": 2007.3649525515054
-  },
-  "NODE_0000014": {
-   "branch_length": 3.825738779685872e-05,
-   "clock_length": 3.825738779685872e-05,
-   "date": "2014-02-24",
-   "mutation_length": 9.136207624625566e-21,
-   "num_date_confidence": [
-    2005.5338028266071,
-    2016.8377823408625
-   ],
-   "numdate": 2014.1507777371507
-  },
-  "NODE_0000015": {
-   "branch_length": 3.825738779685872e-05,
-   "clock_length": 3.825738779685872e-05,
-   "date": "2014-02-24",
-   "mutation_length": 9.136207624625566e-21,
-   "num_date_confidence": [
-    2005.5338028266071,
-    2016.8377823408625
-   ],
-   "numdate": 2014.1507777371507
-  },
-  "NODE_0000016": {
-   "branch_length": 1.1726153449198256e-05,
-   "clock_length": 1.1726153449198256e-05,
-   "date": "2004-05-25",
-   "mutation_length": 9.136207624625566e-21,
-   "num_date_confidence": [
-    1995.4240331681303,
-    2014.9979307656286
-   ],
-   "numdate": 2004.3980824190073
-  },
-  "NODE_0000017": {
-   "branch_length": 2.5103086130155207e-05,
-   "clock_length": 2.5103086130155207e-05,
-   "date": "2008-11-06",
-   "mutation_length": 9.136207624625566e-21,
-   "num_date_confidence": [
-    2002.5714238179635,
-    2016.4942922598834
-   ],
-   "numdate": 2008.8506905009795
-  },
-  "NODE_0000018": {
-   "branch_length": 3.0297797047176698e-05,
-   "clock_length": 3.0297797047176698e-05,
-   "date": "2014-03-23",
-   "mutation_length": 9.136207624625566e-21,
-   "num_date_confidence": [
-    2007.6786272178815,
-    2016.911704312115
-   ],
-   "numdate": 2014.2246997084033
-  },
-  "NODE_0000019": {
-   "branch_length": 0.0004305820064248279,
-   "clock_length": 0.0004305820064248279,
-   "date": "2011-04-27",
-   "mutation_length": 0.0004696862656774089,
-   "num_date_confidence": [
-    1998.1754272287526,
+    1995.1802740516541,
     2011.3203285420946
    ],
-   "numdate": 2011.3203285420946
+   "numdate": 2008.1024515749236
+  },
+  "NODE_0000011": {
+   "branch_length": 4.0360550998087705e-05,
+   "clock_length": 4.0360550998087705e-05,
+   "date": "1999-07-08",
+   "mutation_length": 1.5696597761108049e-18,
+   "num_date_confidence": [
+    1966.4789142178104,
+    2012.492536345651
+   ],
+   "numdate": 1999.519903257694
+  },
+  "NODE_0000012": {
+   "branch_length": 0.00014671987097565414,
+   "clock_length": 0.00014671987097565414,
+   "date": "1940-01-06",
+   "mutation_length": 0.00018783587824428152,
+   "num_date_confidence": [
+    1740.4578786479867,
+    2000.9792123075329
+   ],
+   "numdate": 1940.0166732782857
+  },
+  "NODE_0000013": {
+   "branch_length": 0.0002654710037263924,
+   "clock_length": 0.0002654710037263924,
+   "date": "1996-05-28",
+   "mutation_length": 0.0004697149289728739,
+   "num_date_confidence": [
+    1974.0345032028124,
+    2003.300069027135
+   ],
+   "numdate": 1996.4071116334417
+  },
+  "NODE_0000014": {
+   "branch_length": 2.452697262182672e-05,
+   "clock_length": 2.452697262182672e-05,
+   "date": "2004-09-23",
+   "mutation_length": 1.5696597761108049e-18,
+   "num_date_confidence": [
+    1988.993186523855,
+    2015.7742467330688
+   ],
+   "numdate": 2004.7298384982869
+  },
+  "NODE_0000015": {
+   "branch_length": 3.42775924220177e-05,
+   "clock_length": 3.42775924220177e-05,
+   "date": "2012-01-04",
+   "mutation_length": 1.5696597761108049e-18,
+   "num_date_confidence": [
+    2003.241537047291,
+    2016.8377823408625
+   ],
+   "numdate": 2012.0109668901061
+  },
+  "NODE_0000016": {
+   "branch_length": 3.42775924220177e-05,
+   "clock_length": 3.42775924220177e-05,
+   "date": "2012-01-04",
+   "mutation_length": 1.5696597761108049e-18,
+   "num_date_confidence": [
+    2003.241537047291,
+    2016.8377823408625
+   ],
+   "numdate": 2012.0109668901061
+  },
+  "NODE_0000017": {
+   "branch_length": 1.517437419819935e-05,
+   "clock_length": 1.517437419819935e-05,
+   "date": "2002-09-28",
+   "mutation_length": 1.5696597761108049e-18,
+   "num_date_confidence": [
+    1986.6743785691795,
+    2015.0360633520459
+   ],
+   "numdate": 2002.743191680122
+  },
+  "NODE_0000018": {
+   "branch_length": 2.8829297063254866e-05,
+   "clock_length": 2.8829297063254866e-05,
+   "date": "2008-11-12",
+   "mutation_length": 1.5696597761108049e-18,
+   "num_date_confidence": [
+    1990.3549605633164,
+    2015.8481687043213
+   ],
+   "numdate": 2008.8670118941875
+  },
+  "NODE_0000019": {
+   "branch_length": 8.616635553208439e-05,
+   "clock_length": 8.616635553208439e-05,
+   "date": "1916-05-11",
+   "mutation_length": 0.00018783587824428152,
+   "num_date_confidence": [
+    1623.225594351645,
+    2005.1919019018922
+   ],
+   "numdate": 1916.36092895916
   },
   "NODE_0000020": {
-   "branch_length": 0.00016858768955255047,
-   "clock_length": 0.00016858768955255047,
-   "date": "1964-11-06",
-   "mutation_length": 0.00018782551976543086,
+   "branch_length": 7.995987278646636e-05,
+   "clock_length": 7.995987278646636e-05,
+   "date": "1933-05-06",
+   "mutation_length": 9.391050966557538e-05,
    "num_date_confidence": [
-    1898.5081369216373,
-    2004.492889925364
+    1668.481875439963,
+    2013.930869267625
    ],
-   "numdate": 1964.8496274224062
+   "numdate": 1933.34573036481
   },
   "NODE_0000021": {
-   "branch_length": 0.00019525263937876795,
-   "clock_length": 0.00019525263937876795,
-   "date": "1999-06-25",
-   "mutation_length": 0.00046968885559181984,
+   "branch_length": 0.00033806559217857784,
+   "clock_length": 0.00033806559217857784,
+   "date": "1988-03-03",
+   "mutation_length": 0.00056370652523275,
    "num_date_confidence": [
-    1988.4223991964132,
-    2006.4036246842988
+    1941.403112251119,
+    2007.6246637377862
    ],
-   "numdate": 1999.4821612716971
+   "numdate": 1988.1716603315147
   },
   "NODE_0000022": {
-   "branch_length": 2.259647091560893e-05,
-   "clock_length": 2.259647091560893e-05,
-   "date": "2008-05-28",
-   "mutation_length": 9.136207624625566e-21,
+   "branch_length": 7.855156454308837e-05,
+   "clock_length": 7.855156454308837e-05,
+   "date": "2004-11-09",
+   "mutation_length": 9.391094683854016e-05,
    "num_date_confidence": [
-    2001.2651495749978,
-    2016.4367973933536
+    1965.7787228572768,
+    2012.2628336755647
    ],
-   "numdate": 2008.4060848017114
+   "numdate": 2004.8573137395736
   },
   "NODE_0000023": {
-   "branch_length": 3.248026547854115e-05,
-   "clock_length": 3.248026547854115e-05,
-   "date": "2014-03-02",
-   "mutation_length": 9.136207624625566e-21,
+   "branch_length": 1.938545489035455e-05,
+   "clock_length": 1.938545489035455e-05,
+   "date": "2012-12-25",
+   "mutation_length": 1.5696597761108049e-18,
    "num_date_confidence": [
-    2006.9954077291727,
-    2016.8542094455852
+    2006.155348733381,
+    2016.911704312115
    ],
-   "numdate": 2014.1672048418734
+   "numdate": 2012.9848036064147
   },
   "NODE_0000024": {
-   "branch_length": 3.248026547854115e-05,
-   "clock_length": 3.248026547854115e-05,
-   "date": "2014-03-02",
-   "mutation_length": 9.136207624625566e-21,
+   "branch_length": 2.0015607681533163e-05,
+   "clock_length": 2.0015607681533163e-05,
+   "date": "2006-12-29",
+   "mutation_length": 1.5696597761108049e-18,
    "num_date_confidence": [
-    2006.9954077291727,
+    1990.3880861654013,
+    2015.7906738377915
+   ],
+   "numdate": 2006.9948382828138
+  },
+  "NODE_0000025": {
+   "branch_length": 2.369191755104424e-05,
+   "clock_length": 2.369191755104424e-05,
+   "date": "2012-01-10",
+   "mutation_length": 1.5696597761108049e-18,
+   "num_date_confidence": [
+    2005.198054903326,
     2016.8542094455852
    ],
-   "numdate": 2014.1672048418734
+   "numdate": 2012.0273939948288
+  },
+  "NODE_0000026": {
+   "branch_length": 2.369191755104424e-05,
+   "clock_length": 2.369191755104424e-05,
+   "date": "2012-01-10",
+   "mutation_length": 1.5696597761108049e-18,
+   "num_date_confidence": [
+    2005.198054903326,
+    2016.8542094455852
+   ],
+   "numdate": 2012.0273939948288
   },
   "NODE_0000027": {
-   "branch_length": 9.088766209365204e-05,
-   "clock_length": 9.088766209365204e-05,
-   "date": "1732-09-03",
-   "mutation_length": 9.390477586825533e-05,
+   "branch_length": 8.42241175579002e-05,
+   "clock_length": 8.42241175579002e-05,
+   "date": "1671-12-21",
+   "mutation_length": 9.390991313231977e-05,
    "num_date_confidence": [
-    877.6659043698669,
-    1989.4682518198074
+    714.4767155487366,
+    1984.9754434346437
    ],
-   "numdate": 1732.6757120097168
+   "numdate": 1671.9742703504198
   },
   "NODE_0000029": {
-   "branch_length": 0.0003776216117255648,
-   "clock_length": 0.0003776216117255648,
-   "date": "1799-08-27",
-   "mutation_length": 0.000469678789736656,
+   "branch_length": 0.0004191154870056644,
+   "clock_length": 0.0004191154870056644,
+   "date": "1761-01-01",
+   "mutation_length": 0.00046970527852915314,
    "num_date_confidence": [
-    1165.380389226903,
-    2005.6700006970793
+    1153.86248533654,
+    2001.851817114259
    ],
-   "numdate": 1799.6555658642892
+   "numdate": 1761.001341864575
   },
   "NODE_0000030": {
-   "branch_length": 0.00030456416024220135,
-   "clock_length": 0.00030456416024220135,
-   "date": "1853-09-04",
-   "mutation_length": 0.00037578018584585567,
+   "branch_length": 0.0003300546179753304,
+   "clock_length": 0.0003300546179753304,
+   "date": "1831-02-09",
+   "mutation_length": 0.0003758014743028331,
    "num_date_confidence": [
-    1431.7553870237994,
+    1389.6713052280197,
     2016.4188911704312
    ],
-   "numdate": 1853.677005074682
+   "numdate": 1831.1104096253416
   },
   "NODE_0000032": {
-   "branch_length": 0.0011832556920179397,
-   "clock_length": 0.0011832556920179397,
-   "date": "2009-07-13",
-   "mutation_length": 0.001599125068606783,
+   "branch_length": 0.0011638561998168625,
+   "clock_length": 0.0011638561998168625,
+   "date": "2008-03-22",
+   "mutation_length": 0.001599227276474454,
    "num_date_confidence": [
-    1982.3966213776887,
+    1953.6768038372127,
     2016.7693360711842
    ],
-   "numdate": 2009.5331016382488
-  },
-  "NODE_0000033": {
-   "branch_length": 0.0001373836716350601,
-   "clock_length": 0.0001373836716350601,
-   "date": "1851-09-21",
-   "mutation_length": 6.925414955925926e-21,
-   "num_date_confidence": [
-    1263.2508348666606,
-    2018.416153319644
-   ],
-   "numdate": 1851.7247553578904
+   "numdate": 2008.2236763899705
   },
   "NODE_0000034": {
-   "branch_length": 0.0006363763183043875,
-   "clock_length": 0.0006363763183043875,
-   "date": "1912-07-13",
-   "mutation_length": 0.0007516729991180595,
+   "branch_length": 0.0006030353695745281,
+   "clock_length": 0.0006030353695745281,
+   "date": "1889-02-04",
+   "mutation_length": 0.0007517159126886691,
    "num_date_confidence": [
-    1622.2525839779712,
-    2011.3504359809442
+    1592.4243662286776,
+    2008.6545336688462
    ],
-   "numdate": 1912.531501650284
+   "numdate": 1889.0960428173719
   },
   "NODE_0000035": {
-   "branch_length": 0.0003231870853064702,
-   "clock_length": 0.0003231870853064702,
-   "date": "1969-11-08",
-   "mutation_length": 0.0004696773207889377,
+   "branch_length": 0.0003354711074592861,
+   "clock_length": 0.0003354711074592861,
+   "date": "1960-05-09",
+   "mutation_length": 0.0004697033608627172,
    "num_date_confidence": [
-    1894.814404846308,
-    2014.612129430134
+    1780.6243497315575,
+    2012.555466195296
    ],
-   "numdate": 1969.8561437506003
+   "numdate": 1960.3556626612622
   },
   "NODE_0000037": {
-   "branch_length": 0.00011472790887620329,
-   "clock_length": 0.00011472790887620329,
-   "date": "1990-03-16",
-   "mutation_length": 0.00018782056385058387,
+   "branch_length": 0.0001204494208613988,
+   "clock_length": 0.0001204494208613988,
+   "date": "1985-12-09",
+   "mutation_length": 0.00018783112308671835,
    "num_date_confidence": [
-    1936.310378861153,
-    2015.5541205461225
+    1863.0624794729658,
+    2013.7558493714273
    ],
-   "numdate": 1990.205769754404
+   "numdate": 1985.9411147319497
   },
   "NODE_0000038": {
-   "branch_length": 0.00011247540702285597,
-   "clock_length": 0.00011247540702285597,
-   "date": "2010-02-25",
-   "mutation_length": 0.00018782058525337585,
+   "branch_length": 0.00010774850538966581,
+   "clock_length": 0.00010774850538966581,
+   "date": "2008-10-29",
+   "mutation_length": 0.00018783109727267555,
    "num_date_confidence": [
-    2000.6994543355086,
-    2016.4426244429612
+    1995.7532014311978,
+    2015.8059408362485
    ],
-   "numdate": 2010.1558628918153
+   "numdate": 2008.8286819831676
   },
   "NODE_0000040": {
-   "branch_length": 0.0003897558531607509,
-   "clock_length": 0.0003897558531607509,
-   "date": "1801-10-22",
-   "mutation_length": 0.0006577269349409479,
+   "branch_length": 0.0004267328333767272,
+   "clock_length": 0.0004267328333767272,
+   "date": "1762-08-14",
+   "mutation_length": 0.0006577646757309104,
    "num_date_confidence": [
-    1255.7491306894776,
-    2000.1743964692484
+    1111.8288728180285,
+    1997.4748874620218
    ],
-   "numdate": 1801.80785189011
+   "numdate": 1762.6193924047009
   },
   "NODE_0000041": {
-   "branch_length": 0.0006282481308110011,
-   "clock_length": 0.0006282481308110011,
-   "date": "1913-03-29",
-   "mutation_length": 0.0007518158267138478,
+   "branch_length": 0.000608831769230981,
+   "clock_length": 0.000608831769230981,
+   "date": "1891-12-11",
+   "mutation_length": 0.0007518615976327936,
    "num_date_confidence": [
-    1794.9352432517467,
-    2008.5020004088233
+    1505.435985598937,
+    2007.3770023545915
    ],
-   "numdate": 1913.2420671985035
+   "numdate": 1891.9453446539517
   },
   "NODE_0000042": {
-   "branch_length": 0.00046504113454040596,
-   "clock_length": 0.00046504113454040596,
-   "date": "1995-09-22",
-   "mutation_length": 0.0005637941276122507,
+   "branch_length": 0.0004882428244257636,
+   "clock_length": 0.0004882428244257636,
+   "date": "1995-08-27",
+   "mutation_length": 0.0005638271328276385,
    "num_date_confidence": [
-    1978.234964963704,
-    2016.7834702843852
+    1962.164460420044,
+    2016.433238892458
    ],
-   "numdate": 1995.7277784520159
+   "numdate": 1995.6562076358248
   },
   "NODE_0000043": {
-   "branch_length": 0.00011285711255736418,
-   "clock_length": 0.00011285711255736418,
-   "date": "2015-09-29",
-   "mutation_length": 9.392313988293628e-05,
+   "branch_length": 8.450168400704948e-05,
+   "clock_length": 8.450168400704948e-05,
+   "date": "2013-08-09",
+   "mutation_length": 9.39284045997668e-05,
    "num_date_confidence": [
-    2003.6493220743866,
+    2001.6297971259914,
     2018.432580424367
    ],
-   "numdate": 2015.7455758206552
+   "numdate": 2013.6057649736106
   },
   "NODE_0000044": {
-   "branch_length": 4.230804606921129e-05,
-   "clock_length": 4.230804606921129e-05,
-   "date": "1989-07-22",
-   "mutation_length": 8.980206659593075e-21,
+   "branch_length": 6.544453931307332e-05,
+   "clock_length": 6.544453931307332e-05,
+   "date": "1945-06-12",
+   "mutation_length": 1.393791472241836e-22,
    "num_date_confidence": [
-    1951.2518660946814,
-    2008.3538080198505
+    1755.7486920174697,
+    2002.8823026512207
    ],
-   "numdate": 1989.5570514110598
+   "numdate": 1945.44813392102
   },
   "NODE_0000045": {
-   "branch_length": 0.00010433851131803223,
-   "clock_length": 0.00010433851131803223,
-   "date": "1931-09-30",
-   "mutation_length": 9.390904256571905e-05,
+   "branch_length": 9.263041284069513e-05,
+   "clock_length": 9.263041284069513e-05,
+   "date": "1911-08-15",
+   "mutation_length": 9.391433019358142e-05,
    "num_date_confidence": [
-    1819.6876506182002,
-    2012.0509475729486
+    1561.3303070143393,
+    2011.6271175287904
    ],
-   "numdate": 1931.7488952572862
+   "numdate": 1911.6215786372663
   },
   "NODE_0000046": {
-   "branch_length": 0.0002645275050186533,
-   "clock_length": 0.0002645275050186533,
-   "date": "1978-09-01",
-   "mutation_length": 0.00037579247015506886,
+   "branch_length": 0.0002835881126813652,
+   "clock_length": 0.0002835881126813652,
+   "date": "1971-11-10",
+   "mutation_length": 0.0003758136008499352,
    "num_date_confidence": [
-    1907.4491850481625,
-    2014.889575990257
+    1801.8106530549705,
+    2014.845625535439
    ],
-   "numdate": 1978.668915395171
+   "numdate": 1971.8603910195607
   },
   "NODE_0000047": {
-   "branch_length": 7.088948993997881e-05,
-   "clock_length": 7.088948993997881e-05,
-   "date": "1991-03-29",
-   "mutation_length": 9.390819670592983e-05,
+   "branch_length": 6.75046880450809e-05,
+   "clock_length": 6.75046880450809e-05,
+   "date": "1986-03-13",
+   "mutation_length": 9.391350146658372e-05,
    "num_date_confidence": [
-    1925.7374123407492,
+    1839.9918059423426,
     2016.7693360711842
    ],
-   "numdate": 1991.2427923359212
+   "numdate": 1986.19950488306
   },
   "NODE_0000048": {
-   "branch_length": 4.2331299366164045e-05,
-   "clock_length": 4.2331299366164045e-05,
-   "date": "2010-10-28",
-   "mutation_length": 1.0669482764932748e-22,
+   "branch_length": 9.74774342385942e-05,
+   "clock_length": 9.74774342385942e-05,
+   "date": "1966-02-25",
+   "mutation_length": 1.393791472241836e-22,
    "num_date_confidence": [
-    2001.8546177987055,
-    2010.8268309377138
+    1814.7196647158582,
+    2004.938688378168
    ],
-   "numdate": 2010.8268309377138
+   "numdate": 1966.1539555335207
   },
   "NODE_0000049": {
-   "branch_length": 0.0005325994507562051,
-   "clock_length": 0.0005325994507562051,
-   "date": "1896-04-11",
-   "mutation_length": 0.0007518451341631839,
+   "branch_length": 0.0005154073437981185,
+   "clock_length": 0.0005154073437981185,
+   "date": "1872-02-05",
+   "mutation_length": 0.0007518872902476521,
    "num_date_confidence": [
-    1629.2195399260481,
-    2009.9915882584678
+    1488.4374316840722,
+    2006.4472051386497
    ],
-   "numdate": 1896.2765800215966
+   "numdate": 1872.1004492443296
   },
   "NODE_0000050": {
-   "branch_length": 0.0006416714897234238,
-   "clock_length": 0.0006416714897234238,
-   "date": "2010-02-02",
-   "mutation_length": 0.0007517977904156277,
+   "branch_length": 0.0006468672952130883,
+   "clock_length": 0.0006468672952130883,
+   "date": "2009-07-03",
+   "mutation_length": 0.0007518411569642193,
    "num_date_confidence": [
-    1994.6927331053841,
+    1990.116922696564,
     2018.416153319644
    ],
-   "numdate": 2010.091735907207
+   "numdate": 2009.5057772185862
   },
   "NODE_0000051": {
-   "branch_length": 0.00027732753441215446,
-   "clock_length": 0.00027732753441215446,
-   "date": "1945-06-19",
-   "mutation_length": 0.00037576580454160463,
+   "branch_length": 0.00027937835654501573,
+   "clock_length": 0.00027937835654501573,
+   "date": "1931-06-11",
+   "mutation_length": 0.00037578776792812456,
    "num_date_confidence": [
-    1875.7535394026486,
-    2011.4114336430039
+    1645.5196307502767,
+    2010.4898892025296
    ],
-   "numdate": 1945.4669789500206
+   "numdate": 1931.4450396944173
   },
   "NODE_0000052": {
-   "branch_length": 5.37668079835721e-05,
-   "clock_length": 5.37668079835721e-05,
-   "date": "1972-08-03",
-   "mutation_length": 7.160858720780924e-21,
+   "branch_length": 6.0622456845224306e-05,
+   "clock_length": 6.0622456845224306e-05,
+   "date": "1979-01-11",
+   "mutation_length": 1.393791472241836e-22,
    "num_date_confidence": [
-    1910.6738099322565,
-    2008.035120228238
+    1815.8977978964217,
+    2007.1984165054569
    ],
-   "numdate": 1972.589968576577
+   "numdate": 1979.0311694954344
   },
   "NODE_0000053": {
-   "branch_length": 5.716138504976959e-05,
-   "clock_length": 5.716138504976959e-05,
-   "date": "1982-09-23",
-   "mutation_length": 7.160858720780924e-21,
+   "branch_length": 7.593190932830626e-05,
+   "clock_length": 7.593190932830626e-05,
+   "date": "1995-02-27",
+   "mutation_length": 1.393791472241836e-22,
    "num_date_confidence": [
-    1911.5888423463366,
-    2009.0087991347868
+    1937.2151706589045,
+    2008.97365024098
    ],
-   "numdate": 1982.7288512513878
+   "numdate": 1995.160364744872
   },
   "NODE_0000054": {
-   "branch_length": 0.00014179247477451057,
-   "clock_length": 0.00014179247477451057,
-   "date": "1970-08-13",
-   "mutation_length": 0.00028180272383613876,
+   "branch_length": 0.00013825161331663293,
+   "clock_length": 0.00013825161331663293,
+   "date": "1960-10-23",
+   "mutation_length": 0.00028181912477009594,
    "num_date_confidence": [
-    1905.2928869384498,
-    2014.865644676025
+    1774.3648480347965,
+    2014.7396122943637
    ],
-   "numdate": 1970.6171264605846
+   "numdate": 1960.8119723115383
   },
   "NODE_0000055": {
-   "branch_length": 0.00022100274431269013,
-   "clock_length": 0.00022100274431269013,
-   "date": "2009-10-25",
-   "mutation_length": 0.00046975667660103236,
+   "branch_length": 0.00022657950690964645,
+   "clock_length": 0.00022657950690964645,
+   "date": "2008-12-09",
+   "mutation_length": 0.0004697841464949977,
    "num_date_confidence": [
-    1998.3882707649652,
-    2016.7998888419322
+    1986.6803204646637,
+    2017.406552263499
    ],
-   "numdate": 2009.8170320165232
+   "numdate": 2008.941212558426
   },
   "NODE_0000056": {
-   "branch_length": 8.797288821644838e-05,
-   "clock_length": 8.797288821644838e-05,
-   "date": "1998-05-01",
-   "mutation_length": 7.160858720780924e-21,
+   "branch_length": 4.549316812998351e-05,
+   "clock_length": 4.549316812998351e-05,
+   "date": "2004-10-27",
+   "mutation_length": 1.393791472241836e-22,
    "num_date_confidence": [
-    1969.3287315981056,
-    2009.503760611352
+    1988.2885271240918,
+    2010.5268593560284
    ],
-   "numdate": 1998.3328606961245
+   "numdate": 2004.823867187717
   },
   "NODE_0000057": {
-   "branch_length": 4.310867843464934e-05,
-   "clock_length": 4.310867843464934e-05,
-   "date": "2005-12-23",
-   "mutation_length": 7.160858720780924e-21,
+   "branch_length": 2.0685888102635387e-05,
+   "clock_length": 2.0685888102635387e-05,
+   "date": "2009-03-20",
+   "mutation_length": 1.393791472241836e-22,
    "num_date_confidence": [
-    1994.996517496744,
-    2009.870439468596
-   ],
-   "numdate": 2005.9791735441163
-  },
-  "NODE_0000058": {
-   "branch_length": 2.733031042495573e-05,
-   "clock_length": 2.733031042495573e-05,
-   "date": "2010-10-28",
-   "mutation_length": 7.160858720780924e-21,
-   "num_date_confidence": [
-    2002.7147852747464,
+    2000.56559974876,
     2010.8268309377138
    ],
-   "numdate": 2010.8268309377138
+   "numdate": 2009.2178924541283
   },
   "NODE_0000059": {
-   "branch_length": 0.00022097640756325727,
-   "clock_length": 0.00022097640756325727,
-   "date": "2009-10-23",
-   "mutation_length": 0.00018785644929678714,
+   "branch_length": 0.0002267333253848828,
+   "clock_length": 0.0002267333253848828,
+   "date": "2008-12-21",
+   "mutation_length": 0.00018786724625908754,
    "num_date_confidence": [
-    1996.4231679117563,
-    2016.9178950792448
+    1991.026916500904,
+    2016.8573704432085
    ],
-   "numdate": 2009.8123605899596
+   "numdate": 2008.9738861503588
+  },
+  "NODE_0000060": {
+   "branch_length": 7.435255059184152e-05,
+   "clock_length": 7.435255059184152e-05,
+   "date": "2011-02-23",
+   "mutation_length": 1.553599358831168e-18,
+   "num_date_confidence": [
+    1995.7972264520904,
+    2014.3668720054757
+   ],
+   "numdate": 2011.1489950383047
   },
   "NODE_0000061": {
-   "branch_length": 0.0009954798527309111,
-   "clock_length": 0.0009954798527309111,
-   "date": "1716-07-21",
-   "mutation_length": 0.000939764927068464,
+   "branch_length": 0.0009858771250727436,
+   "clock_length": 0.0009858771250727436,
+   "date": "1654-01-30",
+   "mutation_length": 0.000939819438555099,
    "num_date_confidence": [
-    801.6723866893661,
-    1987.43294277432
+    661.7750073379424,
+    1975.001089115613
    ],
-   "numdate": 1716.5547005654862
+   "numdate": 1654.0836727239418
   },
   "NODE_0000062": {
-   "branch_length": 0.0006975058382519045,
-   "clock_length": 0.0006975058382519045,
-   "date": "1840-04-09",
-   "mutation_length": 0.0006576689136083655,
+   "branch_length": 0.0006237270280490795,
+   "clock_length": 0.0006237270280490795,
+   "date": "1786-07-28",
+   "mutation_length": 0.0006577063601986431,
    "num_date_confidence": [
-    1219.1002461133244,
+    1168.8709135693855,
     2018.416153319644
    ],
-   "numdate": 1840.273358762349
+   "numdate": 1786.5736246657232
+  },
+  "NODE_0000063": {
+   "branch_length": 4.573151951543013e-05,
+   "clock_length": 4.573151951543013e-05,
+   "date": "1984-08-15",
+   "mutation_length": 1.5738282990993444e-18,
+   "num_date_confidence": [
+    1890.0285702923748,
+    2008.4929667980252
+   ],
+   "numdate": 1984.6238848430123
   },
   "NODE_0000064": {
-   "branch_length": 0.001961184781183357,
-   "clock_length": 0.001961184781183357,
-   "date": "1887-11-04",
-   "mutation_length": 0.001975781467406404,
+   "branch_length": 0.001953751695468822,
+   "clock_length": 0.001953751695468822,
+   "date": "1859-09-04",
+   "mutation_length": 0.001975892559300687,
    "num_date_confidence": [
-    1429.6346901836907,
-    2014.8580966796387
+    1421.7321600712885,
+    2012.396049889228
    ],
-   "numdate": 1887.8446187426089
+   "numdate": 1859.6762629930272
   },
   "NODE_0000065": {
-   "branch_length": 0.000645074235468105,
-   "clock_length": 0.000645074235468105,
-   "date": "2002-04-06",
-   "mutation_length": 0.000657605981086394,
+   "branch_length": 0.0006598678089582216,
+   "clock_length": 0.0006598678089582216,
+   "date": "1999-11-03",
+   "mutation_length": 0.0006576436819769493,
    "num_date_confidence": [
-    1973.9719185037338,
-    2016.442273094928
+    1933.5235290711087,
+    2015.7961495393658
    ],
-   "numdate": 2002.2633296303857
+   "numdate": 1999.8431154224588
   },
   "NODE_0000066": {
-   "branch_length": 6.714299938844669e-05,
-   "clock_length": 6.714299938844669e-05,
-   "date": "2014-03-04",
-   "mutation_length": 9.618145971667693e-21,
+   "branch_length": 2.7039712488488194e-05,
+   "clock_length": 2.7039712488488194e-05,
+   "date": "2008-05-02",
+   "mutation_length": 1.5798228834493182e-18,
    "num_date_confidence": [
-    2000.8704816760883,
-    2016.8596851471596
+    1999.401498554183,
+    2010.8268309377138
    ],
-   "numdate": 2014.1726805434478
+   "numdate": 2008.3348274870073
   },
   "NODE_0000067": {
-   "branch_length": 0.0008509589294894053,
-   "clock_length": 0.0008509589294894053,
-   "date": "1539-12-25",
-   "mutation_length": 0.0008457236192235949,
+   "branch_length": 0.0008290782274572306,
+   "clock_length": 0.0008290782274572306,
+   "date": "1444-08-31",
+   "mutation_length": 0.0009398281669400979,
    "num_date_confidence": [
-    227.55985131107877,
-    1979.2903304087467
+    -257.1419157182454,
+    1965.24976085294
    ],
-   "numdate": 1539.9835166589226
+   "numdate": 1444.6670416538652
   },
   "NODE_0000068": {
-   "branch_length": 0.001961643115852928,
-   "clock_length": 0.001961643115852928,
-   "date": "1887-12-04",
-   "mutation_length": 0.0022584780828173744,
+   "branch_length": 0.001960525505313766,
+   "clock_length": 0.001960525505313766,
+   "date": "1861-02-11",
+   "mutation_length": 0.0022586098511187223,
    "num_date_confidence": [
-    1504.4690392114485,
-    2014.646897887245
+    1429.2580809208507,
+    2014.165625866753
    ],
-   "numdate": 1887.9259149084826
+   "numdate": 1861.115132402978
   },
   "NODE_0000069": {
-   "branch_length": 0.0006902362196273573,
-   "clock_length": 0.0006902362196273573,
-   "date": "2010-05-09",
-   "mutation_length": 0.0010338413469461701,
+   "branch_length": 0.0006985933161275797,
+   "clock_length": 0.0006985933161275797,
+   "date": "2009-07-04",
+   "mutation_length": 0.0010339025541147872,
    "num_date_confidence": [
-    1996.640052624606,
+    1992.114849143904,
     2018.416153319644
    ],
-   "numdate": 2010.3551395085085
+   "numdate": 2009.507923990181
   },
   "NODE_0000070": {
-   "branch_length": 8.163315106791101e-05,
-   "clock_length": 8.163315106791101e-05,
-   "date": "1389-01-16",
-   "mutation_length": 9.114822390344238e-21,
+   "branch_length": 8.552418017649527e-05,
+   "clock_length": 8.552418017649527e-05,
+   "date": "1268-07-22",
+   "mutation_length": 1.5688946732601487e-18,
    "num_date_confidence": [
-    -442.57824835557403,
-    1971.1441521908982
+    -1105.12148826953,
+    1955.494147862179
    ],
-   "numdate": 1389.0464331774128
+   "numdate": 1268.5570935963597
   },
   "NODE_0000071": {
    "branch_length": 0.001,
    "clock_length": 0.001,
-   "date": "1365-12-23",
+   "date": "1240-01-03",
    "mutation_length": 0.001,
    "num_date_confidence": [
-    -442.5537847894043,
-    1955.7863590102554
+    -1106.6709111640384,
+    1935.5784584709136
    ],
-   "numdate": 1365.9794813712865
+   "numdate": 1240.0099181973928
   },
   "NODE_0000072": {
-   "branch_length": 0.0013408983206322916,
-   "clock_length": 0.0013408983206322916,
-   "date": "1603-10-25",
-   "mutation_length": 0.002164508204196964,
+   "branch_length": 0.0013438975513114385,
+   "clock_length": 0.0013438975513114385,
+   "date": "1525-06-22",
+   "mutation_length": 0.0020703390728969468,
    "num_date_confidence": [
-    456.53921034393943,
-    2009.350424502338
+    10.84677801439534,
+    2011.6082740505628
    ],
-   "numdate": 1603.8185529736395
+   "numdate": 1525.476017918695
   },
   "NODE_0000073": {
-   "branch_length": 0.0014001262955575453,
-   "clock_length": 0.0014001262955575453,
-   "date": "1852-02-28",
-   "mutation_length": 0.0018816823441034178,
+   "branch_length": 0.0013832689152580803,
+   "clock_length": 0.0013832689152580803,
+   "date": "1819-04-21",
+   "mutation_length": 0.0018817851731087116,
    "num_date_confidence": [
-    1373.0583666254684,
+    1251.1985748124243,
     2018.416153319644
    ],
-   "numdate": 1852.1630643639005
+   "numdate": 1819.3052474749973
   },
   "NODE_0000074": {
-   "branch_length": 0.0021997855904689256,
-   "clock_length": 0.0021997855904689256,
-   "date": "1994-01-01",
-   "mutation_length": 0.0028260847124694155,
+   "branch_length": 0.0021995950646836525,
+   "clock_length": 0.0021995950646836525,
+   "date": "1992-09-15",
+   "mutation_length": 0.00282623858951643,
    "num_date_confidence": [
-    1960.8917689454483,
-    2015.0343715551342
+    1926.753653370933,
+    2014.7473012634957
    ],
-   "numdate": 1994.0009810600986
+   "numdate": 1992.7064429378672
   },
   "NODE_0000075": {
-   "branch_length": 8.853251456037921e-05,
-   "clock_length": 8.853251456037921e-05,
-   "date": "2009-09-14",
-   "mutation_length": 0.0001878813322627713,
+   "branch_length": 9.08933911415301e-05,
+   "clock_length": 9.08933911415301e-05,
+   "date": "2012-01-05",
+   "mutation_length": 0.00018789141732236038,
    "num_date_confidence": [
-    1999.553549139127,
+    1994.3848527426412,
     2016.8405201916496
    ],
-   "numdate": 2009.7042530723518
+   "numdate": 2012.0137047408932
   },
   "NODE_0000076": {
-   "branch_length": 0.002628788071040848,
-   "clock_length": 0.002628788071040848,
-   "date": "1840-11-03",
-   "mutation_length": 0.002825937416371387,
+   "branch_length": 0.0025286408651087186,
+   "clock_length": 0.0025286408651087186,
+   "date": "1787-07-07",
+   "mutation_length": 0.002731662513884958,
    "num_date_confidence": [
-    1275.4647828229229,
-    2007.4437155795472
+    1095.8908349373041,
+    2003.8197571261717
    ],
-   "numdate": 1840.8427790092592
+   "numdate": 1787.515544358516
   },
   "NODE_0000077": {
-   "branch_length": 2.266160554096712e-05,
-   "clock_length": 2.266160554096712e-05,
-   "date": "2014-03-05",
-   "mutation_length": 6.804768200531119e-21,
+   "branch_length": 5.738608169528805e-05,
+   "clock_length": 5.738608169528805e-05,
+   "date": "2012-01-12",
+   "mutation_length": 1.5715856066432767e-18,
    "num_date_confidence": [
-    2007.0060147966494,
-    2016.8624229979466
+    1997.8054862389824,
+    2016.8596851471596
    ],
-   "numdate": 2014.1754183942348
+   "numdate": 2012.0328696964032
   },
   "NODE_0000078": {
-   "branch_length": 0.000977082541067546,
-   "clock_length": 0.000977082541067546,
-   "date": "2014-02-24",
-   "mutation_length": 0.0009397974264150255,
+   "branch_length": 0.0010568640161314287,
+   "clock_length": 0.0010568640161314287,
+   "date": "2012-01-04",
+   "mutation_length": 0.0009398521522567101,
    "num_date_confidence": [
-    1999.2355274982199,
+    1996.7115882490577,
     2016.8377823408625
    ],
-   "numdate": 2014.1507777371507
+   "numdate": 2012.0109668901061
   },
   "NODE_0000079": {
-   "branch_length": 0.0005149816412684616,
-   "clock_length": 0.0005149816412684616,
-   "date": "1932-03-09",
-   "mutation_length": 0.0007517529775227857,
+   "branch_length": 0.000577491883626391,
+   "clock_length": 0.000577491883626391,
+   "date": "1910-03-08",
+   "mutation_length": 0.0007517970296653312,
    "num_date_confidence": [
-    1826.5211536148036,
-    2013.362912439321
+    1575.8518194737596,
+    2012.6617763963652
    ],
-   "numdate": 1932.186584551346
+   "numdate": 1910.1843858030602
   },
   "NODE_0000080": {
-   "branch_length": 7.756458752584955e-05,
-   "clock_length": 7.756458752584955e-05,
-   "date": "1945-12-10",
-   "mutation_length": 9.390340764195173e-05,
+   "branch_length": 8.791599117044182e-05,
+   "clock_length": 8.791599117044182e-05,
+   "date": "1928-11-09",
+   "mutation_length": 9.390871640788058e-05,
    "num_date_confidence": [
-    1846.8359781805507,
+    1618.9075444116113,
     2016.911704312115
    ],
-   "numdate": 1945.9444431469692
+   "numdate": 1928.8591985356734
   },
   "NODE_0000081": {
-   "branch_length": 0.0008798478621742498,
-   "clock_length": 0.0008798478621742498,
-   "date": "1996-11-26",
-   "mutation_length": 0.001410287277418123,
+   "branch_length": 0.0009576989000894965,
+   "clock_length": 0.0009576989000894965,
+   "date": "1990-12-11",
+   "mutation_length": 0.0014103713125693713,
    "num_date_confidence": [
-    1982.1142237776085,
-    2013.1239032234737
+    1967.218601562709,
+    2010.6221745593812
    ],
-   "numdate": 1996.903977290246
+   "numdate": 1990.9466537084381
   },
-  "NODE_0000082": {
-   "branch_length": 8.107319053011676e-05,
-   "clock_length": 8.107319053011676e-05,
-   "date": "2010-02-08",
-   "mutation_length": 4.120358455160293e-21,
+  "NODE_0000088": {
+   "branch_length": 2.267179152742728e-05,
+   "clock_length": 2.267179152742728e-05,
+   "date": "2013-08-23",
+   "mutation_length": 1.5567689971413466e-18,
    "num_date_confidence": [
-    1984.8072346242207,
-    2018.432580424367
+    2005.5804092330472,
+    2016.8624229979466
    ],
-   "numdate": 2010.1079682627028
-  },
-  "NODE_0000089": {
-   "branch_length": 0.0003204581050907711,
-   "clock_length": 0.0003204581050907711,
-   "date": "2002-04-22",
-   "mutation_length": 4.975608568052059e-21,
-   "num_date_confidence": [
-    1936.9363167995664,
-    2017.8733744010951
-   ],
-   "numdate": 2002.307573818018
-  },
-  "NODE_0000092": {
-   "branch_length": 3.014797580891303e-05,
-   "clock_length": 3.014797580891303e-05,
-   "date": "2015-03-01",
-   "mutation_length": 5.1885360659228545e-21,
-   "num_date_confidence": [
-    2006.3318920971287,
-    2017.4206395763904
-   ],
-   "numdate": 2015.1644669910863
+   "numdate": 2013.6445460307757
   },
   "NODE_0000093": {
-   "branch_length": 0.002070452982449556,
-   "clock_length": 0.002070452982449556,
-   "date": "1756-04-15",
-   "mutation_length": 0.0019758862329379294,
+   "branch_length": 0.0020445762315991376,
+   "clock_length": 0.0020445762315991376,
+   "date": "1702-11-09",
+   "mutation_length": 0.0020702863998989054,
    "num_date_confidence": [
-    996.623681300113,
-    1986.3112461048602
+    1050.012942178865,
+    1984.1494942378793
    ],
-   "numdate": 1756.2887568980666
+   "numdate": 1702.8589507936763
   },
   "NODE_0000094": {
-   "branch_length": 0.0006594708686328929,
-   "clock_length": 0.0006594708686328929,
-   "date": "1873-04-05",
-   "mutation_length": 0.0007518118309198112,
+   "branch_length": 0.000685311524568887,
+   "clock_length": 0.000685311524568887,
+   "date": "1848-06-06",
+   "mutation_length": 0.0007518557342690902,
    "num_date_confidence": [
-    1374.815324083011,
+    1445.0324123065964,
     1995.416153319644
    ],
-   "numdate": 1873.2610408744415
+   "numdate": 1848.4304698591227
   },
   "NODE_0000095": {
-   "branch_length": 2.7720058342829468e-05,
-   "clock_length": 2.7720058342829468e-05,
-   "date": "2014-09-23",
-   "mutation_length": 6.2096441331694325e-21,
+   "branch_length": 3.937608514341834e-05,
+   "clock_length": 3.937608514341834e-05,
+   "date": "2004-01-07",
+   "mutation_length": 1.502520990846454e-18,
    "num_date_confidence": [
-    2005.795767609199,
-    2017.416153319644
+    1968.433426334452,
+    2018.432580424367
    ],
-   "numdate": 2014.7291487159323
+   "numdate": 2004.02034033122
   },
   "NODE_0000097": {
-   "branch_length": 0.0005422806014339412,
-   "clock_length": 0.0005422806014339412,
-   "date": "1852-06-22",
-   "mutation_length": 0.0006578289339167808,
+   "branch_length": 0.0005563854445776188,
+   "clock_length": 0.0005563854445776188,
+   "date": "1821-01-16",
+   "mutation_length": 0.0006578685318549256,
    "num_date_confidence": [
-    1332.4319751005094,
-    2006.1514478075112
+    1399.3983687080927,
+    2002.1994480188832
    ],
-   "numdate": 1852.4746591461928
+   "numdate": 1821.0444349849995
   },
   "NODE_0000098": {
-   "branch_length": 0.0007002330397338138,
-   "clock_length": 0.0007002330397338138,
-   "date": "1976-09-04",
-   "mutation_length": 0.0009401497530479656,
+   "branch_length": 0.0006934738624272906,
+   "clock_length": 0.0006934738624272906,
+   "date": "1968-05-07",
+   "mutation_length": 0.0009402099761610823,
    "num_date_confidence": [
-    1920.0597340743843,
+    1810.110911398298,
     2016.8815879534566
    ],
-   "numdate": 1976.6770490761403
+   "numdate": 1968.3497698095207
   },
   "NODE_0000099": {
-   "branch_length": 0.00017942173227993594,
-   "clock_length": 0.00017942173227993594,
-   "date": "1884-04-19",
-   "mutation_length": 9.392618215330281e-05,
+   "branch_length": 0.00013644269817031656,
+   "clock_length": 0.00013644269817031656,
+   "date": "1850-01-09",
+   "mutation_length": 9.393166308343765e-05,
    "num_date_confidence": [
-    1385.241281258755,
-    2011.8297641813829
+    1453.1677169336037,
+    2008.9996236597021
    ],
-   "numdate": 1884.29921852861
-  },
-  "NODE_0000100": {
-   "branch_length": 9.902312343299389e-05,
-   "clock_length": 9.902312343299389e-05,
-   "date": "2010-10-31",
-   "mutation_length": 9.153987217074961e-21,
-   "num_date_confidence": [
-    1996.7170510322042,
-    2010.8350444900752
-   ],
-   "numdate": 2010.8350444900752
+   "numdate": 1850.0271240628404
   },
   "NODE_0000101": {
-   "branch_length": 0.0001517608562180972,
-   "clock_length": 0.0001517608562180972,
-   "date": "1911-03-20",
-   "mutation_length": 0.00018787052317441785,
+   "branch_length": 0.0001787609518876757,
+   "clock_length": 0.0001787609518876757,
+   "date": "1887-12-30",
+   "mutation_length": 0.00018788136934154046,
    "num_date_confidence": [
-    1550.3298480228677,
+    1538.1680072927795,
     2013.2491444216291
    ],
-   "numdate": 1911.217487119975
+   "numdate": 1887.9989111741752
   },
   "NODE_0000102": {
-   "branch_length": 0.0004006690932050203,
-   "clock_length": 0.0004006690932050203,
-   "date": "1827-05-10",
-   "mutation_length": 0.00018785190841706233,
+   "branch_length": 0.00039739138419892395,
+   "clock_length": 0.00039739138419892395,
+   "date": "1787-04-09",
+   "mutation_length": 0.00018786287447337385,
    "num_date_confidence": [
-    1263.6224101487337,
-    1993.0912291829475
+    1192.6020090637974,
+    1986.5324621613165
    ],
-   "numdate": 1827.3566102030832
+   "numdate": 1787.2714630416633
+  },
+  "NODE_0000103": {
+   "branch_length": 0.00032390987245856095,
+   "clock_length": 0.00032390987245856095,
+   "date": "2000-03-31",
+   "mutation_length": 1.5235555415737906e-18,
+   "num_date_confidence": [
+    1846.4263602084739,
+    2017.8733744010951
+   ],
+   "numdate": 2000.2488617281265
   },
   "NODE_0000104": {
-   "branch_length": 0.0006063020610800407,
-   "clock_length": 0.0006063020610800407,
-   "date": "1934-11-24",
-   "mutation_length": 0.000845939028673759,
+   "branch_length": 0.0005551937290277564,
+   "clock_length": 0.0005551937290277564,
+   "date": "1905-03-15",
+   "mutation_length": 0.0008459886493508782,
    "num_date_confidence": [
-    1832.0036600865446,
-    1998.7697680509984
+    1596.4232370868876,
+    1993.335776220506
    ],
-   "numdate": 1934.898186696275
+   "numdate": 1905.2038071110592
+  },
+  "NODE_0000105": {
+   "branch_length": 0.00012401491771837588,
+   "clock_length": 0.00012401491771837588,
+   "date": "1931-07-18",
+   "mutation_length": 0.00018786742980152552,
+   "num_date_confidence": [
+    1716.7204481885271,
+    2000.1349451007036
+   ],
+   "numdate": 1931.546629771742
   },
   "NODE_0000106": {
-   "branch_length": 0.00015873337831649845,
-   "clock_length": 0.00015873337831649845,
-   "date": "1963-01-19",
-   "mutation_length": 0.00018785664933229984,
+   "branch_length": 2.6798202418419967e-05,
+   "clock_length": 2.6798202418419967e-05,
+   "date": "2014-08-19",
+   "mutation_length": 1.5294655875724736e-18,
    "num_date_confidence": [
-    1868.4377139296107,
-    2004.447241949196
+    2004.7003245179715,
+    2017.851471594798
    ],
-   "numdate": 1963.053192001449
-  },
-  "NODE_0000107": {
-   "branch_length": 5.15936712264969e-05,
-   "clock_length": 5.15936712264969e-05,
-   "date": "2002-04-17",
-   "mutation_length": 9.071035248532504e-21,
-   "num_date_confidence": [
-    1988.4979343846492,
-    2010.8594880654475
-   ],
-   "numdate": 2002.2930326051944
+   "numdate": 2014.6335946276272
   },
   "NODE_0000108": {
-   "branch_length": 5.3919808304297515e-05,
-   "clock_length": 5.3919808304297515e-05,
-   "date": "2011-11-08",
-   "mutation_length": 9.071035248532504e-21,
+   "branch_length": 2.4595022689459358e-05,
+   "clock_length": 2.4595022689459358e-05,
+   "date": "2014-03-13",
+   "mutation_length": 1.549385304965538e-18,
    "num_date_confidence": [
-    2001.2086034500935,
-    2011.8569472963723
+    2004.0317787368185,
+    2017.416153319644
    ],
-   "numdate": 2011.8569472963723
-  },
-  "NODE_0000109": {
-   "branch_length": 5.3688274887739434e-05,
-   "clock_length": 5.3688274887739434e-05,
-   "date": "2011-10-24",
-   "mutation_length": 9.071035248532504e-21,
-   "num_date_confidence": [
-    2001.2104307135305,
-    2011.8158795345653
-   ],
-   "numdate": 2011.8158795345653
-  },
-  "NODE_0000110": {
-   "branch_length": 8.562907577145252e-05,
-   "clock_length": 8.562907577145252e-05,
-   "date": "1929-06-05",
-   "mutation_length": 7.062637897498087e-21,
-   "num_date_confidence": [
-    1826.0120837748825,
-    1999.4735097217854
-   ],
-   "numdate": 1929.4285708060218
+   "numdate": 2014.1982763524732
   },
   "NODE_0000111": {
-   "branch_length": 3.1110513992999955e-05,
-   "clock_length": 3.1110513992999955e-05,
-   "date": "1934-12-11",
-   "mutation_length": 7.062637897498087e-21,
+   "branch_length": 0.0002819236492454084,
+   "clock_length": 0.0002819236492454084,
+   "date": "1991-06-06",
+   "mutation_length": 0.0004697950756786561,
    "num_date_confidence": [
-    1826.9447123419645,
-    2002.0550907732302
+    1908.192650487372,
+    2014.829568788501
    ],
-   "numdate": 1934.9467340040173
+   "numdate": 1991.4318825506814
   },
   "NODE_0000113": {
-   "branch_length": 4.7138685211620417e-05,
-   "clock_length": 4.7138685211620417e-05,
-   "date": "1971-05-31",
-   "mutation_length": 9.392018725799174e-05,
+   "branch_length": 0.0001259916787765695,
+   "clock_length": 0.0001259916787765695,
+   "date": "1958-04-22",
+   "mutation_length": 9.3924738260891e-05,
    "num_date_confidence": [
-    1893.2865403565486,
-    2016.7967145790553
+    1760.6392149642952,
+    2010.1245684605929
    ],
-   "numdate": 1971.4143189823526
+   "numdate": 1958.3093492235253
+  },
+  "NODE_0000114": {
+   "branch_length": 9.447380518353244e-05,
+   "clock_length": 9.447380518353244e-05,
+   "date": "2008-10-16",
+   "mutation_length": 1.5697927596239218e-18,
+   "num_date_confidence": [
+    1993.037689039282,
+    2010.8350444900752
+   ],
+   "numdate": 2008.793089922935
   },
   "NODE_0000115": {
-   "branch_length": 0.00028433241118146847,
-   "clock_length": 0.00028433241118146847,
-   "date": "2013-06-26",
-   "mutation_length": 0.000375782112620456,
+   "branch_length": 0.00022820973241674246,
+   "clock_length": 0.00022820973241674246,
+   "date": "2006-10-13",
+   "mutation_length": 9.392454971670704e-05,
    "num_date_confidence": [
-    2001.5275237505502,
-    2014.829568788501
-   ],
-   "numdate": 2013.486066486645
-  },
-  "NODE_0000116": {
-   "branch_length": 4.598463668636254e-05,
-   "clock_length": 4.598463668636254e-05,
-   "date": "1971-03-17",
-   "mutation_length": 9.391936609835295e-05,
-   "num_date_confidence": [
-    1886.399752375822,
-    2009.88095727752
-   ],
-   "numdate": 1971.2096220074905
-  },
-  "NODE_0000117": {
-   "branch_length": 2.2974234781197387e-05,
-   "clock_length": 2.2974234781197387e-05,
-   "date": "2003-07-22",
-   "mutation_length": 1.0275709226168154e-22,
-   "num_date_confidence": [
-    1992.524418938535,
-    2007.0540268050568
-   ],
-   "numdate": 2003.557168740241
-  },
-  "NODE_0000118": {
-   "branch_length": 0.00020691789066974394,
-   "clock_length": 0.00020691789066974394,
-   "date": "2007-11-28",
-   "mutation_length": 9.391929072482149e-05,
-   "num_date_confidence": [
-    1983.6347545189333,
+    1960.2758927517384,
     2014.8240930869267
    ],
-   "numdate": 2007.9112557239105
+   "numdate": 2006.7848763705736
   },
-  "NODE_0000119": {
-   "branch_length": 0.0001562993230318906,
-   "clock_length": 0.0001562993230318906,
-   "date": "1998-12-06",
-   "mutation_length": 0.0002818069313118168,
+  "NODE_0000116": {
+   "branch_length": 0.0001770405794525592,
+   "clock_length": 0.0001770405794525592,
+   "date": "1995-11-30",
+   "mutation_length": 0.0002818231193747652,
    "num_date_confidence": [
-    1961.762684169269,
+    1916.0014202356276,
     2011.3175906913073
    ],
-   "numdate": 1998.9328917811836
+   "numdate": 1995.9157007340277
+  },
+  "NODE_0000119": {
+   "branch_length": 0.00011960513354286183,
+   "clock_length": 0.00011960513354286183,
+   "date": "1956-12-13",
+   "mutation_length": 9.39255734846244e-05,
+   "num_date_confidence": [
+    1759.6468534569842,
+    2016.7967145790553
+   ],
+   "numdate": 1956.952741231509
   },
   "NODE_0000120": {
-   "branch_length": 1.4339706510997749e-05,
-   "clock_length": 1.4339706510997749e-05,
-   "date": "2006-02-05",
-   "mutation_length": 1.0275709226168154e-22,
+   "branch_length": 5.5915200307148725e-05,
+   "clock_length": 5.5915200307148725e-05,
+   "date": "2000-01-17",
+   "mutation_length": 1.5682530291404458e-18,
    "num_date_confidence": [
-    1998.9039030958722,
-    2008.4730069669288
+    1967.8604928039679,
+    2010.1165470255196
    ],
-   "numdate": 2006.1006445811367
+   "numdate": 2000.048975035482
   },
   "NODE_0000121": {
-   "branch_length": 6.162228770241777e-06,
-   "clock_length": 6.162228770241777e-06,
-   "date": "2007-03-11",
-   "mutation_length": 1.0275709226168154e-22,
+   "branch_length": 4.3634689132917725e-05,
+   "clock_length": 4.3634689132917725e-05,
+   "date": "2009-04-26",
+   "mutation_length": 1.5682530291404458e-18,
    "num_date_confidence": [
-    2002.5894070610218,
-    2009.8919885477824
+    1998.1961368878387,
+    2011.8569472963723
    ],
-   "numdate": 2007.193657188554
+   "numdate": 2009.317705756191
   },
   "NODE_0000122": {
-   "branch_length": 1.386332381750116e-05,
-   "clock_length": 1.386332381750116e-05,
-   "date": "2009-08-26",
-   "mutation_length": 1.0275709226168154e-22,
+   "branch_length": 0.0003769247589786945,
+   "clock_length": 0.0003769247589786945,
+   "date": "2011-08-11",
+   "mutation_length": 0.0003758035830758434,
    "num_date_confidence": [
-    2005.3679035404648,
-    2010.8403231099376
-   ],
-   "numdate": 2009.6526356325887
-  },
-  "NODE_0000123": {
-   "branch_length": 0.00020405147556577276,
-   "clock_length": 0.00020405147556577276,
-   "date": "1999-03-30",
-   "mutation_length": 0.00046976785421466515,
-   "num_date_confidence": [
-    1957.8260214049626,
+    1995.914252022719,
     2014.829568788501
    ],
-   "numdate": 1999.2464012559499
+   "numdate": 2011.6116918213302
+  },
+  "NODE_0000123": {
+   "branch_length": 4.382802510025015e-05,
+   "clock_length": 4.382802510025015e-05,
+   "date": "2009-05-11",
+   "mutation_length": 1.5682530291404458e-18,
+   "num_date_confidence": [
+    1998.219326679476,
+    2011.8158795345653
+   ],
+   "numdate": 2009.3587735179979
   },
   "NODE_0000124": {
-   "branch_length": 1.2087971245644641e-05,
-   "clock_length": 1.2087971245644641e-05,
-   "date": "2011-10-17",
-   "mutation_length": 1.0275709226168154e-22,
+   "branch_length": 0.00013869736989123536,
+   "clock_length": 0.00013869736989123536,
+   "date": "1974-11-28",
+   "mutation_length": 0.00018786612897761528,
    "num_date_confidence": [
-    2007.9966752541516,
-    2011.7967145790553
+    1888.9220512507554,
+    2006.3477022764368
    ],
-   "numdate": 2011.7967145790553
+   "numdate": 1974.9097526179337
   },
   "NODE_0000125": {
-   "branch_length": 0.00010711643802917948,
-   "clock_length": 0.00010711643802917948,
-   "date": "1982-01-19",
-   "mutation_length": 0.0001878553062473478,
+   "branch_length": 5.081136079203134e-05,
+   "clock_length": 5.081136079203134e-05,
+   "date": "1908-11-06",
+   "mutation_length": 1.5629150186905342e-18,
    "num_date_confidence": [
-    1949.8679583003793,
-    2006.864327700132
+    1563.474619429778,
+    1997.5797709816252
    ],
-   "numdate": 1982.0527490761401
+   "numdate": 1908.8509424692961
+  },
+  "NODE_0000126": {
+   "branch_length": 8.458502260145926e-05,
+   "clock_length": 8.458502260145926e-05,
+   "date": "2002-08-03",
+   "mutation_length": 9.392587295821078e-05,
+   "num_date_confidence": [
+    1970.1745835924442,
+    2010.6085669527781
+   ],
+   "numdate": 2002.5911446786401
   },
   "NODE_0000127": {
-   "branch_length": 0.00010013670296809541,
-   "clock_length": 0.00010013670296809541,
-   "date": "1999-10-24",
-   "mutation_length": 9.392741261464826e-05,
+   "branch_length": 7.396902261849747e-05,
+   "clock_length": 7.396902261849747e-05,
+   "date": "1924-07-24",
+   "mutation_length": 1.5629150186905342e-18,
    "num_date_confidence": [
-    1970.1281885368383,
-    2014.4079397672826
+    1563.1700133172849,
+    2009.1106774515245
    ],
-   "numdate": 1999.8142900526566
+   "numdate": 1924.5631880690396
   },
   "NODE_0000128": {
-   "branch_length": 7.758428664484033e-05,
-   "clock_length": 7.758428664484033e-05,
-   "date": "2003-04-26",
-   "mutation_length": 9.39204412006851e-05,
+   "branch_length": 9.62520472839314e-05,
+   "clock_length": 9.62520472839314e-05,
+   "date": "1995-05-09",
+   "mutation_length": 9.393312306659905e-05,
    "num_date_confidence": [
-    1989.1239804004483,
-    2009.895393354372
+    1937.1722301245863,
+    2013.6474073105549
    ],
-   "numdate": 2003.318404097249
+   "numdate": 1995.3552817444072
+  },
+  "NODE_0000131": {
+   "branch_length": 1.8767186610919078e-05,
+   "clock_length": 1.8767186610919078e-05,
+   "date": "2000-05-23",
+   "mutation_length": 1.5683396002701419e-18,
+   "num_date_confidence": [
+    1975.9407889260144,
+    2004.999394738861
+   ],
+   "numdate": 2000.3935729223492
+  },
+  "NODE_0000132": {
+   "branch_length": 2.0798324579980636e-05,
+   "clock_length": 2.0798324579980636e-05,
+   "date": "2004-10-23",
+   "mutation_length": 1.5683396002701419e-18,
+   "num_date_confidence": [
+    1989.7282647674342,
+    2006.6987221499141
+   ],
+   "numdate": 2004.811481558905
+  },
+  "NODE_0000133": {
+   "branch_length": 2.5867996187137773e-06,
+   "clock_length": 2.5867996187137773e-06,
+   "date": "2005-05-11",
+   "mutation_length": 1.5683396002701419e-18,
+   "num_date_confidence": [
+    1996.2852842153047,
+    2008.3980512602964
+   ],
+   "numdate": 2005.3609606447133
+  },
+  "NODE_0000134": {
+   "branch_length": 1.597420171191943e-05,
+   "clock_length": 1.597420171191943e-05,
+   "date": "2008-10-02",
+   "mutation_length": 1.5683396002701419e-18,
+   "num_date_confidence": [
+    2001.8362378662202,
+    2010.0973820700096
+   ],
+   "numdate": 2008.7541456791032
+  },
+  "NODE_0000135": {
+   "branch_length": 6.749146073463092e-06,
+   "clock_length": 6.749146073463092e-06,
+   "date": "2010-03-09",
+   "mutation_length": 1.5683396002701419e-18,
+   "num_date_confidence": [
+    2006.3663609952823,
+    2011.7967145790553
+   ],
+   "numdate": 2010.1877760954699
   },
   "P0096_Bridgeport_CT_USA_Ixodes-scapularis_2016-11-01": {
-   "branch_length": 0.0003892622172107258,
-   "clock_length": 0.0003892622172107258,
+   "branch_length": 0.0003930581050223784,
+   "clock_length": 0.0003930581050223784,
    "date": "2016-11-02",
-   "mutation_length": 0.0002817695103121738,
+   "mutation_length": 0.000281785110806285,
    "num_date_confidence": [
     2016.8377823408625,
     2016.8377823408625
@@ -2015,10 +2026,10 @@
    "raw_date": "2016-11-01"
   },
   "P0183_Bridgeport_CT_USA_Ixodes-scapularis_2016-11-01": {
-   "branch_length": 0.0004924716585469766,
-   "clock_length": 0.0004924716585469766,
+   "branch_length": 0.0005080320448870551,
+   "clock_length": 0.0005080320448870551,
    "date": "2016-11-02",
-   "mutation_length": 0.00018782754705126958,
+   "mutation_length": 0.00018783821986758555,
    "num_date_confidence": [
     2016.8377823408625,
     2016.8377823408625
@@ -2027,10 +2038,10 @@
    "raw_date": "2016-11-01"
   },
   "P0375_Bridgeport_CT_USA_Ixodes-scapularis_2010-11-01": {
-   "branch_length": 0.0,
-   "clock_length": 0.0,
+   "branch_length": 9.612972417208146e-06,
+   "clock_length": 9.612972417208146e-06,
    "date": "2010-10-31",
-   "mutation_length": 9.153987217074961e-21,
+   "mutation_length": 1.5697927596239218e-18,
    "num_date_confidence": [
     2010.8350444900752,
     2010.8350444900752
@@ -2039,10 +2050,10 @@
    "raw_date": "2010-11-01"
   },
   "P0375_Bridgeport_CT_USA_Ixodes-scapularis_2016-11-01": {
-   "branch_length": 3.384246772024884e-05,
-   "clock_length": 3.384246772024884e-05,
+   "branch_length": 3.787224630897088e-05,
+   "clock_length": 3.787224630897088e-05,
    "date": "2016-11-02",
-   "mutation_length": 9.153987217074961e-21,
+   "mutation_length": 1.5697927596239218e-18,
    "num_date_confidence": [
     2016.8377823408625,
     2016.8377823408625
@@ -2051,10 +2062,10 @@
    "raw_date": "2016-11-01"
   },
   "P0494_Bridgeport_CT_USA_Ixodes-scapularis_2010-11-02": {
-   "branch_length": 0.0005446010785447223,
-   "clock_length": 0.0005446010785447223,
+   "branch_length": 0.0005309379485136561,
+   "clock_length": 0.0005309379485136561,
    "date": "2010-11-02",
-   "mutation_length": 0.0006576684001678722,
+   "mutation_length": 0.0006577057416738805,
    "num_date_confidence": [
     2010.8377823408625,
     2010.8377823408625
@@ -2063,10 +2074,10 @@
    "raw_date": "2010-11-02"
   },
   "P0525_North-Branford_CT_USA_Ixodes-scapularis_2010-10-29": {
-   "branch_length": 0.0,
-   "clock_length": 0.0,
+   "branch_length": 7.574449261794174e-06,
+   "clock_length": 7.574449261794174e-06,
    "date": "2010-10-28",
-   "mutation_length": 7.160858720780924e-21,
+   "mutation_length": 1.393791472241836e-22,
    "num_date_confidence": [
     2010.8268309377138,
     2010.8268309377138
@@ -2075,10 +2086,10 @@
    "raw_date": "2010-10-29"
   },
   "P0526_North-Branford_CT_USA_Ixodes-scapularis_2010-10-29": {
-   "branch_length": 0.0,
-   "clock_length": 0.0,
+   "branch_length": 7.574449261794174e-06,
+   "clock_length": 7.574449261794174e-06,
    "date": "2010-10-28",
-   "mutation_length": 7.160858720780924e-21,
+   "mutation_length": 1.393791472241836e-22,
    "num_date_confidence": [
     2010.8268309377138,
     2010.8268309377138
@@ -2087,10 +2098,10 @@
    "raw_date": "2010-10-29"
   },
   "P0618_North-Branford_CT_USA_Ixodes-scapularis_2010-10-29": {
-   "branch_length": 7.043898885960507e-05,
-   "clock_length": 7.043898885960507e-05,
+   "branch_length": 7.375350549441306e-05,
+   "clock_length": 7.375350549441306e-05,
    "date": "2010-10-28",
-   "mutation_length": 9.391865181280675e-05,
+   "mutation_length": 9.392397176977908e-05,
    "num_date_confidence": [
     2010.8268309377138,
     2010.8268309377138
@@ -2099,10 +2110,10 @@
    "raw_date": "2010-10-29"
   },
   "P0621_North-Branford_CT_USA_Ixodes-scapularis_2010-10-29": {
-   "branch_length": 0.0,
-   "clock_length": 0.0,
+   "branch_length": 1.1731681409924884e-05,
+   "clock_length": 1.1731681409924884e-05,
    "date": "2010-10-28",
-   "mutation_length": 1.0669482764932748e-22,
+   "mutation_length": 1.5798228834493182e-18,
    "num_date_confidence": [
     2010.8268309377138,
     2010.8268309377138
@@ -2111,10 +2122,10 @@
    "raw_date": "2010-10-29"
   },
   "P0629_North-Branford_CT_USA_Ixodes-scapularis_2010-10-29": {
-   "branch_length": 0.00011991558601100438,
-   "clock_length": 0.00011991558601100438,
+   "branch_length": 0.00012335641649987233,
+   "clock_length": 0.00012335641649987233,
    "date": "2010-10-28",
-   "mutation_length": 9.391875038347642e-05,
+   "mutation_length": 9.392427590939661e-05,
    "num_date_confidence": [
     2010.8268309377138,
     2010.8268309377138
@@ -2123,10 +2134,10 @@
    "raw_date": "2010-10-29"
   },
   "P0681_North-Branford_CT_USA_Ixodes-scapularis_2011-04-26": {
-   "branch_length": 6.982293471901195e-05,
-   "clock_length": 6.982293471901195e-05,
+   "branch_length": 7.250795180010557e-05,
+   "clock_length": 7.250795180010557e-05,
    "date": "2011-04-25",
-   "mutation_length": 0.00018787091358568885,
+   "mutation_length": 0.0001878818985686592,
    "num_date_confidence": [
     2011.3175906913073,
     2011.3175906913073
@@ -2135,10 +2146,10 @@
    "raw_date": "2011-04-26"
   },
   "P0690_North-Branford_CT_USA_Ixodes-scapularis_2011-04-26": {
-   "branch_length": 2.7668243278699547e-06,
-   "clock_length": 2.7668243278699547e-06,
+   "branch_length": 1.4042046219548017e-05,
+   "clock_length": 1.4042046219548017e-05,
    "date": "2011-04-25",
-   "mutation_length": 1.0669482764932748e-22,
+   "mutation_length": 1.5798228834493182e-18,
    "num_date_confidence": [
     2011.3175906913073,
     2011.3175906913073
@@ -2147,10 +2158,10 @@
    "raw_date": "2011-04-26"
   },
   "P0751_Bridgeport_CT_USA_Ixodes-scapularis_2011-04-27": {
-   "branch_length": 0.0,
-   "clock_length": 0.0,
+   "branch_length": 1.5148898523588349e-05,
+   "clock_length": 1.5148898523588349e-05,
    "date": "2011-04-27",
-   "mutation_length": 7.045076794554726e-21,
+   "mutation_length": 1.5627093504528463e-18,
    "num_date_confidence": [
     2011.3203285420946,
     2011.3203285420946
@@ -2159,10 +2170,10 @@
    "raw_date": "2011-04-27"
   },
   "P0760_Bridgeport_CT_USA_Ixodes-scapularis_2011-04-27": {
-   "branch_length": 0.0,
-   "clock_length": 0.0,
+   "branch_length": 1.5148898523588349e-05,
+   "clock_length": 1.5148898523588349e-05,
    "date": "2011-04-27",
-   "mutation_length": 7.045076794554726e-21,
+   "mutation_length": 1.5627093504528463e-18,
    "num_date_confidence": [
     2011.3203285420946,
     2011.3203285420946
@@ -2171,10 +2182,10 @@
    "raw_date": "2011-04-27"
   },
   "P0785_North-Branford_CT_USA_Ixodes-scapularis_2011-05-09": {
-   "branch_length": 4.529878598838502e-05,
-   "clock_length": 4.529878598838502e-05,
+   "branch_length": 4.124931654639154e-05,
+   "clock_length": 4.124931654639154e-05,
    "date": "2011-05-09",
-   "mutation_length": 9.39219972204443e-05,
+   "mutation_length": 9.392757184790654e-05,
    "num_date_confidence": [
     2011.35318275154,
     2011.35318275154
@@ -2183,10 +2194,10 @@
    "raw_date": "2011-05-09"
   },
   "P0795_North-Branford_CT_USA_Ixodes-scapularis_2011-05-09": {
-   "branch_length": 3.0297797047176704e-05,
-   "clock_length": 3.0297797047176704e-05,
+   "branch_length": 3.0738260012408024e-05,
+   "clock_length": 3.0738260012408024e-05,
    "date": "2011-05-09",
-   "mutation_length": 7.160858720780924e-21,
+   "mutation_length": 1.393791472241836e-22,
    "num_date_confidence": [
     2011.35318275154,
     2011.35318275154
@@ -2195,10 +2206,10 @@
    "raw_date": "2011-05-09"
   },
   "P0933_North-Branford_CT_USA_Ixodes-scapularis_2011-10-21": {
-   "branch_length": 7.257046459550185e-05,
-   "clock_length": 7.257046459550185e-05,
+   "branch_length": 7.480220527911748e-05,
+   "clock_length": 7.480220527911748e-05,
    "date": "2011-10-20",
-   "mutation_length": 9.391994073702273e-05,
+   "mutation_length": 9.392530873889561e-05,
    "num_date_confidence": [
     2011.8049281314168,
     2011.8049281314168
@@ -2207,10 +2218,10 @@
    "raw_date": "2011-10-21"
   },
   "P1104_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-18": {
-   "branch_length": 2.59512950631458e-05,
-   "clock_length": 2.59512950631458e-05,
+   "branch_length": 3.0297797047176698e-05,
+   "clock_length": 3.0297797047176698e-05,
    "date": "2011-10-17",
-   "mutation_length": 1.0275709226168154e-22,
+   "mutation_length": 1.5683396002701419e-18,
    "num_date_confidence": [
     2011.7967145790553,
     2011.7967145790553
@@ -2219,10 +2230,10 @@
    "raw_date": "2011-10-18"
   },
   "P1107_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-18": {
-   "branch_length": 1.2087971245644641e-05,
-   "clock_length": 1.2087971245644641e-05,
+   "branch_length": 7.574449261794174e-06,
+   "clock_length": 7.574449261794174e-06,
    "date": "2011-10-17",
-   "mutation_length": 1.0275709226168154e-22,
+   "mutation_length": 1.5683396002701419e-18,
    "num_date_confidence": [
     2011.7967145790553,
     2011.7967145790553
@@ -2231,10 +2242,10 @@
    "raw_date": "2011-10-18"
   },
   "P1109_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-18": {
-   "branch_length": 3.211352383338758e-05,
-   "clock_length": 3.211352383338758e-05,
+   "branch_length": 3.2884596665890475e-05,
+   "clock_length": 3.2884596665890475e-05,
    "date": "2011-10-17",
-   "mutation_length": 1.0275709226168154e-22,
+   "mutation_length": 1.5683396002701419e-18,
    "num_date_confidence": [
     2011.7967145790553,
     2011.7967145790553
@@ -2243,10 +2254,10 @@
    "raw_date": "2011-10-18"
   },
   "P1112_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-18": {
-   "branch_length": 0.0,
-   "clock_length": 0.0,
+   "branch_length": 7.574449261794174e-06,
+   "clock_length": 7.574449261794174e-06,
    "date": "2011-10-17",
-   "mutation_length": 1.0275709226168154e-22,
+   "mutation_length": 1.5683396002701419e-18,
    "num_date_confidence": [
     2011.7967145790553,
     2011.7967145790553
@@ -2255,10 +2266,10 @@
    "raw_date": "2011-10-18"
   },
   "P1113_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-18": {
-   "branch_length": 4.645323034438533e-05,
-   "clock_length": 4.645323034438533e-05,
+   "branch_length": 5.368292124587111e-05,
+   "clock_length": 5.368292124587111e-05,
    "date": "2011-10-17",
-   "mutation_length": 1.0275709226168154e-22,
+   "mutation_length": 1.5683396002701419e-18,
    "num_date_confidence": [
     2011.7967145790553,
     2011.7967145790553
@@ -2267,10 +2278,10 @@
    "raw_date": "2011-10-18"
   },
   "P1114_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-18": {
-   "branch_length": 0.0,
-   "clock_length": 0.0,
+   "branch_length": 1.4323595335257266e-05,
+   "clock_length": 1.4323595335257266e-05,
    "date": "2011-10-17",
-   "mutation_length": 1.0275709226168154e-22,
+   "mutation_length": 1.5683396002701419e-18,
    "num_date_confidence": [
     2011.7967145790553,
     2011.7967145790553
@@ -2279,10 +2290,10 @@
    "raw_date": "2011-10-18"
   },
   "P1184_North-Branford_CT_USA_Ixodes-scapularis_2014-05-29": {
-   "branch_length": 8.227664303599026e-05,
-   "clock_length": 8.227664303599026e-05,
+   "branch_length": 8.96947850827623e-05,
+   "clock_length": 8.96947850827623e-05,
    "date": "2014-05-28",
-   "mutation_length": 0.0002818278898492095,
+   "mutation_length": 0.00028184413272084176,
    "num_date_confidence": [
     2014.4079397672826,
     2014.4079397672826
@@ -2291,10 +2302,10 @@
    "raw_date": "2014-05-29"
   },
   "P1241_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-28": {
-   "branch_length": 6.958182073662186e-05,
-   "clock_length": 6.958182073662186e-05,
+   "branch_length": 7.257899850167882e-05,
+   "clock_length": 7.257899850167882e-05,
    "date": "2011-10-27",
-   "mutation_length": 1.0275709226168154e-22,
+   "mutation_length": 1.5683396002701419e-18,
    "num_date_confidence": [
     2011.8240930869267,
     2011.8240930869267
@@ -2303,10 +2314,10 @@
    "raw_date": "2011-10-28"
   },
   "P1290_North-Branford_CT_USA_Ixodes-scapularis_2014-05-29": {
-   "branch_length": 8.227664303599026e-05,
-   "clock_length": 8.227664303599026e-05,
+   "branch_length": 1.5342234490920767e-05,
+   "clock_length": 1.5342234490920767e-05,
    "date": "2014-05-28",
-   "mutation_length": 6.068660490050008e-21,
+   "mutation_length": 1.553599358831168e-18,
    "num_date_confidence": [
     2014.4079397672826,
     2014.4079397672826
@@ -2315,10 +2326,10 @@
    "raw_date": "2014-05-29"
   },
   "P1295_North-Branford_CT_USA_Ixodes-scapularis_2014-05-14": {
-   "branch_length": 0.00044803162893320553,
-   "clock_length": 0.00044803162893320553,
+   "branch_length": 1.5148898523588352e-05,
+   "clock_length": 1.5148898523588352e-05,
    "date": "2014-05-13",
-   "mutation_length": 9.392890317137734e-05,
+   "mutation_length": 1.553599358831168e-18,
    "num_date_confidence": [
     2014.3668720054757,
     2014.3668720054757
@@ -2327,10 +2338,10 @@
    "raw_date": "2014-05-14"
   },
   "P1384_Bridgeport_CT_USA_Ixodes-scapularis_2014-05-02": {
-   "branch_length": 0.000712449675487835,
-   "clock_length": 0.000712449675487835,
+   "branch_length": 0.0006926330917555524,
+   "clock_length": 0.0006926330917555524,
    "date": "2014-05-02",
-   "mutation_length": 0.0008458793434549965,
+   "mutation_length": 0.0008459303467046784,
    "num_date_confidence": [
     2014.3340177960301,
     2014.3340177960301
@@ -2339,10 +2350,10 @@
    "raw_date": "2014-05-02"
   },
   "P1429_North-Branford_CT_USA_Ixodes-scapularis_2014-06-24": {
-   "branch_length": 0.00023616430063839382,
-   "clock_length": 0.00023616430063839382,
+   "branch_length": 0.00022750188369604444,
+   "clock_length": 0.00022750188369604444,
    "date": "2014-06-23",
-   "mutation_length": 0.0002818045709835954,
+   "mutation_length": 0.0002818206827509585,
    "num_date_confidence": [
     2014.479123887748,
     2014.479123887748
@@ -2351,10 +2362,10 @@
    "raw_date": "2014-06-24"
   },
   "P1514_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-25": {
-   "branch_length": 0.0,
-   "clock_length": 0.0,
+   "branch_length": 1.1567393684228893e-05,
+   "clock_length": 1.1567393684228893e-05,
    "date": "2011-10-24",
-   "mutation_length": 9.071035248532504e-21,
+   "mutation_length": 1.5682530291404458e-18,
    "num_date_confidence": [
     2011.8158795345653,
     2011.8158795345653
@@ -2363,10 +2374,10 @@
    "raw_date": "2011-10-25"
   },
   "P1518_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-25": {
-   "branch_length": 0.0,
-   "clock_length": 0.0,
+   "branch_length": 1.1567393684228893e-05,
+   "clock_length": 1.1567393684228893e-05,
    "date": "2011-10-24",
-   "mutation_length": 9.071035248532504e-21,
+   "mutation_length": 1.5682530291404458e-18,
    "num_date_confidence": [
     2011.8158795345653,
     2011.8158795345653
@@ -2375,10 +2386,10 @@
    "raw_date": "2011-10-25"
   },
   "P1663_North-Branford_CT_USA_Ixodes-scapularis_2014-10-30": {
-   "branch_length": 8.785538487748987e-05,
-   "clock_length": 8.785538487748987e-05,
+   "branch_length": 0.00011015000825687445,
+   "clock_length": 0.00011015000825687445,
    "date": "2014-10-30",
-   "mutation_length": 0.0002818137802138508,
+   "mutation_length": 0.00028182977759483405,
    "num_date_confidence": [
     2014.829568788501,
     2014.829568788501
@@ -2387,10 +2398,10 @@
    "raw_date": "2014-10-30"
   },
   "P1665_North-Branford_CT_USA_Ixodes-scapularis_2014-10-30": {
-   "branch_length": 7.574449261794178e-06,
-   "clock_length": 7.574449261794178e-06,
+   "branch_length": 1.5148898523588349e-05,
+   "clock_length": 1.5148898523588349e-05,
    "date": "2014-10-30",
-   "mutation_length": 1.132659536656498e-22,
+   "mutation_length": 1.585550507078537e-18,
    "num_date_confidence": [
     2014.829568788501,
     2014.829568788501
@@ -2399,10 +2410,10 @@
    "raw_date": "2014-10-30"
   },
   "P1666_North-Branford_CT_USA_Ixodes-scapularis_2014-10-30": {
-   "branch_length": 7.574449261794178e-06,
-   "clock_length": 7.574449261794178e-06,
+   "branch_length": 1.5148898523588349e-05,
+   "clock_length": 1.5148898523588349e-05,
    "date": "2014-10-30",
-   "mutation_length": 1.132659536656498e-22,
+   "mutation_length": 1.585550507078537e-18,
    "num_date_confidence": [
     2014.829568788501,
     2014.829568788501
@@ -2411,10 +2422,10 @@
    "raw_date": "2014-10-30"
   },
   "P1677_North-Branford_CT_USA_Ixodes-scapularis_2014-10-30": {
-   "branch_length": 0.0004506402387597611,
-   "clock_length": 0.0004506402387597611,
+   "branch_length": 0.0005160885752206587,
+   "clock_length": 0.0005160885752206587,
    "date": "2014-10-30",
-   "mutation_length": 0.0009399515534950773,
+   "mutation_length": 0.0009400061882297157,
    "num_date_confidence": [
     2014.829568788501,
     2014.829568788501
@@ -2423,10 +2434,10 @@
    "raw_date": "2014-10-30"
   },
   "P1697_Bridgeport_CT_USA_Ixodes-scapularis_2011-11-09": {
-   "branch_length": 0.00026501968684863604,
-   "clock_length": 0.00026501968684863604,
+   "branch_length": 0.00033820467100193695,
+   "clock_length": 0.00033820467100193695,
    "date": "2011-11-08",
-   "mutation_length": 0.00028178247539061165,
+   "mutation_length": 0.0002817975113594834,
    "num_date_confidence": [
     2011.8569472963723,
     2011.8569472963723
@@ -2435,10 +2446,10 @@
    "raw_date": "2011-11-09"
   },
   "P1730_Bridgeport_CT_USA_Ixodes-scapularis_2011-11-09": {
-   "branch_length": 0.0,
-   "clock_length": 0.0,
+   "branch_length": 1.1954065618893729e-05,
+   "clock_length": 1.1954065618893729e-05,
    "date": "2011-11-08",
-   "mutation_length": 9.071035248532504e-21,
+   "mutation_length": 1.5682530291404458e-18,
    "num_date_confidence": [
     2011.8569472963723,
     2011.8569472963723
@@ -2447,10 +2458,10 @@
    "raw_date": "2011-11-09"
   },
   "P1734_Bridgeport_CT_USA_Ixodes-scapularis_2014-10-29": {
-   "branch_length": 7.574449261794174e-06,
-   "clock_length": 7.574449261794174e-06,
+   "branch_length": 1.5148898523588352e-05,
+   "clock_length": 1.5148898523588352e-05,
    "date": "2014-10-28",
-   "mutation_length": 1.3994506044026482e-22,
+   "mutation_length": 1.5902268576723228e-18,
    "num_date_confidence": [
     2014.8268309377138,
     2014.8268309377138
@@ -2459,10 +2470,10 @@
    "raw_date": "2014-10-29"
   },
   "P1735_Bridgeport_CT_USA_Ixodes-scapularis_2014-10-29": {
-   "branch_length": 7.574449261794174e-06,
-   "clock_length": 7.574449261794174e-06,
+   "branch_length": 1.5148898523588352e-05,
+   "clock_length": 1.5148898523588352e-05,
    "date": "2014-10-28",
-   "mutation_length": 1.3994506044026482e-22,
+   "mutation_length": 1.5902268576723228e-18,
    "num_date_confidence": [
     2014.8268309377138,
     2014.8268309377138
@@ -2471,10 +2482,10 @@
    "raw_date": "2014-10-29"
   },
   "P1742_North-Branford_CT_USA_Ixodes-scapularis_2014-10-27": {
-   "branch_length": 0.0001809323607266091,
-   "clock_length": 0.0001809323607266091,
+   "branch_length": 0.00016849055991192431,
+   "clock_length": 0.00016849055991192431,
    "date": "2014-10-27",
-   "mutation_length": 0.00028180743327303574,
+   "mutation_length": 0.00028182351364372613,
    "num_date_confidence": [
     2014.8213552361397,
     2014.8213552361397
@@ -2483,10 +2494,10 @@
    "raw_date": "2014-10-27"
   },
   "P1753_Bridgeport_CT_USA_Ixodes-scapularis_2011-11-09": {
-   "branch_length": 0.0,
-   "clock_length": 0.0,
+   "branch_length": 1.1954065618893729e-05,
+   "clock_length": 1.1954065618893729e-05,
    "date": "2011-11-08",
-   "mutation_length": 9.071035248532504e-21,
+   "mutation_length": 1.5682530291404458e-18,
    "num_date_confidence": [
     2011.8569472963723,
     2011.8569472963723
@@ -2495,10 +2506,10 @@
    "raw_date": "2011-11-09"
   },
   "P1774A_North-Branford_CT_USA_Ixodes-scapularis_2014-10-28": {
-   "branch_length": 3.89734619649478e-05,
-   "clock_length": 3.89734619649478e-05,
+   "branch_length": 3.784646817999272e-05,
+   "clock_length": 3.784646817999272e-05,
    "date": "2014-10-27",
-   "mutation_length": 0.0001878548804676051,
+   "mutation_length": 0.0001878655213006469,
    "num_date_confidence": [
     2014.8240930869267,
     2014.8240930869267
@@ -2507,10 +2518,10 @@
    "raw_date": "2014-10-28"
   },
   "P1783A_North-Branford_CT_USA_Ixodes-scapularis_2014-10-30": {
-   "branch_length": 3.9004333087156145e-05,
-   "clock_length": 3.9004333087156145e-05,
+   "branch_length": 3.787224630897088e-05,
+   "clock_length": 3.787224630897088e-05,
    "date": "2014-10-30",
-   "mutation_length": 7.145487162247358e-21,
+   "mutation_length": 1.3934223377943625e-22,
    "num_date_confidence": [
     2014.829568788501,
     2014.829568788501
@@ -2519,10 +2530,10 @@
    "raw_date": "2014-10-30"
   },
   "P1912_Bridgeport_CT_USA_Ixodes-scapularis_2012-04-05": {
-   "branch_length": 5.1659371449817324e-05,
-   "clock_length": 5.1659371449817324e-05,
+   "branch_length": 3.486319432634156e-05,
+   "clock_length": 3.486319432634156e-05,
    "date": "2012-04-06",
-   "mutation_length": 1.0275709226168154e-22,
+   "mutation_length": 1.5683396002701419e-18,
    "num_date_confidence": [
     2012.2628336755647,
     2012.2628336755647
@@ -2531,10 +2542,10 @@
    "raw_date": "2012-04-05"
   },
   "P1930_Bridgeport_CT_USA_Ixodes-scapularis_2012-04-05": {
-   "branch_length": 5.1659371449817324e-05,
-   "clock_length": 5.1659371449817324e-05,
+   "branch_length": 3.486319432634156e-05,
+   "clock_length": 3.486319432634156e-05,
    "date": "2012-04-06",
-   "mutation_length": 9.39058160661183e-05,
+   "mutation_length": 9.391095706453643e-05,
    "num_date_confidence": [
     2012.2628336755647,
     2012.2628336755647
@@ -2543,10 +2554,10 @@
    "raw_date": "2012-04-05"
   },
   "P1933_Bridgeport_CT_USA_Ixodes-scapularis_2012-04-05": {
-   "branch_length": 5.1659371449817324e-05,
-   "clock_length": 5.1659371449817324e-05,
+   "branch_length": 3.486319432634156e-05,
+   "clock_length": 3.486319432634156e-05,
    "date": "2012-04-06",
-   "mutation_length": 0.0001878264353678642,
+   "mutation_length": 0.0001878366335339108,
    "num_date_confidence": [
     2012.2628336755647,
     2012.2628336755647
@@ -2555,10 +2566,10 @@
    "raw_date": "2012-04-05"
   },
   "P2552_Bridgeport_CT_USA_Ixodes-scapularis_2015-10-22": {
-   "branch_length": 0.00048699140506708045,
-   "clock_length": 0.00048699140506708045,
+   "branch_length": 0.00042955443941647767,
+   "clock_length": 0.00042955443941647767,
    "date": "2015-10-22",
-   "mutation_length": 0.000563653275608441,
+   "mutation_length": 0.0005636854119118648,
    "num_date_confidence": [
     2015.807665982204,
     2015.807665982204
@@ -2567,10 +2578,10 @@
    "raw_date": "2015-10-22"
   },
   "P913_Bridgeport_CT_USA_Ixodes-scapularis_2013-06-12": {
-   "branch_length": 0.0003728735102086853,
-   "clock_length": 0.0003728735102086853,
+   "branch_length": 0.0003793731408013619,
+   "clock_length": 0.0003793731408013619,
    "date": "2013-12-06",
-   "mutation_length": 0.000939870327937372,
+   "mutation_length": 0.0009399212808957009,
    "num_date_confidence": [
     2013.930869267625,
     2013.930869267625
@@ -2579,10 +2590,10 @@
    "raw_date": "2013-12-06"
   },
   "PF3.017_Wells_ME_USA_Ixodes-scapularis_2018-06-07": {
-   "branch_length": 1.514889852358835e-05,
-   "clock_length": 1.514889852358835e-05,
+   "branch_length": 2.2723347785382523e-05,
+   "clock_length": 2.2723347785382523e-05,
    "date": "2018-06-07",
-   "mutation_length": 4.2731279545370605e-21,
+   "mutation_length": 1.5084067571409555e-18,
    "num_date_confidence": [
     2018.432580424367,
     2018.432580424367
@@ -2591,10 +2602,10 @@
    "raw_date": "2018-06-07"
   },
   "PF3.019_Wells_ME_USA_Ixodes-scapularis_2018-06-07": {
-   "branch_length": 1.514889852358835e-05,
-   "clock_length": 1.514889852358835e-05,
+   "branch_length": 2.2723347785382523e-05,
+   "clock_length": 2.2723347785382523e-05,
    "date": "2018-06-07",
-   "mutation_length": 4.2731279545370605e-21,
+   "mutation_length": 1.5084067571409555e-18,
    "num_date_confidence": [
     2018.432580424367,
     2018.432580424367
@@ -2603,10 +2614,10 @@
    "raw_date": "2018-06-07"
   },
   "PF3.020_Wells_ME_USA_Ixodes-scapularis_2018-06-07": {
-   "branch_length": 4.6932820550835765e-05,
-   "clock_length": 4.6932820550835765e-05,
+   "branch_length": 6.784894664901367e-05,
+   "clock_length": 6.784894664901367e-05,
    "date": "2018-06-07",
-   "mutation_length": 9.392151350708918e-05,
+   "mutation_length": 9.392685757928383e-05,
    "num_date_confidence": [
     2018.432580424367,
     2018.432580424367
@@ -2615,10 +2626,10 @@
    "raw_date": "2018-06-07"
   },
   "PF3.057_Wells_ME_USA_Ixodes-scapularis_2018-06-11": {
-   "branch_length": 4.699456279525116e-05,
-   "clock_length": 4.699456279525116e-05,
+   "branch_length": 6.790050290696891e-05,
+   "clock_length": 6.790050290696891e-05,
    "date": "2018-06-11",
-   "mutation_length": 9.392151350708918e-05,
+   "mutation_length": 9.392685757928383e-05,
    "num_date_confidence": [
     2018.4435318275155,
     2018.4435318275155
@@ -2627,10 +2638,10 @@
    "raw_date": "2018-06-11"
   },
   "RI18-F165_Unknown_RI_USA_Ixodes-scapularis_2018-06-01": {
-   "branch_length": 0.0009397792132508188,
-   "clock_length": 0.0009397792132508188,
+   "branch_length": 0.0010881669787287834,
+   "clock_length": 0.0010881669787287834,
    "date": "2018-06-01",
-   "mutation_length": 0.0012225242652629277,
+   "mutation_length": 0.0012225916496367748,
    "num_date_confidence": [
     2018.416153319644,
     2018.416153319644
@@ -2639,10 +2650,10 @@
    "raw_date": "2018-06-01"
   },
   "RI18-M272_Unknown_RI_USA_Ixodes-scapularis_2018-06-01": {
-   "branch_length": 0.0010043403400682343,
-   "clock_length": 0.0010043403400682343,
+   "branch_length": 0.001091452213947791,
+   "clock_length": 0.001091452213947791,
    "date": "2018-06-01",
-   "mutation_length": 0.0014104395251918979,
+   "mutation_length": 0.001410517910164318,
    "num_date_confidence": [
     2018.416153319644,
     2018.416153319644
@@ -2651,10 +2662,10 @@
    "raw_date": "2018-06-01"
   },
   "RI18-M49_Unknown_RI_USA_Ixodes-scapularis_2018-06-01": {
-   "branch_length": 0.0010043403400682343,
-   "clock_length": 0.0010043403400682343,
+   "branch_length": 0.001091452213947791,
+   "clock_length": 0.001091452213947791,
    "date": "2018-06-01",
-   "mutation_length": 0.0009402056349993384,
+   "mutation_length": 0.000940258346262781,
    "num_date_confidence": [
     2018.416153319644,
     2018.416153319644
@@ -2663,10 +2674,10 @@
    "raw_date": "2018-06-01"
   },
   "RI18-N570_Unknown_RI_USA_Ixodes-scapularis_2018-06-01": {
-   "branch_length": 0.0009397792132508188,
-   "clock_length": 0.0009397792132508188,
+   "branch_length": 0.0010881669787287834,
+   "clock_length": 0.0010881669787287834,
    "date": "2018-06-01",
-   "mutation_length": 0.000657757409170241,
+   "mutation_length": 0.0006577963254037402,
    "num_date_confidence": [
     2018.416153319644,
     2018.416153319644
@@ -2675,10 +2686,10 @@
    "raw_date": "2018-06-01"
   },
   "RTS81_East-Islip_NY_USA_Ixodes-scapularis_2016-06-01": {
-   "branch_length": 0.0007448694025517442,
-   "clock_length": 0.0007448694025517442,
+   "branch_length": 0.0007833276476351696,
+   "clock_length": 0.0007833276476351696,
    "date": "2016-06-01",
-   "mutation_length": 0.0007520273067204097,
+   "mutation_length": 0.0007520716031982309,
    "num_date_confidence": [
     2016.4188911704312,
     2016.4188911704312
@@ -2687,10 +2698,10 @@
    "raw_date": "2016-06-01"
   },
   "RTS82_East-Islip_NY_USA_Ixodes-scapularis_2016-06-01": {
-   "branch_length": 0.000593108546333647,
-   "clock_length": 0.000593108546333647,
+   "branch_length": 0.0006045666957474939,
+   "clock_length": 0.0006045666957474939,
    "date": "2016-06-01",
-   "mutation_length": 0.0003758068097952735,
+   "mutation_length": 0.000375828757188456,
    "num_date_confidence": [
     2016.4188911704312,
     2016.4188911704312
@@ -2699,10 +2710,10 @@
    "raw_date": "2016-06-01"
   },
   "RTS84_East-Islip_NY_USA_Ixodes-scapularis_2016-06-01": {
-   "branch_length": 0.0007248810080424153,
-   "clock_length": 0.0007248810080424153,
+   "branch_length": 0.0007379020990561897,
+   "clock_length": 0.0007379020990561897,
    "date": "2016-06-01",
-   "mutation_length": 0.0009396513250804322,
+   "mutation_length": 0.0009397071428132234,
    "num_date_confidence": [
     2016.4188911704312,
     2016.4188911704312
@@ -2711,10 +2722,10 @@
    "raw_date": "2016-06-01"
   },
   "RTS92_Islip_NY_USA_Ixodes-scapularis_2016-06-01": {
-   "branch_length": 0.0007448694025517442,
-   "clock_length": 0.0007448694025517442,
+   "branch_length": 0.0007833276476351696,
+   "clock_length": 0.0007833276476351696,
    "date": "2016-06-01",
-   "mutation_length": 0.001410659896656277,
+   "mutation_length": 0.0014107461251219812,
    "num_date_confidence": [
     2016.4188911704312,
     2016.4188911704312
@@ -2723,10 +2734,10 @@
    "raw_date": "2016-06-01"
   },
   "RTS96_Lloyd-Harbor_NY_USA_Ixodes-scapularis_2016-06-01": {
-   "branch_length": 0.0009175125024334428,
-   "clock_length": 0.0009175125024334428,
+   "branch_length": 0.0008723824469133732,
+   "clock_length": 0.0008723824469133732,
    "date": "2016-06-01",
-   "mutation_length": 0.001034035254792959,
+   "mutation_length": 0.0010340990101237496,
    "num_date_confidence": [
     2016.4188911704312,
     2016.4188911704312
