@@ -1,0 +1,167 @@
+strain	sample	accession	city	state	country	host	date	source	authors	url	title	journal	paper_url
+P0375_Bridgeport_CT_USA_Ixodes-scapularis_2010-11-01	P0375	KU886216.1	Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2010-11-01	GenBank	Grubaugh et al. (2016)	https://www.ncbi.nlm.nih.gov/nuccore/KU886216.1	Transmission bottlenecks and RNAi collectively influence tick-borne flavivirus evolution	Virus Evol. 2(2): vew033 (2016)	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5210029/
+LB_Powassan_ON_Canada_Homo-sapiens_1958-09-23	LB	NC_003687	Powassan_ON	Ontario	Canada	Homo-sapiens	1958-09-23	GenBank	Mandl et al. (1993)	https://www.ncbi.nlm.nih.gov/nuccore/NC_003687.1	Complete genomic sequence of Powassan virus: evaluation of genetic elements in tick-borne versus mosquito-borne flaviviruses	Virology 194 (1), 173-184 (1993)	https://www.ncbi.nlm.nih.gov/pubmed/8097605
+POWV_M030T_brain_Unknown_NH_USA_Homo-sapiens_2016-12-01	POWV_M030T_brain	MF688929	Unknown_NH	New-Hampshire	USA	Homo-sapiens	2016-12-01	GenBank	Piantadosi et al. (2018)	https://www.ncbi.nlm.nih.gov/nuccore/MF688929.1	Rapid detection of Powassan virus in a patient with encephalitis by metagenomic sequencing	Clin Infect Dis. 66(5):789-792 (2018)	https://www.ncbi.nlm.nih.gov/pubmed/29020227
+POWV_M030T_CSF_Unknown_NH_USA_Homo-sapiens_2016-12-01	POWV_M030T_CSF	MF688928	Unknown_NH	New-Hampshire	USA	Homo-sapiens	2016-12-01	GenBank	Piantadosi et al. (2018)	https://www.ncbi.nlm.nih.gov/nuccore/MF688928.1	Rapid detection of Powassan virus in a patient with encephalitis by metagenomic sequencing	Clin Infect Dis. 66(5):789-792 (2018)	https://www.ncbi.nlm.nih.gov/pubmed/29020227
+64-7062_Unknown_NY_USA_Tick_1964-06-01	64-7062	HM440563	Unknown_NY	New-York	USA	Tick	1964-06-01	GenBank	Pesko et al. (2010)	https://www.ncbi.nlm.nih.gov/nuccore/HM440563.1	Molecular epidemiology of Powassan virus in North America	J. Gen. Virol. 91 (PT 11), 2698-2705 (2010)	https://www.ncbi.nlm.nih.gov/pubmed/20631087
+DTVWiC08_Spooner_WI_USA_Ixodes-scapularis_2008-06-01	DTVWiC08	HM440562	Spooner_WI	Wisconsin	USA	Ixodes-scapularis	2008-06-01	GenBank	Pesko et al. (2010)	https://www.ncbi.nlm.nih.gov/nuccore/HM440562.1	Molecular epidemiology of Powassan virus in North America	J. Gen. Virol. 91 (PT 11), 2698-2705 (2010)	https://www.ncbi.nlm.nih.gov/pubmed/20631087
+DTVWiB08_Spooner_WI_USA_Ixodes-scapularis_2008-06-01	DTVWiB08	HM440561	Spooner_WI	Wisconsin	USA	Ixodes-scapularis	2008-06-01	GenBank	Pesko et al. (2010)	https://www.ncbi.nlm.nih.gov/nuccore/HM440561.1	Molecular epidemiology of Powassan virus in North America	J. Gen. Virol. 91 (PT 11), 2698-2705 (2010)	https://www.ncbi.nlm.nih.gov/pubmed/20631087
+DTVWiA08_Spooner_WI_USA_Ixodes-scapularis_2008-06-01	DTVWiA08	HM440560	Spooner_WI	Wisconsin	USA	Ixodes-scapularis	2008-06-01	GenBank	Pesko et al. (2010)	https://www.ncbi.nlm.nih.gov/nuccore/HM440560.1	Molecular epidemiology of Powassan virus in North America	J. Gen. Virol. 91 (PT 11), 2698-2705 (2010)	https://www.ncbi.nlm.nih.gov/pubmed/20631087
+NFS001_Nantucket_MA_USA_Ixodes-scapularis_1996-06-01	NFS001	HM440559	Nantucket_MA	Massachusetts	USA	Ixodes-scapularis	1996-06-01	GenBank	Pesko et al. (2010)	https://www.ncbi.nlm.nih.gov/nuccore/HM440559.1	Molecular epidemiology of Powassan virus in North America	J. Gen. Virol. 91 (PT 11), 2698-2705 (2010)	https://www.ncbi.nlm.nih.gov/pubmed/20631087
+wicf9901_Chippewa-Falls_WI_USA_Ixodes-scapularis_1999-06-01	wicf9901	HM440558	Chippewa-Falls_WI	Wisconsin	USA	Ixodes-scapularis	1999-06-01	GenBank	Pesko et al. (2010)	https://www.ncbi.nlm.nih.gov/nuccore/HM440558.1	Molecular epidemiology of Powassan virus in North America	J. Gen. Virol. 91 (PT 11), 2698-2705 (2010)	https://www.ncbi.nlm.nih.gov/pubmed/20631087
+MeC17-166_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2017-06-01	MeC17-166	MK104144	Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis	2017-06-01	GenBank	Robich et al. (2019)	https://www.ncbi.nlm.nih.gov/nuccore/MK104144.1	Prevalence and genetic characterization of deer tick virus (Powassan virus, lineage II) in Ixodes scapularis ticks collected in Maine	Am. J. Trop. Med. Hyg. 101(2):467-471 (2019)	https://www.ncbi.nlm.nih.gov/pubmed/31218999
+MeW17-228_Wells_ME_USA_Ixodes-scapularis_2017-06-01	MeW17-228	MK309362	Wells_ME	Maine	USA	Ixodes-scapularis	2017-06-01	GenBank	Robich et al. (2019)	https://www.ncbi.nlm.nih.gov/nuccore/MK309362.1	Prevalence and genetic characterization of deer tick virus (Powassan virus, lineage II) in Ixodes scapularis ticks collected in Maine	Am. J. Trop. Med. Hyg. 101(2):467-471 (2019)	https://www.ncbi.nlm.nih.gov/pubmed/31218999
+RTS84_East-Islip_NY_USA_Ixodes-scapularis_2016-06-01	RTS84	MG647783	East-Islip_NY	New-York	USA	Ixodes-scapularis	2016-06-01	GenBank	Tokarz et al. (2018)	https://www.ncbi.nlm.nih.gov/nuccore/MG647783.1	Identification of novel viruses in Amblyomma americanum, Dermacentor variablis, and Ixodes scapularis ticks	mSphere 3 (2) e00614-17 (2018)	https://www.ncbi.nlm.nih.gov/pubmed/29564401
+RTS96_Lloyd-Harbor_NY_USA_Ixodes-scapularis_2016-06-01	RTS96	MG647782	Lloyd-Harbor_NY	New-York	USA	Ixodes-scapularis	2016-06-01	GenBank	Tokarz et al. (2018)	https://www.ncbi.nlm.nih.gov/nuccore/MG647782.1	Identification of novel viruses in Amblyomma americanum, Dermacentor variablis, and Ixodes scapularis ticks	mSphere 3 (2) e00614-17 (2018)	https://www.ncbi.nlm.nih.gov/pubmed/29564401
+RTS92_Islip_NY_USA_Ixodes-scapularis_2016-06-01	RTS92	MG647781	Islip_NY	New-York	USA	Ixodes-scapularis	2016-06-01	GenBank	Tokarz et al. (2018)	https://www.ncbi.nlm.nih.gov/nuccore/MG647781.1	Identification of novel viruses in Amblyomma americanum, Dermacentor variablis, and Ixodes scapularis ticks	mSphere 3 (2) e00614-17 (2018)	https://www.ncbi.nlm.nih.gov/pubmed/29564401
+RTS82_East-Islip_NY_USA_Ixodes-scapularis_2016-06-01	RTS82	MG647780	East-Islip_NY	New-York	USA	Ixodes-scapularis	2016-06-01	GenBank	Tokarz et al. (2018)	https://www.ncbi.nlm.nih.gov/nuccore/MG647780.1	Identification of novel viruses in Amblyomma americanum, Dermacentor variablis, and Ixodes scapularis ticks	mSphere 3 (2) e00614-17 (2018)	https://www.ncbi.nlm.nih.gov/pubmed/29564401
+RTS81_East-Islip_NY_USA_Ixodes-scapularis_2016-06-01	RTS81	MG647779	East-Islip_NY	New-York	USA	Ixodes-scapularis	2016-06-01	GenBank	Tokarz et al. (2018)	https://www.ncbi.nlm.nih.gov/nuccore/MG647779.1	Identification of novel viruses in Amblyomma americanum, Dermacentor variablis, and Ixodes scapularis ticks	mSphere 3 (2) e00614-17 (2018)	https://www.ncbi.nlm.nih.gov/pubmed/29564401
+LI-1_East-Islip_NY_USA_Ixodes-scapularis_2013-04-01	LI-1	KJ746872	East-Islip_NY	New-York	USA	Ixodes-scapularis	2013-04-01	GenBank	Tokarz et al. (2014)	https://www.ncbi.nlm.nih.gov/nuccore/KJ746872.2	Virome analysis of Amblyomma americanum, Dermacentor variabilis, and Ixodes scapularis ticks reveals novel highly divergent vertebrate and invertebrate viruses	J. Virol. 88 (19), 11480-11492 (2014)	https://www.ncbi.nlm.nih.gov/pubmed/25056893
+CoJH_Westchester_NY_USA_Unknown_2008-06-01	CoJH		Westchester_NY	New-York	USA	Unknown	2008-06-01	NYSDH	Ciota et al.				
+Co916_Westchester_NY_USA_Unknown_2009-06-01	Co916		Westchester_NY	New-York	USA	Unknown	2009-06-01	NYSDH	Ciota et al.				
+CoYorktown_Westchester_NY_USA_Unknown_2011-06-01		CoYorktown	Westchester_NY	New-York	USA	Unknown	2011-06-01	NYSDH	Ciota et al.				
+Co123_Rockland_NY_USA_Unknown_2011-06-01	Co123		Rockland_NY	New-York	USA	Unknown	2011-06-01	NYSDH	Ciota et al.				
+Co1190_Putnam_NY_USA_Unknown_2011-06-01	Co1190		Putnam_NY	New-York	USA	Unknown	2011-06-01	NYSDH	Ciota et al.				
+P0096_Bridgeport_CT_USA_Unknown_2008-06-01	P0096		Bridgeport_CT	Connecticut	USA	Unknown	2008-06-01	NYSDH	Ciota et al.				
+CoFDR_Westchester_NY_USA_Unknown_2008-06-01	CoFDR		Westchester_NY	New-York	USA	Unknown	2008-06-01	NYSDH	Ciota et al.				
+CoNorthCastle_Westchester_NY_USA_Unknown_2011-06-01		CoNorthCastle	Westchester_NY	New-York	USA	Unknown	2011-06-01	NYSDH	Ciota et al.				
+P1912_Bridgeport_CT_USA_Unknown_2012-06-01	P1912		Bridgeport_CT	Connecticut	USA	Unknown	2012-06-01	NYSDH	Ciota et al.				
+Co1021_Putnam_NY_USA_Unknown_2010-06-01	Co1021		Putnam_NY	New-York	USA	Unknown	2010-06-01	NYSDH	Ciota et al.				
+CT390_Nortwest_CT_USA_Unknown_1995-06-01	CT390		Unknown_CT	Connecticut	USA	Unknown	1995-06-01	NYSDH	Ciota et al.				
+P0525_North-Branford_CT_USA_Unknown_2010-06-01	P0525		North-Branford_CT	Connecticut	USA	Unknown	2010-06-01	NYSDH	Ciota et al.				
+CoWTDtick_Columbia_NY_USA_Unknown_2013-06-01	CoWTDtick		Columbia_NY	New-York	USA	Unknown	2013-06-01	NYSDH	Ciota et al.				
+Co1373_Dutchess_NY_USA_Unknown_2011-06-01	Co1373		Dutchess_NY	New-York	USA	Unknown	2011-06-01	NYSDH	Ciota et al.				
+SPO_Spooner_WI_USA_Unknown_1997-06-01	SPO	Spooner_WI		Wisconsin	USA	Unknown	1997-06-01	NYSDH	Ciota et al.				
+NY-tick7062_Unknown_NY_USA_Unknown_1964-06-01	NY-tick7062	Unknown_NY		New-York	USA	Unknown	1964-06-01	NYSDH	Ciota et al.				
+NY-human1702_Unknown_NY_USA_Unknown_1975-06-01	NY-human1702		Unknown_NY	New-York	USA	Unknown	1975-06-01	NYSDH	Ciota et al.				
+PF3.017_Wells_ME_USA_Ixodes-scapularis_2018-06-07	PF3.017		Wells_ME	Maine	USA	Ixodes-scapularis	2018-06-07	MMCRI	Normandin et al.				
+PF3.019_Wells_ME_USA_Ixodes-scapularis_2018-06-07	PF3.019		Wells_ME	Maine	USA	Ixodes-scapularis	2018-06-07	MMCRI	Normandin et al.				
+PF3.020_Wells_ME_USA_Ixodes-scapularis_2018-06-07	PF3.020		Wells_ME	Maine	USA	Ixodes-scapularis	2018-06-07	MMCRI	Normandin et al.				
+PF3.057_Wells_ME_USA_Ixodes-scapularis_2018-06-11	PF3.057		Wells_ME	Maine	USA	Ixodes-scapularis	2018-06-11	MMCRI	Normandin et al.				
+DH18-P52-B9_Millis_MA_USA_Unknown_2018-06-01	DH18-P52-B9		Millis_MA	Massachusetts	USA	Unknown	2018-06-01	Tufts	Normandin et al.				
+ME18-F37_Unknown_ME_USA_Unknown_2018-06-01	ME18-F37		Unknown_ME	Maine	USA	Unknown	2018-06-01	Tufts	Normandin et al.				
+ME18-M193_Unknown_ME_USA_Unknown_2018-06-01	ME18-M193		Unknown_ME	Maine	USA	Unknown	2018-06-01	Tufts	Normandin et al.				
+RI18-M49_Unknown_RI_USA_Ixodes-scapularis_2018-06-01	RI18-M49		Unknown_RI	Rhode-Island	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
+DH18-P61-g2_Sherborn_MA_USA_Ixodes-scapularis_2018-06-01	DH18-P61- g2		Sherborn_MA	Massachusetts	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
+DH18-P1020C10_Millis_MA_USA_Ixodes-scapularis_2018-06-01	DH18-P1020C10		Millis_MA	Massachusetts	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
+N18-F18_Nantucket_MA_USA_Ixodes-scapularis_2018-06-01	N18-F18		Nantucket_MA	Massachusetts	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
+ME18-M192_Unknown_ME_USA_Ixodes-scapularis_2018-06-01	ME18-M192		Unknown_ME	Maine	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
+RI18-N570_Unknown_RI_USA_Ixodes-scapularis_2018-06-01	RI18-N570		Unknown_RI	Rhode-Island	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
+RI18-M272_Unknown_RI_USA_Ixodes-scapularis_2018-06-01	RI18-M272		Unknown_RI	Rhode-Island	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
+RI18-F165_Unknown_RI_USA_Ixodes-scapularis_2018-06-01	RI18-F165		Unknown_RI	Rhode-Island	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
+DH18-D81-A4-A6_Marthas-Vineyard_MA_USA_Ixodes-scapularis_2018-06-01		DH18-D81-A4-A6	Marthas-Vineyard_MA	Massachusetts	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
+DH18-D81-A1-A3_Marthas-Vineyard_MA_USA_Ixodes-scapularis_2018-06-01		DH18-D81-A1-A3	Marthas-Vineyard_MA	Massachusetts	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
+ME18-M32_Unknown_ME_USA_Ixodes-scapularis_2018-06-01	ME18-M32		Unknown_ME	Maine	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
+1427-62_North-Bay_ON_Canada_Sciurus-vulgaris_1962-06-01	1427-62		North-Bay_ON	Ontario	Canada	Sciurus-vulgaris	1962-06-01	CSU	Normandin et al.				
+M11665_Laurier-Township_ON_Canada_Ixodes-cookei_1965-06-01	M11665		Laurier-Township_ON	Ontario	Canada	Ixodes-cookei	1965-06-01	CSU	Normandin et al.				
+SPOB9901_Spooner_WI_USA_Ixodes-scapularis_1997-06-01	SPOB9901		Spooner_WI	Wisconsin	USA	Ixodes-scapularis	1997-06-01	CSU	Normandin et al.				
+FB-Dv-1_Spooner_WI_USA_Ixodes-scapularis_2008-06-01	FB-Dv#1		Spooner_WI	Wisconsin	USA	Ixodes-scapularis	2008-06-01	CSU	Normandin et al.				
+FA5/12-40_Spooner_WI_USA_Ixodes-scapularis_2008-06-01	FA5/12-40		Spooner_WI	Wisconsin	USA	Ixodes-scapularis	2008-06-01	CSU	Normandin et al.				
+MA5/13-47_Spooner_WI_USA_Ixodes-scapularis_2008-06-01	MA5/13-47		Spooner_WI	Wisconsin	USA	Ixodes-scapularis	2008-06-01	CSU	Normandin et al.				
+MB5/12-73_Spooner_WI_USA_Ixodes-scapularis_2008-06-01	MB5/12-73		Spooner_WI	Wisconsin	USA	Ixodes-scapularis	2008-06-01	CSU	Normandin et al.				
+FB5/13-140_Spooner_WI_USA_Ixodes-scapularis_2008-06-01	FB5/13-140		Spooner_WI	Wisconsin	USA	Ixodes-scapularis	2008-06-01	CSU	Normandin et al.				
+FB5/13-1_Spooner_WI_USA_Ixodes-scapularis_2008-06-01	FB5/13-1		Spooner_WI	Wisconsin	USA	Ixodes-scapularis	2008-06-01	CSU	Normandin et al.				
+IPS001_Ipswich_MA_USA_Ixodes-scapularis_1995-06-01	IPS001		Ipswich_MA	Massachusetts	USA	Ixodes-scapularis	1995-06-01	CSU	Normandin et al.				
+P1734_Bridgeport_CT_USA_Ixodes-scapularis_2014-10-29	P1734		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2014-10-29	CAES	Vogels et al.				
+P1735_Bridgeport_CT_USA_Ixodes-scapularis_2014-10-29	P1735		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2014-10-29	CAES	Vogels et al.				
+P1663_North-Branford_CT_USA_Ixodes-scapularis_2014-10-30	P1663		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2014-10-30	CAES	Vogels et al.				
+P1665_North-Branford_CT_USA_Ixodes-scapularis_2014-10-30	P1665		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2014-10-30	CAES	Vogels et al.				
+P1666_North-Branford_CT_USA_Ixodes-scapularis_2014-10-30	P1666		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2014-10-30	CAES	Vogels et al.				
+P1677_North-Branford_CT_USA_Ixodes-scapularis_2014-10-30	P1677		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2014-10-30	CAES	Vogels et al.				
+P1384_Bridgeport_CT_USA_Ixodes-scapularis_2014-05-02	P1384		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2014-05-02	CAES	Vogels et al.				
+P1429_North-Branford_CT_USA_Ixodes-scapularis_2014-06-24	P1429		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2014-06-24	CAES	Vogels et al.				
+P1742_North-Branford_CT_USA_Ixodes-scapularis_2014-10-27	P1742		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2014-10-27	CAES	Vogels et al.				
+P1783A_North-Branford_CT_USA_Ixodes-scapularis_2014-10-30	P1783A		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2014-10-30	CAES	Vogels et al.				
+P1774A_North-Branford_CT_USA_Ixodes-scapularis_2014-10-28	P1774A		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2014-10-28	CAES	Vogels et al.				
+P913_Bridgeport_CT_USA_Ixodes-scapularis_2013-06-12	P913		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2013-12-06	CAES	Vogels et al.				
+P2552_Bridgeport_CT_USA_Ixodes-scapularis_2015-10-22		P2552	Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2015-10-22	CAES	Vogels et al.				
+8_Redding_CT_USA_Ixodes-scapularis_2015-12-28	8		Redding_CT	Connecticut	USA	Ixodes-scapularis	2015-12-28	CAES	Vogels et al.				
+67_North-Branford_CT_USA_Ixodes-scapularis_2015-12-03	67		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2015-12-03	CAES	Vogels et al.				
+32_Redding_CT_USA_Ixodes-scapularis_2016-11-10	32		Redding_CT	Connecticut	USA	Ixodes-scapularis	2016-11-10	CAES	Vogels et al.				
+45_Lyme_CT_USA_Ixodes-scapularis_2016-11-28	45		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-28	CAES	Vogels et al.				
+50_Lyme_CT_USA_Ixodes-scapularis_2016-11-28	50		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-28	CAES	Vogels et al.				
+52_Lyme_CT_USA_Ixodes-scapularis_2016-11-28	52		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-28	CAES	Vogels et al.				
+53_Lyme_CT_USA_Ixodes-scapularis_2016-11-28	53		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-28	CAES	Vogels et al.				
+55_Lyme_CT_USA_Ixodes-scapularis_2016-11-28	55		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-28	CAES	Vogels et al.				
+62_Lyme_CT_USA_Ixodes-scapularis_2016-11-16	62		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-16	CAES	Vogels et al.				
+93_Lyme_CT_USA_Ixodes-scapularis_2016-11-07	93		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-07	CAES	Vogels et al.				
+95_Lyme_CT_USA_Ixodes-scapularis_2016-11-07	95		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-07	CAES	Vogels et al.				
+98_Lyme_CT_USA_Ixodes-scapularis_2016-11-07	98		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-07	CAES	Vogels et al.				
+101_Lyme_CT_USA_Ixodes-scapularis_2016-11-07	101		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-07	CAES	Vogels et al.				
+114_Lyme_CT_USA_Ixodes-scapularis_2016-11-01	114		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-01	CAES	Vogels et al.				
+116_Lyme_CT_USA_Ixodes-scapularis_2016-11-01	116		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-01	CAES	Vogels et al.				
+118_Lyme_CT_USA_Ixodes-scapularis_2016-11-01	118		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-01	CAES	Vogels et al.				
+122_Lyme_CT_USA_Ixodes-scapularis_2016-11-01	122		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-01	CAES	Vogels et al.				
+124_Lyme_CT_USA_Ixodes-scapularis_2016-11-01	124		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-01	CAES	Vogels et al.				
+125_Lyme_CT_USA_Ixodes-scapularis_2016-11-01	125		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-01	CAES	Vogels et al.				
+126_Lyme_CT_USA_Ixodes-scapularis_2016-11-01	126		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-01	CAES	Vogels et al.				
+P0375_Bridgeport_CT_USA_Ixodes-scapularis_2016-11-01	P0375		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2016-11-01	CAES	Vogels et al.				
+P0183_Bridgeport_CT_USA_Ixodes-scapularis_2016-11-01	P0183		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2016-11-01	CAES	Vogels et al.				
+P0096_Bridgeport_CT_USA_Ixodes-scapularis_2016-11-01	P0096		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2016-11-01	CAES	Vogels et al.				
+P0494_Bridgeport_CT_USA_Ixodes-scapularis_2010-11-02	P0494		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2010-11-02	CAES	Vogels et al.				
+P0525_North-Branford_CT_USA_Ixodes-scapularis_2010-10-29	P0525		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2010-10-29	CAES	Vogels et al.				
+P0526_North-Branford_CT_USA_Ixodes-scapularis_2010-10-29	P0526		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2010-10-29	CAES	Vogels et al.				
+P0618_North-Branford_CT_USA_Ixodes-scapularis_2010-10-29	P0618		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2010-10-29	CAES	Vogels et al.				
+P0621_North-Branford_CT_USA_Ixodes-scapularis_2010-10-29	P0621		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2010-10-29	CAES	Vogels et al.				
+P0629_North-Branford_CT_USA_Ixodes-scapularis_2010-10-29	P0629		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2010-10-29	CAES	Vogels et al.				
+P1697_Bridgeport_CT_USA_Ixodes-scapularis_2011-11-09	P1697		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2011-11-09	CAES	Vogels et al.				
+Ar-218-78_Old-Lyme_CT_USA_Ixodes-cookei_1978-10-07	Ar-218-78		Old-Lyme_CT	Connecticut	USA	Ixodes-cookei	1978-10-07	CAES	Vogels et al.				
+P0690_North-Branford_CT_USA_Ixodes-scapularis_2011-04-26	P0690		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2011-04-26	CAES	Vogels et al.				
+P0681_North-Branford_CT_USA_Ixodes-scapularis_2011-04-26	P0681		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2011-04-26	CAES	Vogels et al.				
+P0785_North-Branford_CT_USA_Ixodes-scapularis_2011-05-09	P0785		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2011-05-09	CAES	Vogels et al.				
+P0751_Bridgeport_CT_USA_Ixodes-scapularis_2011-04-27	P0751		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2011-04-27	CAES	Vogels et al.				
+P0760_Bridgeport_CT_USA_Ixodes-scapularis_2011-04-27	P0760		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2011-04-27	CAES	Vogels et al.				
+P0795_North-Branford_CT_USA_Ixodes-scapularis_2011-05-09	P0795		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2011-05-09	CAES	Vogels et al.				
+P0933_North-Branford_CT_USA_Ixodes-scapularis_2011-10-21	P0933		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2011-10-21	CAES	Vogels et al.				
+P1113_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-18	P1113		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2011-10-18	CAES	Vogels et al.				
+P1104_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-18	P1104		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2011-10-18	CAES	Vogels et al.				
+P1109_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-18	P1109		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2011-10-18	CAES	Vogels et al.				
+P1112_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-18	P1112		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2011-10-18	CAES	Vogels et al.				
+P1114_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-18	P1114		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2011-10-18	CAES	Vogels et al.				
+P1107_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-18	P1107		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2011-10-18	CAES	Vogels et al.				
+P1241_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-28	P1241		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2011-10-28	CAES	Vogels et al.				
+P1514_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-25	P1514		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2011-10-25	CAES	Vogels et al.				
+P1518_Bridgeport_CT_USA_Ixodes-scapularis_2011-10-25	P1518		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2011-10-25	CAES	Vogels et al.				
+P1730_Bridgeport_CT_USA_Ixodes-scapularis_2011-11-09	P1730		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2011-11-09	CAES	Vogels et al.				
+P1753_Bridgeport_CT_USA_Ixodes-scapularis_2011-11-09	P1753		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2011-11-09	CAES	Vogels et al.				
+P1912_Bridgeport_CT_USA_Ixodes-scapularis_2012-04-05	P1912		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2012-04-05	CAES	Vogels et al.				
+P1933_Bridgeport_CT_USA_Ixodes-scapularis_2012-04-05	P1933		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2012-04-05	CAES	Vogels et al.				
+P1930_Bridgeport_CT_USA_Ixodes-scapularis_2012-04-05	P1930		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2012-04-05	CAES	Vogels et al.				
+P1184_North-Branford_CT_USA_Ixodes-scapularis_2014-05-29	P1184		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2014-05-29	CAES	Vogels et al.				
+P1290_North-Branford_CT_USA_Ixodes-scapularis_2014-05-29	P1290		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2014-05-29	CAES	Vogels et al.				
+P1295_North-Branford_CT_USA_Ixodes-scapularis_2014-05-14	P1295		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2014-05-14	CAES	Vogels et al.				
+165_Redding_CT_USA_Ixodes-scapularis_2016-11-10	165		Redding_CT	Connecticut	USA	Ixodes-scapularis	2016-11-10	CAES	Vogels et al.				
+188_North-Branford_CT_USA_Ixodes-scapularis_2016-12-06	188		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2016-12-06	CAES	Vogels et al.				
+219_Redding_CT_USA_Ixodes-scapularis_2016-11-14	219		Redding_CT	Connecticut	USA	Ixodes-scapularis	2016-11-14	CAES	Vogels et al.				
+228_Redding_CT_USA_Ixodes-scapularis_2016-11-14	228		Redding_CT	Connecticut	USA	Ixodes-scapularis	2016-11-14	CAES	Vogels et al.				
+237_Redding_CT_USA_Ixodes-scapularis_2016-11-14	237		Redding_CT	Connecticut	USA	Ixodes-scapularis	2016-11-14	CAES	Vogels et al.				
+3338_Groton_CT_USA_Ixodes-scapularis_2016-11-02	3338		Groton_CT	Connecticut	USA	Ixodes-scapularis	2016-11-02	CAES	Vogels et al.				
+3381_Groton_CT_USA_Ixodes-scapularis_2016-11-02	3381		Groton_CT	Connecticut	USA	Ixodes-scapularis	2016-11-02	CAES	Vogels et al.				
+3464_Groton_CT_USA_Ixodes-scapularis_2016-11-02	3464		Groton_CT	Connecticut	USA	Ixodes-scapularis	2016-11-02	CAES	Vogels et al.				
+3569_North-Branford_CT_USA_Ixodes-scapularis_2016-10-17	3569		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2016-10-17	CAES	Vogels et al.				
+3591_North-Branford_CT_USA_Ixodes-scapularis_2016-10-20	3591		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2016-10-20	CAES	Vogels et al.				
+160_North-Branford_CT_USA_Ixodes-scapularis_2016-12-01	160		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2016-12-01	CAES	Vogels et al.				
+H11_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2016-04-08	H11		Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis	2016-04-08	MMCRI	Vogels et al.				
+242_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2016-06-13	242		Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis	2016-06-13	MMCRI	Vogels et al.				
+612_Wells_ME_USA_Ixodes-scapularis_2016-10-07	612		Wells_ME	Maine	USA	Ixodes-scapularis	2016-10-07	MMCRI	Vogels et al.				
+632_Wells_ME_USA_Ixodes-scapularis_2016-10-07	632		Wells_ME	Maine	USA	Ixodes-scapularis	2016-10-07	MMCRI	Vogels et al.				
+687_Unknown_ME_USA_Ixodes-scapularis_2016-10-14	687		Unknown_ME	Maine	USA	Ixodes-scapularis	2016-10-14	MMCRI	Vogels et al.				
+946_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2016-10-06	946		Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis	2016-10-06	MMCRI	Vogels et al.				
+963_Wells_ME_USA_Ixodes-scapularis_2016-11-07	963		Wells_ME	Maine	USA	Ixodes-scapularis	2016-11-07	MMCRI	Vogels et al.				
+1003_Wells_ME_USA_Ixodes-scapularis_2016-11-07	1003		Wells_ME	Maine	USA	Ixodes-scapularis	2016-11-07	MMCRI	Vogels et al.				
+1135_Wells_ME_USA_Ixodes-scapularis_2016-11-09	1135		Wells_ME	Maine	USA	Ixodes-scapularis	2016-11-09	MMCRI	Vogels et al.				
+1141_Wells_ME_USA_Ixodes-scapularis_2016-11-09	1141		Wells_ME	Maine	USA	Ixodes-scapularis	2016-11-09	MMCRI	Vogels et al.				
+1331_Standish_ME_USA_Ixodes-scapularis_2016-11-17	1331		Standish_ME	Maine	USA	Ixodes-scapularis	2016-11-17	MMCRI	Vogels et al.				
+1341_Standish_ME_USA_Ixodes-scapularis_2016-11-17	1341		Standish_ME	Maine	USA	Ixodes-scapularis	2016-11-17	MMCRI	Vogels et al.				
+CO18_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2017-11-15	CO18		Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis	2017-11-15	MMCRI	Vogels et al.				
+CO57_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2017-11-15	CO57		Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis	2017-11-15	MMCRI	Vogels et al.				
+CO95_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2017-11-15	CO95		Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis	2017-11-15	MMCRI	Vogels et al.				
+CO166_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2017-11-15	CO166		Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis	2017-11-15	MMCRI	Vogels et al.				
+CO527_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2017-11-15	CO527		Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis	2017-11-15	MMCRI	Vogels et al.				
+CO570_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2017-11-07	CO570		Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis	2017-11-07	MMCRI	Vogels et al.				
+CO574_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2017-11-07	CO574		Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis	2017-11-07	MMCRI	Vogels et al.				
+CO452_Wells_ME_USA_Ixodes-scapularis_2017-11-15	CO452		Wells_ME	Maine	USA	Ixodes-scapularis	2017-11-15	MMCRI	Vogels et al.				
+69_Westport_CT_USA_Ixodes-scapularis_2019-04-09	69		Westport_CT	Connecticut	USA	Ixodes-scapularis	2019-04-09	CAES	Vogels et al.				
+140_Lyme_CT_USA_Ixodes-scapularis_2019-04-17	140		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2019-04-17	CAES	Vogels et al.				
+364_Westport_CT_USA_Ixodes-scapularis_2019-05-07	364		Westport_CT	Connecticut	USA	Ixodes-scapularis	2019-05-07	CAES	Vogels et al.				
+375_North-Branford_CT_USA_Ixodes-scapularis_2019-05-08	375		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2019-05-08	CAES	Vogels et al.				

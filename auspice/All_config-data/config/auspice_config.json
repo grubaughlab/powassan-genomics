@@ -1,6 +1,7 @@
 {
-  "title": "Powassan virus evolution in New England",
+  "title": "Powassan virus evolution & spread in New England",
   "color_options": {
+    "num_date": {"menuItem": "date", "legendTitle": "Sampling date", "type": "continuous"},
     "state": {"legendTitle":"State", "menuItem":"state", "type":"discrete"},
     "city": {"legendTitle":"City", "type":"discrete"},
     "authors": {"legendTitle":"Authors", "type":"discrete"},
@@ -29,4 +30,3 @@
    "geoResolution": "city"
  }
 }
-

@@ -1,5 +1,5 @@
 # powassan-genomics
-In this project we aim to understand local transmission of Powassan virus by sequencing viruses isolated from *Ixodes scapularis* ticks in the Northeastern United States. 
+In this project we aim to understand evolution and spread of Powassan virus by sequencing viruses isolated from *Ixodes scapularis* ticks in the Northeastern United States. 
 
 ## Sample collection
 Ticks were collected at different locations by colleagues at the Connecticut Agricultural Experiment Station and the Maine Medical Center Research Institute. Metadata and sequencing statistics can be found [here](https://docs.google.com/spreadsheets/d/1vPY7roZUkjlYLiJvrNX6X5KLFuoD-c_5LbVUiRM02KQ/edit?usp=sharing).
@@ -20,9 +20,10 @@ Ticks were collected at different locations by colleagues at the Connecticut Agr
 
 ### Nextstrain
 
-Some of our analyses were performed using the nextstrain (`augur`) pipeline. These results can be visualized using `auspice`, accessing the link below:
+Some of our analyses were performed using the nextstrain (`augur`) pipeline. These results can be visualized using `auspice`, accessing the links below:
 
-* [Powassan virus emergence in New England](https://nextstrain.org/community/grubaughlab/powassan-genomics/)
+* [Powassan virus emergence & spread in New England](https://nextstrain.org/community/grubaughlab/powassan-genomics/NE)
+* [Powassan virus emergence & spread in North America](https://nextstrain.org/community/grubaughlab/powassan-genomics/All)
 
 ---
 
