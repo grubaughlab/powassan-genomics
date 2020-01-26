@@ -18,9 +18,9 @@ Ticks were collected at different locations by colleagues at the Connecticut Agr
 * Created using a 75% treshold and at least 10X coverage.
 * Uploaded in folder [consensus_sequences](consensus_sequences).
 
-### Nextstrain
+## Nextstrain
 
-Some of our analyses were performed using the nextstrain (`augur`) pipeline. These results can be visualized using `auspice`, accessing the links below:
+Some of our analyses were performed using the [nextstrain](https://nextstrain.org) (`augur`) pipeline. These results can be visualized using `auspice`, accessing the links below:
 
 * [Powassan virus emergence & spread in New England](https://nextstrain.org/community/grubaughlab/powassan-genomics/NE)
 * [Powassan virus emergence & spread in North America](https://nextstrain.org/community/grubaughlab/powassan-genomics/All)
