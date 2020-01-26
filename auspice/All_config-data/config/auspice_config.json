@@ -24,7 +24,7 @@
 
   ],
   "defaults": {
-   "colorBy": "city",
+   "colorBy": "state",
    "mapTriplicate": false,
    "distanceMeasure": "div",
    "geoResolution": "city"
