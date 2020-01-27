@@ -255,6 +255,10 @@
         "latitude": 41.208906,
         "longitude": -73.167084
       },
+      "Cape-Elizabeth_ME": {
+        "latitude": 43.563674,
+        "longitude": -70.200001
+      },
       "East-Islip_NY": {
         "latitude": 40.710314,
         "longitude": -73.165628
@@ -357,6 +361,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in New England",
-  "updated": "22 Jan 2020",
+  "updated": "27 Jan 2020",
   "virus_count": 131
 }
