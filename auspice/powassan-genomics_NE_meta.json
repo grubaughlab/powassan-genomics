@@ -62,12 +62,6 @@
     }
   },
   "author_info": {
-    "Grubaugh et al. (2016)": {
-      "journal": "Virus Evol. 2(2): vew033 (2016)",
-      "n": 1,
-      "paper_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5210029/",
-      "title": "Transmission bottlenecks and RNAi collectively influence tick-borne flavivirus evolution"
-    },
     "Normandin et al.": {
       "journal": "",
       "n": 28,
@@ -361,6 +355,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in New England",
-  "updated": "27 Jan 2020",
-  "virus_count": 131
+  "updated": "31 Jan 2020",
+  "virus_count": 130
 }

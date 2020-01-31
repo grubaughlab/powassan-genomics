@@ -1,5 +1,4 @@
 strain	sample	accession	city	state	country	host	date	source	authors	url	title	journal	paper_url
-P0375_Bridgeport_CT_USA_Ixodes-scapularis_2010-11-01	P0375	KU886216.1	Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2010-11-01	GenBank	Grubaugh et al. (2016)	https://www.ncbi.nlm.nih.gov/nuccore/KU886216.1	Transmission bottlenecks and RNAi collectively influence tick-borne flavivirus evolution	Virus Evol. 2(2): vew033 (2016)	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5210029/
 LB_Powassan_ON_Canada_Homo-sapiens_1958-09-23	LB	NC_003687	Powassan_ON	Ontario	Canada	Homo-sapiens	1958-09-23	GenBank	Mandl et al. (1993)	https://www.ncbi.nlm.nih.gov/nuccore/NC_003687.1	Complete genomic sequence of Powassan virus: evaluation of genetic elements in tick-borne versus mosquito-borne flaviviruses	Virology 194 (1), 173-184 (1993)	https://www.ncbi.nlm.nih.gov/pubmed/8097605
 POWV_M030T_brain_Unknown_NH_USA_Homo-sapiens_2016-12-XX	POWV_M030T_brain	MF688929	Unknown_NH	New-Hampshire	USA	Homo-sapiens	2016-12-01	GenBank	Piantadosi et al. (2018)	https://www.ncbi.nlm.nih.gov/nuccore/MF688929.1	Rapid detection of Powassan virus in a patient with encephalitis by metagenomic sequencing	Clin Infect Dis. 66(5):789-792 (2018)	https://www.ncbi.nlm.nih.gov/pubmed/29020227
 POWV_M030T_CSF_Unknown_NH_USA_Homo-sapiens_2016-12-XX	POWV_M030T_CSF	MF688928	Unknown_NH	New-Hampshire	USA	Homo-sapiens	2016-12-01	GenBank	Piantadosi et al. (2018)	https://www.ncbi.nlm.nih.gov/nuccore/MF688928.1	Rapid detection of Powassan virus in a patient with encephalitis by metagenomic sequencing	Clin Infect Dis. 66(5):789-792 (2018)	https://www.ncbi.nlm.nih.gov/pubmed/29020227
@@ -95,9 +94,9 @@ P2552_Bridgeport_CT_USA_Ixodes-scapularis_2015-10-22		P2552	Bridgeport_CT	Connec
 124_Lyme_CT_USA_Ixodes-scapularis_2016-11-01	124		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-01	CAES	Vogels et al.				
 125_Lyme_CT_USA_Ixodes-scapularis_2016-11-01	125		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-01	CAES	Vogels et al.				
 126_Lyme_CT_USA_Ixodes-scapularis_2016-11-01	126		Lyme_CT	Connecticut	USA	Ixodes-scapularis	2016-11-01	CAES	Vogels et al.				
-P0375_Bridgeport_CT_USA_Ixodes-scapularis_2016-11-01	P0375		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2016-11-01	CAES	Vogels et al.				
-P0183_Bridgeport_CT_USA_Ixodes-scapularis_2016-11-01	P0183		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2016-11-01	CAES	Vogels et al.				
-P0096_Bridgeport_CT_USA_Ixodes-scapularis_2016-11-01	P0096		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2016-11-01	CAES	Vogels et al.				
+P0375_Bridgeport_CT_USA_Ixodes-scapularis_2010-11-01	P0375		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2010-11-01	CAES	Vogels et al.				
+P0183_Bridgeport_CT_USA_Ixodes-scapularis_2008-11-01	P0183		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2008-11-01	CAES	Vogels et al.				
+P0096_Bridgeport_CT_USA_Ixodes-scapularis_2008-11-01	P0096		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2008-11-01	CAES	Vogels et al.				
 P0494_Bridgeport_CT_USA_Ixodes-scapularis_2010-11-02	P0494		Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2010-11-02	CAES	Vogels et al.				
 P0525_North-Branford_CT_USA_Ixodes-scapularis_2010-10-29	P0525		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2010-10-29	CAES	Vogels et al.				
 P0526_North-Branford_CT_USA_Ixodes-scapularis_2010-10-29	P0526		North-Branford_CT	Connecticut	USA	Ixodes-scapularis	2010-10-29	CAES	Vogels et al.				
