@@ -8,7 +8,7 @@ city	Unknown_CT	#BFD4E9
 city	Wells_ME	#3F5400
 city	Cape-Elizabeth_ME	#7EA800
 city	Standish_ME	#BED37F
-city	Unknown_ME	#DEE9BF
+city	Rockland_ME	#DEE9BF
 city	Ipswich_MA	#4D3900
 city	Sherborn_MA	#9A7300
 city	Millis_MA	#E7AD00
@@ -19,7 +19,7 @@ city	East-Islip_NY	#380000
 city	Islip_NY	#700000
 city	Lloyd-Harbor_NY	#A80000
 city	Unknown_NY	#D37F7F
-city	Unknown_RI	#6C00A8
+city	South-county_RI	#6C00A8
 state	Connecticut	#0054A8
 state	Maine	#7EA800
 state	Massachusetts	#E7AD00

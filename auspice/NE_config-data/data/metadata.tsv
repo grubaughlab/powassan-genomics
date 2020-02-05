@@ -1,4 +1,5 @@
 strain	sample	accession	city	state	country	host	date	source	authors	url	title	journal	paper_url
+P0375-KU886216_Bridgeport_CT_USA_Ixodes-scapularis_2010-11-01	P0375	KU886216.1	Bridgeport_CT	Connecticut	USA	Ixodes-scapularis	2010-11-01	GenBank	Grubaugh et al. (2016)	https://www.ncbi.nlm.nih.gov/nuccore/KU886216.1	Transmission bottlenecks and RNAi collectively influence tick-borne flavivirus evolution	Virus Evol. 2(2): vew033 (2016)	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5210029/
 LB_Powassan_ON_Canada_Homo-sapiens_1958-09-23	LB	NC_003687	Powassan_ON	Ontario	Canada	Homo-sapiens	1958-09-23	GenBank	Mandl et al. (1993)	https://www.ncbi.nlm.nih.gov/nuccore/NC_003687.1	Complete genomic sequence of Powassan virus: evaluation of genetic elements in tick-borne versus mosquito-borne flaviviruses	Virology 194 (1), 173-184 (1993)	https://www.ncbi.nlm.nih.gov/pubmed/8097605
 POWV_M030T_brain_Unknown_NH_USA_Homo-sapiens_2016-12-XX	POWV_M030T_brain	MF688929	Unknown_NH	New-Hampshire	USA	Homo-sapiens	2016-12-01	GenBank	Piantadosi et al. (2018)	https://www.ncbi.nlm.nih.gov/nuccore/MF688929.1	Rapid detection of Powassan virus in a patient with encephalitis by metagenomic sequencing	Clin Infect Dis. 66(5):789-792 (2018)	https://www.ncbi.nlm.nih.gov/pubmed/29020227
 POWV_M030T_CSF_Unknown_NH_USA_Homo-sapiens_2016-12-XX	POWV_M030T_CSF	MF688928	Unknown_NH	New-Hampshire	USA	Homo-sapiens	2016-12-01	GenBank	Piantadosi et al. (2018)	https://www.ncbi.nlm.nih.gov/nuccore/MF688928.1	Rapid detection of Powassan virus in a patient with encephalitis by metagenomic sequencing	Clin Infect Dis. 66(5):789-792 (2018)	https://www.ncbi.nlm.nih.gov/pubmed/29020227
@@ -37,20 +38,20 @@ PF3.017_Wells_ME_USA_Ixodes-scapularis_2018-06-07	PF3.017		Wells_ME	Maine	USA	Ix
 PF3.019_Wells_ME_USA_Ixodes-scapularis_2018-06-07	PF3.019		Wells_ME	Maine	USA	Ixodes-scapularis	2018-06-07	MMCRI	Normandin et al.				
 PF3.020_Wells_ME_USA_Ixodes-scapularis_2018-06-07	PF3.020		Wells_ME	Maine	USA	Ixodes-scapularis	2018-06-07	MMCRI	Normandin et al.				
 PF3.057_Wells_ME_USA_Ixodes-scapularis_2018-06-11	PF3.057		Wells_ME	Maine	USA	Ixodes-scapularis	2018-06-11	MMCRI	Normandin et al.				
-DH18-P52-B9_Millis_MA_USA_Unknown_2018-XX-XX	DH18-P52-B9		Millis_MA	Massachusetts	USA	Unknown	2018-06-01	Tufts	Normandin et al.				
-ME18-F37_Unknown_ME_USA_Unknown_2018-XX-XX	ME18-F37		Unknown_ME	Maine	USA	Unknown	2018-06-01	Tufts	Normandin et al.				
-ME18-M193_Unknown_ME_USA_Unknown_2018-XX-XX	ME18-M193		Unknown_ME	Maine	USA	Unknown	2018-06-01	Tufts	Normandin et al.				
-RI18-M49_Unknown_RI_USA_Ixodes-scapularis_2018-XX-XX	RI18-M49		Unknown_RI	Rhode-Island	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
-DH18-P61-g2_Sherborn_MA_USA_Ixodes-scapularis_2018-XX-XX	DH18-P61- g2		Sherborn_MA	Massachusetts	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
-DH18-P1020C10_Millis_MA_USA_Ixodes-scapularis_2018-XX-XX	DH18-P1020C10		Millis_MA	Massachusetts	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
-N18-F18_Nantucket_MA_USA_Ixodes-scapularis_2018-XX-XX	N18-F18		Nantucket_MA	Massachusetts	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
-ME18-M192_Unknown_ME_USA_Ixodes-scapularis_2018-XX-XX	ME18-M192		Unknown_ME	Maine	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
-RI18-N570_Unknown_RI_USA_Ixodes-scapularis_2018-XX-XX	RI18-N570		Unknown_RI	Rhode-Island	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
-RI18-M272_Unknown_RI_USA_Ixodes-scapularis_2018-XX-XX	RI18-M272		Unknown_RI	Rhode-Island	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
-RI18-F165_Unknown_RI_USA_Ixodes-scapularis_2018-XX-XX	RI18-F165		Unknown_RI	Rhode-Island	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
-DH18-D81-A4-A6_Marthas-Vineyard_MA_USA_Ixodes-scapularis_2018-XX-XX		DH18-D81-A4-A6	Marthas-Vineyard_MA	Massachusetts	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
-DH18-D81-A1-A3_Marthas-Vineyard_MA_USA_Ixodes-scapularis_2018-XX-XX		DH18-D81-A1-A3	Marthas-Vineyard_MA	Massachusetts	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
-ME18-M32_Unknown_ME_USA_Ixodes-scapularis_2018-XX-XX	ME18-M32		Unknown_ME	Maine	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
+DH18-P52-B9_Millis_MA_USA_Unknown_2018-11-XX	DH18-P52-B9		Millis_MA	Massachusetts	USA	Unknown	2018-11-01	Tufts	Normandin et al.				
+ME18-F37_Cape-Elizabeth_ME_USA_Unknown_2018-10-XX	ME18-F37		Cape-Elizabeth_ME	Maine	USA	Unknown	2018-10-01	Tufts	Normandin et al.				
+ME18-M193_Wells_ME_USA_Unknown_2018-11-XX	ME18-M193		Wells_ME	Maine	USA	Unknown	2018-11-01	Tufts	Normandin et al.				
+RI18-M49_South-county_RI_USA_Ixodes-scapularis_2018-11-XX	RI18-M49		South-county_RI	Rhode-Island	USA	Ixodes-scapularis	2018-11-01	Tufts	Normandin et al.				
+DH18-P61-g2_Sherborn_MA_USA_Ixodes-scapularis_2018-11-XX	DH18-P61-g2		Sherborn_MA	Massachusetts	USA	Ixodes-scapularis	2018-11-01	Tufts	Normandin et al.				
+DH18-P1020C10_Millis_MA_USA_Ixodes-scapularis_2018-11-XX	DH18-P1020C10		Millis_MA	Massachusetts	USA	Ixodes-scapularis	2018-11-01	Tufts	Normandin et al.				
+N18-F18_Nantucket_MA_USA_Ixodes-scapularis_2018-10-XX	N18-F18		Nantucket_MA	Massachusetts	USA	Ixodes-scapularis	2018-10-01	Tufts	Normandin et al.				
+ME18-M192_Wells_ME_USA_Ixodes-scapularis_2018-11-XX	ME18-M192		Wells_ME	Maine	USA	Ixodes-scapularis	2018-11-01	Tufts	Normandin et al.				
+RI18-N570_South-county_RI_USA_Ixodes-scapularis_2018-06-XX	RI18-N570		South-county_RI	Rhode-Island	USA	Ixodes-scapularis	2018-06-01	Tufts	Normandin et al.				
+RI18-M272_South-county_RI_USA_Ixodes-scapularis_2018-11-XX	RI18-M272		South-county_RI	Rhode-Island	USA	Ixodes-scapularis	2018-11-01	Tufts	Normandin et al.				
+RI18-F165_South-county_RI_USA_Ixodes-scapularis_2018-11-XX	RI18-F165		South-county_RI	Rhode-Island	USA	Ixodes-scapularis	2018-11-01	Tufts	Normandin et al.				
+DH18-D81-A4-A6_Marthas-Vineyard_MA_USA_Ixodes-scapularis_2018-11-XX		DH18-D81-A4-A6	Marthas-Vineyard_MA	Massachusetts	USA	Ixodes-scapularis	2018-11-01	Tufts	Normandin et al.				
+DH18-D81-A1-A3_Marthas-Vineyard_MA_USA_Ixodes-scapularis_2018-11-XX		DH18-D81-A1-A3	Marthas-Vineyard_MA	Massachusetts	USA	Ixodes-scapularis	2018-11-01	Tufts	Normandin et al.				
+ME18-M32_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2018-10-XX	ME18-M32		Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis	2018-10-01	Tufts	Normandin et al.				
 1427-62_North-Bay_ON_Canada_Sciurus-vulgaris_1962-XX-XX	1427-62		North-Bay_ON	Ontario	Canada	Sciurus-vulgaris	1962-06-01	CSU	Normandin et al.				
 M11665_Laurier-Township_ON_Canada_Ixodes-cookei_1965-XX-XX	M11665		Laurier-Township_ON	Ontario	Canada	Ixodes-cookei	1965-06-01	CSU	Normandin et al.				
 SPOB9901_Spooner_WI_USA_Ixodes-scapularis_1997-XX-XX	SPOB9901		Spooner_WI	Wisconsin	USA	Ixodes-scapularis	1997-06-01	CSU	Normandin et al.				
@@ -144,7 +145,7 @@ H11_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2016-04-08	H11		Cape-Elizabeth_ME	Ma
 242_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2016-06-13	242		Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis	2016-06-13	MMCRI	Vogels et al.				
 612_Wells_ME_USA_Ixodes-scapularis_2016-10-07	612		Wells_ME	Maine	USA	Ixodes-scapularis	2016-10-07	MMCRI	Vogels et al.				
 632_Wells_ME_USA_Ixodes-scapularis_2016-10-07	632		Wells_ME	Maine	USA	Ixodes-scapularis	2016-10-07	MMCRI	Vogels et al.				
-687_Unknown_ME_USA_Ixodes-scapularis_2016-10-14	687		Unknown_ME	Maine	USA	Ixodes-scapularis	2016-10-14	MMCRI	Vogels et al.				
+687_Rockland_ME_USA_Ixodes-scapularis_2016-10-14	687		Rockland_ME	Maine	USA	Ixodes-scapularis	2016-10-14	MMCRI	Vogels et al.				
 946_Cape-Elizabeth_ME_USA_Ixodes-scapularis_2016-10-06	946		Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis	2016-10-06	MMCRI	Vogels et al.				
 963_Wells_ME_USA_Ixodes-scapularis_2016-11-07	963		Wells_ME	Maine	USA	Ixodes-scapularis	2016-11-07	MMCRI	Vogels et al.				
 1003_Wells_ME_USA_Ixodes-scapularis_2016-11-07	1003		Wells_ME	Maine	USA	Ixodes-scapularis	2016-11-07	MMCRI	Vogels et al.				

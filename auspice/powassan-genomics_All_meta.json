@@ -68,6 +68,12 @@
       "paper_url": "",
       "title": ""
     },
+    "Grubaugh et al. (2016)": {
+      "journal": "Virus Evol. 2(2): vew033 (2016)",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5210029/",
+      "title": "Transmission bottlenecks and RNAi collectively influence tick-borne flavivirus evolution"
+    },
     "Mandl et al. (1993)": {
       "journal": "Virology 194 (1), 173-184 (1993)",
       "n": 1,
@@ -247,6 +253,10 @@
         "latitude": 41.286584,
         "longitude": -73.369246
       },
+      "Rockland_ME": {
+        "latitude": 44.129379,
+        "longitude": -69.138847
+      },
       "Rockland_NY": {
         "latitude": 41.1519319,
         "longitude": -74.0357266
@@ -254,6 +264,10 @@
       "Sherborn_MA": {
         "latitude": 42.240436,
         "longitude": -71.372815
+      },
+      "South-county_RI": {
+        "latitude": 41.426206,
+        "longitude": -71.61455
       },
       "Spooner_WI": {
         "latitude": 45.827192,
@@ -267,17 +281,9 @@
         "latitude": 41.625089,
         "longitude": -72.691524
       },
-      "Unknown_ME": {
-        "latitude": 45.012162,
-        "longitude": -69.09493
-      },
       "Unknown_NY": {
         "latitude": 42.362333,
         "longitude": -74.494279
-      },
-      "Unknown_RI": {
-        "latitude": 41.730736,
-        "longitude": -71.566135
       },
       "Wells_ME": {
         "latitude": 43.322425,
@@ -333,6 +339,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in North America",
-  "updated": "31 Jan 2020",
-  "virus_count": 164
+  "updated": "05 Feb 2020",
+  "virus_count": 165
 }

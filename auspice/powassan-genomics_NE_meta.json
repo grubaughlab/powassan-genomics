@@ -62,6 +62,18 @@
     }
   },
   "author_info": {
+    "Ciota et al.": {
+      "journal": "",
+      "n": 17,
+      "paper_url": "",
+      "title": ""
+    },
+    "Grubaugh et al. (2016)": {
+      "journal": "Virus Evol. 2(2): vew033 (2016)",
+      "n": 1,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5210029/",
+      "title": "Transmission bottlenecks and RNAi collectively influence tick-borne flavivirus evolution"
+    },
     "Normandin et al.": {
       "journal": "",
       "n": 28,
@@ -145,7 +157,7 @@
           "#BED37F"
         ],
         [
-          "Unknown_ME",
+          "Rockland_ME",
           "#DEE9BF"
         ],
         [
@@ -181,7 +193,7 @@
           "#A80000"
         ],
         [
-          "Unknown_RI",
+          "South-county_RI",
           "#6C00A8"
         ]
       ],
@@ -297,21 +309,21 @@
         "latitude": 41.286584,
         "longitude": -73.369246
       },
+      "Rockland_ME": {
+        "latitude": 44.129379,
+        "longitude": -69.138847
+      },
       "Sherborn_MA": {
         "latitude": 42.240436,
         "longitude": -71.372815
       },
+      "South-county_RI": {
+        "latitude": 41.426206,
+        "longitude": -71.61455
+      },
       "Standish_ME": {
         "latitude": 43.817086,
         "longitude": -70.550557
-      },
-      "Unknown_ME": {
-        "latitude": 45.012162,
-        "longitude": -69.09493
-      },
-      "Unknown_RI": {
-        "latitude": 41.730736,
-        "longitude": -71.566135
       },
       "Wells_ME": {
         "latitude": 43.322425,
@@ -355,6 +367,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in New England",
-  "updated": "31 Jan 2020",
-  "virus_count": 130
+  "updated": "05 Feb 2020",
+  "virus_count": 132
 }

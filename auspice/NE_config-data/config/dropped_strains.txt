@@ -10,7 +10,7 @@ P1912_Bridgeport_CT_USA_Unknown_2012-XX-XX
 Co1021_Putnam_NY_USA_Unknown_2010-XX-XX
 CT390_Unknown_CT_USA_Unknown_1995-XX-XX
 IPS001_Ipswich_MA_USA_Unknown_1995-XX-XX
-P0525_North-Branford_CT_USA_Unknown_2010-XX-XX
+P0525_North-Branford_CT_USA_Unknown_2010-06-01
 CoWTDtick_Columbia_NY_USA_Unknown_2013-XX-XX
 Co1373_Dutchess_NY_USA_Unknown_2011-XX-XX
 SPO_Spooner_WI_USA_Unknown_1997-XX-XX
