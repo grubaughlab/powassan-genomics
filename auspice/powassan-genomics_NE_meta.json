@@ -80,6 +80,12 @@
       "paper_url": "",
       "title": ""
     },
+    "Pesko et al. (2010)": {
+      "journal": "J. Gen. Virol. 91 (PT 11), 2698-2705 (2010)",
+      "n": 6,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/20631087",
+      "title": "Molecular epidemiology of Powassan virus in North America"
+    },
     "Robich et al. (2019)": {
       "journal": "Am. J. Trop. Med. Hyg.\u00a0101(2):467-471 (2019)",
       "n": 2,
@@ -100,13 +106,7 @@
     },
     "Vogels et al.": {
       "journal": "",
-      "n": 235,
-      "paper_url": "",
-      "title": ""
-    },
-    "Vogels et al. ": {
-      "journal": "",
-      "n": 22,
+      "n": 282,
       "paper_url": "",
       "title": ""
     }
@@ -165,6 +165,10 @@
           "#DEE9BF"
         ],
         [
+          "Ipswich_MA",
+          "#4D3900"
+        ],
+        [
           "Sherborn_MA",
           "#9A7300"
         ],
@@ -181,216 +185,228 @@
           "#F7E3AA"
         ],
         [
-          "Ancram_NY",
-          "#FEF3F3"
-        ],
-        [
-          "Ancramdale_NY",
-          "#FEEBEB"
-        ],
-        [
-          "Armonk_NY",
-          "#FEE3E3"
-        ],
-        [
-          "Ballston_NY",
-          "#FEDBDB"
-        ],
-        [
-          "Ballston-Spa_NY",
-          "#FED3D3"
-        ],
-        [
-          "Blenheim_NY",
-          "#FECBCB"
-        ],
-        [
-          "Brewster_NY",
-          "#FEC3C3"
-        ],
-        [
-          "Cairo_NY",
-          "#FDBBBB"
-        ],
-        [
-          "Chatham_NY",
-          "#FDABAB"
-        ],
-        [
-          "Clermont_NY",
-          "#FDA3A3"
-        ],
-        [
-          "Clifton-Park_NY",
-          "#FD9B9B"
-        ],
-        [
-          "Copake_NY",
-          "#FD8B8B"
-        ],
-        [
-          "East-Hampton_NY",
-          "#FC7B7B"
-        ],
-        [
-          "Mill-Neck_NY",
-          "#F87171"
-        ],
-        [
-          "Oyster-Bay_NY",
-          "#F86969"
-        ],
-        [
-          "Poestenkill_NY",
-          "#FC6363"
-        ],
-        [
-          "Pound-Ridge_NY",
-          "#FC5B5B"
-        ],
-        [
-          "Saratoga_NY",
-          "#FC4343"
-        ],
-        [
-          "Saratoga-Springs_NY",
-          "#FB3B3B"
-        ],
-        [
-          "Schodack_NY",
-          "#FB2B2B"
-        ],
-        [
-          "Shelter-Island_NY",
-          "#FB2323"
-        ],
-        [
-          "Smithtown_NY",
-          "#FB1B1B"
-        ],
-        [
-          "Somers_NY",
-          "#FB1313"
-        ],
-        [
-          "Southampton_NY",
-          "#FB0B0B"
-        ],
-        [
-          "Stillwater_NY",
-          "#FB0707"
-        ],
-        [
-          "Taghkanic_NY",
-          "#F30303"
-        ],
-        [
-          "Verona_NY",
-          "#EB0303"
-        ],
-        [
-          "Wallkill_NY",
-          "#E30303"
+          "Hermon_NY",
+          "#170000"
         ],
         [
           "Wilton_NY",
-          "#CB0303"
+          "#1C0000"
         ],
         [
-          "Windham_NY",
-          "#C30303"
+          "Verona_NY",
+          "#220000"
         ],
         [
-          "Woodbury_NY",
-          "#BF0202"
-        ],
-        [
-          "East-Islip_NY",
-          "#BB0202"
-        ],
-        [
-          "East-Taghkanic_NY",
-          "#B30202"
-        ],
-        [
-          "Glenville_NY",
-          "#AB0202"
+          "Northumberland_NY",
+          "#280000"
         ],
         [
           "Greenfield_NY",
-          "#A30202"
+          "#2E0000"
         ],
         [
-          "Greenport_NY",
-          "#9B0202"
+          "Saratoga_NY",
+          "#390000"
         ],
         [
-          "Greenville_NY",
-          "#8F0202"
+          "Saratoga-Springs_NY",
+          "#340000"
         ],
         [
           "Greenwich_NY",
-          "#870202"
+          "#3F0000"
         ],
         [
-          "Guilderland_NY",
-          "#7F0202"
-        ],
-        [
-          "Hermon_NY",
-          "#770101"
-        ],
-        [
-          "Holmes_NY",
-          "#6F0101"
-        ],
-        [
-          "Huntington_NY",
-          "#5F0101"
-        ],
-        [
-          "Islip_NY",
-          "#530101"
-        ],
-        [
-          "Lloyd-Harbor_NY",
-          "#490000"
+          "Ballston-Spa_NY",
+          "#4B0000"
         ],
         [
           "Malta_NY",
-          "#470101"
+          "#510000"
         ],
         [
-          "Mamakating_NY",
-          "#430101"
+          "Ballston_NY",
+          "#5C0000"
         ],
         [
-          "Milton_NY",
-          "#3F0101"
+          "Stillwater_NY",
+          "#620000"
         ],
         [
-          "Mohansic_NY",
-          "#3B0000"
+          "Charlton_NY",
+          "#680000"
         ],
         [
-          "Montebello_NY",
-          "#370000"
-        ],
-        [
-          "Nassau_NY",
-          "#330000"
-        ],
-        [
-          "North-Blenheim_NY",
-          "#2F0000"
+          "Glenville_NY",
+          "#6E0000"
         ],
         [
           "North-Hoosick_NY",
-          "#2B0000"
+          "#730000"
+        ],
+        [
+          "Schaghticoke_NY",
+          "#790000"
+        ],
+        [
+          "Clifton-Park_NY",
+          "#850000"
+        ],
+        [
+          "Guilderland_NY",
+          "#8B0000"
+        ],
+        [
+          "Poestenkill_NY",
+          "#900000"
+        ],
+        [
+          "Schodack_NY",
+          "#960000"
+        ],
+        [
+          "Nassau_NY",
+          "#9C0000"
+        ],
+        [
+          "Blenheim_NY",
+          "#A20000"
+        ],
+        [
+          "North-Blenheim_NY",
+          "#A80000"
+        ],
+        [
+          "Chatham_NY",
+          "#AA0606"
+        ],
+        [
+          "Windham_NY",
+          "#AE1212"
+        ],
+        [
+          "Cairo_NY",
+          "#B01818"
+        ],
+        [
+          "Taghkanic_NY",
+          "#B42525"
+        ],
+        [
+          "East-Taghkanic_NY",
+          "#B62B2B"
+        ],
+        [
+          "Copake_NY",
+          "#B83131"
+        ],
+        [
+          "Clermont_NY",
+          "#BB3737"
+        ],
+        [
+          "Ancram_NY",
+          "#BD3E3E"
+        ],
+        [
+          "Ancramdale_NY",
+          "#BF4444"
         ],
         [
           "North-East_NY",
-          "#230000"
+          "#C14A4A"
+        ],
+        [
+          "Milton_NY",
+          "#C55757"
+        ],
+        [
+          "Wallkill_NY",
+          "#C75D5D"
+        ],
+        [
+          "Mamakating_NY",
+          "#C96363"
+        ],
+        [
+          "Holmes_NY",
+          "#CC6969"
+        ],
+        [
+          "Brewster_NY",
+          "#D07676"
+        ],
+        [
+          "Somers_NY",
+          "#D27C7C"
+        ],
+        [
+          "Mohansic_NY",
+          "#D48282"
+        ],
+        [
+          "Pound-Ridge_NY",
+          "#D68888"
+        ],
+        [
+          "Montebello_NY",
+          "#DD9B9B"
+        ],
+        [
+          "Armonk_NY",
+          "#DFA1A1"
+        ],
+        [
+          "Greenport_NY",
+          "#E1A7A7"
+        ],
+        [
+          "Shelter-Island_NY",
+          "#E3AEAE"
+        ],
+        [
+          "Greenville_NY",
+          "#E5B4B4"
+        ],
+        [
+          "East-Hampton_NY",
+          "#E7BABA"
+        ],
+        [
+          "Lloyd-Harbor_NY",
+          "#E9C0C0"
+        ],
+        [
+          "Mill-Neck_NY",
+          "#EBC7C7"
+        ],
+        [
+          "Southampton_NY",
+          "#EECDCD"
+        ],
+        [
+          "Huntington_NY",
+          "#F0D3D3"
+        ],
+        [
+          "Oyster-Bay_NY",
+          "#F2D9D9"
+        ],
+        [
+          "Smithtown_NY",
+          "#F4DFDF"
+        ],
+        [
+          "Woodbury_NY",
+          "#F6E6E6"
+        ],
+        [
+          "Islip_NY",
+          "#F8ECEC"
+        ],
+        [
+          "East-Islip_NY",
+          "#FAF2F2"
         ],
         [
           "South-county_RI",
@@ -497,6 +513,10 @@
         "latitude": 43.563674,
         "longitude": -70.200001
       },
+      "Charlton_NY": {
+        "latitude": 42.934852,
+        "longitude": -73969186.0
+      },
       "Chatham_NY": {
         "latitude": 42.362534,
         "longitude": -73.597294
@@ -564,6 +584,10 @@
       "Huntington_NY": {
         "latitude": 40.873993,
         "longitude": -73.409039
+      },
+      "Ipswich_MA": {
+        "latitude": 42.679171,
+        "longitude": -70.841138
       },
       "Islip_NY": {
         "latitude": 40.715997,
@@ -633,6 +657,10 @@
         "latitude": 42.929326,
         "longitude": -73.342632
       },
+      "Northumberland_NY": {
+        "latitude": 43.128611,
+        "longitude": -73.588429
+      },
       "Oyster-Bay_NY": {
         "latitude": 40.871589,
         "longitude": -73.531159
@@ -660,6 +688,10 @@
       "Saratoga_NY": {
         "latitude": 43.095372,
         "longitude": -73.886165
+      },
+      "Schaghticoke_NY": {
+        "latitude": 42.900805,
+        "longitude": -73.588041
       },
       "Schodack_NY": {
         "latitude": 42.532246,
@@ -767,6 +799,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in New England",
-  "updated": "09 Nov 2020",
-  "virus_count": 270
+  "updated": "17 Nov 2020",
+  "virus_count": 305
 }

@@ -31,5 +31,5 @@ MA5/13-47_Spooner_WI_USA_Ixodes-scapularis_2008-XX-XX
 MB5/12-73_Spooner_WI_USA_Ixodes-scapularis_2008-XX-XX
 FB5/13-140_Spooner_WI_USA_Ixodes-scapularis_2008-XX-XX
 FB5/13-1_Spooner_WI_USA_Ixodes-scapularis_2008-XX-XX
-Ar-218-78_Old-Lyme_CT_USA_Ixodes-cookei_1978-10-07
+PV044_Ar-218-78_Old-Lyme_CT_USA_Ixodes-cookei_1978-10-07
 CT390_Nortwest_CT_USA_Unknown_1995-XX-XX
