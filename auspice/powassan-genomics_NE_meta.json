@@ -193,10 +193,6 @@
           "#1C0000"
         ],
         [
-          "Verona_NY",
-          "#220000"
-        ],
-        [
           "Northumberland_NY",
           "#280000"
         ],
@@ -737,10 +733,6 @@
         "latitude": 41.625089,
         "longitude": -72.691524
       },
-      "Verona_NY": {
-        "latitude": 43.140668,
-        "longitude": -75.571089
-      },
       "Wallkill_NY": {
         "latitude": 41.608395,
         "longitude": -74.169624
@@ -800,5 +792,5 @@
   ],
   "title": "Powassan virus evolution & spread in New England",
   "updated": "17 Nov 2020",
-  "virus_count": 305
+  "virus_count": 303
 }
