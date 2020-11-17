@@ -112,7 +112,7 @@
     },
     "Vogels et al.": {
       "journal": "",
-      "n": 103,
+      "n": 282,
       "paper_url": "",
       "title": ""
     }
@@ -169,33 +169,129 @@
   ],
   "geo": {
     "city": {
+      "Ancram_NY": {
+        "latitude": 42.051135,
+        "longitude": -73.635708
+      },
+      "Ancramdale_NY": {
+        "latitude": 42.018929,
+        "longitude": -73.5914
+      },
+      "Armonk_NY": {
+        "latitude": 41.132453,
+        "longitude": -73.714185
+      },
+      "Ballston-Spa_NY": {
+        "latitude": 43.007096,
+        "longitude": -73.851092
+      },
+      "Ballston_NY": {
+        "latitude": 42.95722,
+        "longitude": -73.882494
+      },
+      "Blenheim_NY": {
+        "latitude": 42.488385,
+        "longitude": -74.490712
+      },
+      "Brewster_NY": {
+        "latitude": 41.397623,
+        "longitude": -73.616893
+      },
       "Bridgeport_CT": {
         "latitude": 41.208906,
         "longitude": -73.167084
+      },
+      "Cairo_NY": {
+        "latitude": 42.306412,
+        "longitude": -74.007262
       },
       "Cape-Elizabeth_ME": {
         "latitude": 43.563674,
         "longitude": -70.200001
       },
+      "Charlton_NY": {
+        "latitude": 42.934852,
+        "longitude": -73969186.0
+      },
+      "Chatham_NY": {
+        "latitude": 42.362534,
+        "longitude": -73.597294
+      },
       "Chippewa-Falls_WI": {
         "latitude": 44.943671,
         "longitude": -91.389701
+      },
+      "Clermont_NY": {
+        "latitude": 42.086681,
+        "longitude": -73.826903
+      },
+      "Clifton-Park_NY": {
+        "latitude": 42.859156,
+        "longitude": -73.82446
       },
       "Columbia_NY": {
         "latitude": 42.2415027,
         "longitude": -73.6723456
       },
+      "Copake_NY": {
+        "latitude": 42.106095,
+        "longitude": -73.550117
+      },
       "Dutchess_NY": {
         "latitude": 41.76571,
         "longitude": -73.745117
+      },
+      "East-Hampton_NY": {
+        "latitude": 40.95099,
+        "longitude": -72.189161
       },
       "East-Islip_NY": {
         "latitude": 40.710314,
         "longitude": -73.165628
       },
+      "East-Taghkanic_NY": {
+        "latitude": 42.132796,
+        "longitude": -73.658633
+      },
+      "Glenville_NY": {
+        "latitude": 42.930748,
+        "longitude": -74.0519
+      },
+      "Greenfield_NY": {
+        "latitude": 43.105187,
+        "longitude": -73.864184
+      },
+      "Greenport_NY": {
+        "latitude": 41.105498,
+        "longitude": -72.370175
+      },
+      "Greenville_NY": {
+        "latitude": 40.998285,
+        "longitude": -73.821151
+      },
+      "Greenwich_NY": {
+        "latitude": 43.093459,
+        "longitude": -73.49939
+      },
       "Groton_CT": {
         "latitude": 41.335594,
         "longitude": -72.033408
+      },
+      "Guilderland_NY": {
+        "latitude": 42.707454,
+        "longitude": -73.911612
+      },
+      "Hermon_NY": {
+        "latitude": 44.46705,
+        "longitude": -75.231509
+      },
+      "Holmes_NY": {
+        "latitude": 41.524646,
+        "longitude": -73.646967
+      },
+      "Huntington_NY": {
+        "latitude": 40.873993,
+        "longitude": -73.409039
       },
       "Ipswich_MA": {
         "latitude": 42.679171,
@@ -204,6 +300,10 @@
       "Islip_NY": {
         "latitude": 40.715997,
         "longitude": -73.210236
+      },
+      "Jackson_NY": {
+        "latitude": 43.085854,
+        "longitude": -73.384505
       },
       "Laurier-Township_ON": {
         "latitude": 45.926384,
@@ -217,29 +317,85 @@
         "latitude": 41.358801,
         "longitude": -72.348391
       },
+      "Malta_NY": {
+        "latitude": 42.985634,
+        "longitude": -73.789366
+      },
+      "Mamakating_NY": {
+        "latitude": 41.58642,
+        "longitude": -74.487059
+      },
       "Marthas-Vineyard_MA": {
         "latitude": 41.38807,
         "longitude": -70.645364
+      },
+      "Mill-Neck_NY": {
+        "latitude": 40.886379,
+        "longitude": -73.553367
       },
       "Millis_MA": {
         "latitude": 42.167719,
         "longitude": -71.352688
       },
+      "Milton_NY": {
+        "latitude": 41.6609,
+        "longitude": -73.964049
+      },
+      "Mohansic_NY": {
+        "latitude": 41.279769,
+        "longitude": -73.805241
+      },
+      "Montebello_NY": {
+        "latitude": 41.132892,
+        "longitude": -74.113244
+      },
       "Nantucket_MA": {
         "latitude": 41.274539,
         "longitude": -70.052327
+      },
+      "Nassau_NY": {
+        "latitude": 42.513484,
+        "longitude": -73.612061
       },
       "North-Bay_ON": {
         "latitude": 46.373133,
         "longitude": -79.380542
       },
+      "North-Blenheim_NY": {
+        "latitude": 42.471226,
+        "longitude": -74.445681
+      },
       "North-Branford_CT": {
         "latitude": 41.370778,
         "longitude": -72.778166
       },
+      "North-East_NY": {
+        "latitude": 41.937251,
+        "longitude": -73.542365
+      },
+      "North-Hoosick_NY": {
+        "latitude": 42.929326,
+        "longitude": -73.342632
+      },
+      "Northumberland_NY": {
+        "latitude": 43.128611,
+        "longitude": -73.588429
+      },
       "Old-Lyme_CT": {
         "latitude": 41.321891,
         "longitude": -72.297986
+      },
+      "Oyster-Bay_NY": {
+        "latitude": 40.871589,
+        "longitude": -73.531159
+      },
+      "Poestenkill_NY": {
+        "latitude": 42.693973,
+        "longitude": -73.557972
+      },
+      "Pound-Ridge_NY": {
+        "latitude": 41.209591,
+        "longitude": -73.575021
       },
       "Powassan_ON": {
         "latitude": 46.082704,
@@ -261,13 +417,45 @@
         "latitude": 41.1519319,
         "longitude": -74.0357266
       },
+      "Saratoga-Springs_NY": {
+        "latitude": 43.095372,
+        "longitude": -73.886165
+      },
+      "Saratoga_NY": {
+        "latitude": 43.095372,
+        "longitude": -73.886165
+      },
+      "Schaghticoke_NY": {
+        "latitude": 42.900805,
+        "longitude": -73.588041
+      },
+      "Schodack_NY": {
+        "latitude": 42.532246,
+        "longitude": -73.695957
+      },
+      "Shelter-Island_NY": {
+        "latitude": 41.057998,
+        "longitude": -72.304422
+      },
       "Sherborn_MA": {
         "latitude": 42.240436,
         "longitude": -71.372815
       },
+      "Smithtown_NY": {
+        "latitude": 40.858068,
+        "longitude": -73.215574
+      },
+      "Somers_NY": {
+        "latitude": 41.306503,
+        "longitude": -73.725606
+      },
       "South-county_RI": {
         "latitude": 41.426206,
         "longitude": -71.61455
+      },
+      "Southampton_NY": {
+        "latitude": 40.884218,
+        "longitude": -72.394132
       },
       "Spooner_WI": {
         "latitude": 45.827192,
@@ -277,6 +465,14 @@
         "latitude": 43.817086,
         "longitude": -70.550557
       },
+      "Stillwater_NY": {
+        "latitude": 42.946852,
+        "longitude": -73.64131
+      },
+      "Taghkanic_NY": {
+        "latitude": 42.143773,
+        "longitude": -73.677346
+      },
       "Unknown_CT": {
         "latitude": 41.625089,
         "longitude": -72.691524
@@ -284,6 +480,14 @@
       "Unknown_NY": {
         "latitude": 42.362333,
         "longitude": -74.494279
+      },
+      "Verona_NY": {
+        "latitude": 43.140668,
+        "longitude": -75.571089
+      },
+      "Wallkill_NY": {
+        "latitude": 41.608395,
+        "longitude": -74.169624
       },
       "Wells_ME": {
         "latitude": 43.322425,
@@ -296,6 +500,18 @@
       "Westport_CT": {
         "latitude": 41.166964,
         "longitude": -73.358576
+      },
+      "Wilton_NY": {
+        "latitude": 43.181824,
+        "longitude": -73.74463
+      },
+      "Windham_NY": {
+        "latitude": 42.311957,
+        "longitude": -74.245086
+      },
+      "Woodbury_NY": {
+        "latitude": 40.81978,
+        "longitude": -73.469648
       }
     },
     "state": {
@@ -339,6 +555,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in North America",
-  "updated": "05 Feb 2020",
-  "virus_count": 165
+  "updated": "17 Nov 2020",
+  "virus_count": 344
 }
