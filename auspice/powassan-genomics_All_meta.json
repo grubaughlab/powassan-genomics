@@ -74,6 +74,12 @@
       "paper_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5210029/",
       "title": "Transmission bottlenecks and RNAi collectively influence tick-borne flavivirus evolution"
     },
+    "Kuno et al. (2001)": {
+      "journal": "Am. J. Trop. Med. Hyg. 65(5): 671-676 (2011)",
+      "n": 1,
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/11716135/",
+      "title": "Genomic sequencing of deer tick virus and phylogeny of powassan-related viruses of North America"
+    },
     "Mandl et al. (1993)": {
       "journal": "Virology 194 (1), 173-184 (1993)",
       "n": 1,
@@ -91,6 +97,12 @@
       "n": 6,
       "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/20631087",
       "title": "Molecular epidemiology of Powassan virus in North America"
+    },
+    "Piantadosi et al. (2018)": {
+      "journal": "Clin Infect Dis. 66(5):789-792 (2018)",
+      "n": 2,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/29020227",
+      "title": "Rapid detection of Powassan virus in a patient with encephalitis by metagenomic sequencing"
     },
     "Robich et al. (2019)": {
       "journal": "Am. J. Trop. Med. Hyg.\u00a0101(2):467-471 (2019)",
@@ -112,7 +124,13 @@
     },
     "Vogels et al.": {
       "journal": "",
-      "n": 282,
+      "n": 279,
+      "paper_url": "",
+      "title": ""
+    },
+    "Vogels et al. ": {
+      "journal": "",
+      "n": 1,
       "paper_url": "",
       "title": ""
     }
@@ -130,10 +148,22 @@
       "menuItem": "city",
       "type": "discrete"
     },
+    "collection": {
+      "key": "collection",
+      "legendTitle": "Collection Method",
+      "menuItem": "collection",
+      "type": "discrete"
+    },
     "host": {
       "key": "host",
       "legendTitle": "Host Species",
       "menuItem": "host",
+      "type": "discrete"
+    },
+    "lineage": {
+      "key": "lineage",
+      "legendTitle": "Lineage",
+      "menuItem": "lineage",
       "type": "discrete"
     },
     "num_date": {
@@ -162,6 +192,9 @@
     "mapTriplicate": false
   },
   "filters": [
+    "lineage",
+    "host",
+    "collection",
     "state",
     "city",
     "authors",
@@ -252,6 +285,10 @@
       "East-Taghkanic_NY": {
         "latitude": 42.132796,
         "longitude": -73.658633
+      },
+      "Fort-Collins_CO": {
+        "latitude": 40.63572,
+        "longitude": -105.174396
       },
       "Glenville_NY": {
         "latitude": 42.930748,
@@ -389,6 +426,10 @@
         "latitude": 40.871589,
         "longitude": -73.531159
       },
+      "Philadelphia_NY": {
+        "latitude": 44.155102,
+        "longitude": -75.710222
+      },
       "Poestenkill_NY": {
         "latitude": 42.693973,
         "longitude": -73.557972
@@ -477,6 +518,10 @@
         "latitude": 41.625089,
         "longitude": -72.691524
       },
+      "Unknown_NH": {
+        "latitude": 43.639509,
+        "longitude": -71.561448
+      },
       "Unknown_NY": {
         "latitude": 42.362333,
         "longitude": -74.494279
@@ -515,6 +560,10 @@
       }
     },
     "state": {
+      "Colorado": {
+        "latitude": 39.078863,
+        "longitude": -105.7399222
+      },
       "Connecticut": {
         "latitude": 41.625089,
         "longitude": -72.691524
@@ -526,6 +575,10 @@
       "Massachusetts": {
         "latitude": 42.35031,
         "longitude": -72.051734
+      },
+      "New-Hampshire": {
+        "latitude": 43.639509,
+        "longitude": -71.561448
       },
       "New-York": {
         "latitude": 42.362333,
@@ -555,6 +608,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in North America",
-  "updated": "17 Nov 2020",
-  "virus_count": 344
+  "updated": "02 Dec 2020",
+  "virus_count": 347
 }
