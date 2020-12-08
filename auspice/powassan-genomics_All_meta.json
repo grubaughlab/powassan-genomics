@@ -62,6 +62,12 @@
     }
   },
   "author_info": {
+    "Alkhovsky et al.": {
+      "journal": "",
+      "n": 2,
+      "paper_url": "",
+      "title": ""
+    },
     "Ciota et al.": {
       "journal": "",
       "n": 17,
@@ -74,11 +80,23 @@
       "paper_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5210029/",
       "title": "Transmission bottlenecks and RNAi collectively influence tick-borne flavivirus evolution"
     },
+    "Kulakova et al.": {
+      "journal": "",
+      "n": 2,
+      "paper_url": "",
+      "title": ""
+    },
     "Kuno et al. (2001)": {
       "journal": "Am. J. Trop. Med. Hyg. 65(5): 671-676 (2011)",
       "n": 1,
       "paper_url": "https://pubmed.ncbi.nlm.nih.gov/11716135/",
       "title": "Genomic sequencing of deer tick virus and phylogeny of powassan-related viruses of North America"
+    },
+    "Leonova et al. (2009)": {
+      "journal": "Arch. Virol. 154(5):811-820",
+      "n": 3,
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/19363586/",
+      "title": "Characterization of Powassan viruses from Far Eastern Russia"
     },
     "Mandl et al. (1993)": {
       "journal": "Virology 194 (1), 173-184 (1993)",
@@ -526,6 +544,10 @@
         "latitude": 42.362333,
         "longitude": -74.494279
       },
+      "Unknown_Russia": {
+        "latitude": 45.05230159716622,
+        "longitude": 134.98126716248274
+      },
       "Verona_NY": {
         "latitude": 43.140668,
         "longitude": -75.571089
@@ -588,9 +610,17 @@
         "latitude": 51.071329,
         "longitude": -85.441736
       },
+      "Primorsky-Krai_Russia": {
+        "latitude": 45.05230159716622,
+        "longitude": 134.98126716248274
+      },
       "Rhode-Island": {
         "latitude": 41.730736,
         "longitude": -71.566135
+      },
+      "Unknown_Russia": {
+        "latitude": 45.05230159716622,
+        "longitude": 134.98126716248274
       },
       "Wisconsin": {
         "latitude": 44.890674,
@@ -609,5 +639,5 @@
   ],
   "title": "Powassan virus evolution & spread in North America",
   "updated": "08 Dec 2020",
-  "virus_count": 347
+  "virus_count": 353
 }
