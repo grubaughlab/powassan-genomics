@@ -74,6 +74,12 @@
       "paper_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5210029/",
       "title": "Transmission bottlenecks and RNAi collectively influence tick-borne flavivirus evolution"
     },
+    "Kuno et al. (2001)": {
+      "journal": "Am. J. Trop. Med. Hyg. 65(5): 671-676 (2011)",
+      "n": 1,
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/11716135/",
+      "title": "Genomic sequencing of deer tick virus and phylogeny of powassan-related viruses of North America"
+    },
     "Normandin et al.": {
       "journal": "",
       "n": 28,
@@ -85,6 +91,12 @@
       "n": 6,
       "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/20631087",
       "title": "Molecular epidemiology of Powassan virus in North America"
+    },
+    "Piantadosi et al. (2018)": {
+      "journal": "Clin Infect Dis. 66(5):789-792 (2018)",
+      "n": 2,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/29020227",
+      "title": "Rapid detection of Powassan virus in a patient with encephalitis by metagenomic sequencing"
     },
     "Robich et al. (2019)": {
       "journal": "Am. J. Trop. Med. Hyg.\u00a0101(2):467-471 (2019)",
@@ -106,7 +118,13 @@
     },
     "Vogels et al.": {
       "journal": "",
-      "n": 282,
+      "n": 279,
+      "paper_url": "",
+      "title": ""
+    },
+    "Vogels et al. ": {
+      "journal": "",
+      "n": 1,
       "paper_url": "",
       "title": ""
     }
@@ -183,6 +201,10 @@
         [
           "Nantucket_MA",
           "#F7E3AA"
+        ],
+        [
+          "Unknown_NH",
+          "#A800A8"
         ],
         [
           "Hermon_NY",
@@ -285,6 +307,10 @@
           "#B01818"
         ],
         [
+          "Columbia_NY",
+          "#B21F1F"
+        ],
+        [
           "Taghkanic_NY",
           "#B42525"
         ],
@@ -313,6 +339,10 @@
           "#C14A4A"
         ],
         [
+          "Dutchess_NY",
+          "#C35050"
+        ],
+        [
           "Milton_NY",
           "#C55757"
         ],
@@ -329,6 +359,10 @@
           "#CC6969"
         ],
         [
+          "Putnam_NY",
+          "#CE6F6F"
+        ],
+        [
           "Brewster_NY",
           "#D07676"
         ],
@@ -343,6 +377,14 @@
         [
           "Pound-Ridge_NY",
           "#D68888"
+        ],
+        [
+          "Westchester_NY",
+          "#D88F8F"
+        ],
+        [
+          "Rockland_NY",
+          "#DA9595"
         ],
         [
           "Montebello_NY",
@@ -414,11 +456,29 @@
       "menuItem": "city",
       "type": "discrete"
     },
+    "collection": {
+      "key": "collection",
+      "legendTitle": "Collection Method",
+      "menuItem": "collection",
+      "type": "discrete"
+    },
     "host": {
       "key": "host",
       "legendTitle": "Host Species",
       "menuItem": "host",
       "type": "discrete"
+    },
+    "lineage": {
+      "key": "lineage",
+      "legendTitle": "Lineage",
+      "menuItem": "lineage",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
     },
     "source": {
       "key": "source",
@@ -447,6 +507,10 @@
         [
           "Rhode-Island",
           "#6C00A8"
+        ],
+        [
+          "New-Hampshire",
+          "#A800A8"
         ]
       ],
       "key": "state",
@@ -456,12 +520,15 @@
     }
   },
   "defaults": {
-    "colorBy": "city",
+    "colorBy": "state",
     "distanceMeasure": "div",
     "geoResolution": "city",
     "mapTriplicate": false
   },
   "filters": [
+    "lineage",
+    "host",
+    "collection",
     "state",
     "city",
     "authors",
@@ -525,9 +592,17 @@
         "latitude": 42.859156,
         "longitude": -73.82446
       },
+      "Columbia_NY": {
+        "latitude": 42.2415027,
+        "longitude": -73.6723456
+      },
       "Copake_NY": {
         "latitude": 42.106095,
         "longitude": -73.550117
+      },
+      "Dutchess_NY": {
+        "latitude": 41.76571,
+        "longitude": -73.745117
       },
       "East-Hampton_NY": {
         "latitude": 40.95099,
@@ -657,6 +732,10 @@
         "latitude": 43.128611,
         "longitude": -73.588429
       },
+      "Old-Lyme_CT": {
+        "latitude": 41.321891,
+        "longitude": -72.297986
+      },
       "Oyster-Bay_NY": {
         "latitude": 40.871589,
         "longitude": -73.531159
@@ -669,6 +748,10 @@
         "latitude": 41.209591,
         "longitude": -73.575021
       },
+      "Putnam_NY": {
+        "latitude": 41.426996,
+        "longitude": -73.760156
+      },
       "Redding_CT": {
         "latitude": 41.286584,
         "longitude": -73.369246
@@ -676,6 +759,10 @@
       "Rockland_ME": {
         "latitude": 44.129379,
         "longitude": -69.138847
+      },
+      "Rockland_NY": {
+        "latitude": 41.1519319,
+        "longitude": -74.0357266
       },
       "Saratoga-Springs_NY": {
         "latitude": 43.095372,
@@ -733,6 +820,10 @@
         "latitude": 41.625089,
         "longitude": -72.691524
       },
+      "Unknown_NH": {
+        "latitude": 43.639509,
+        "longitude": -71.561448
+      },
       "Wallkill_NY": {
         "latitude": 41.608395,
         "longitude": -74.169624
@@ -740,6 +831,10 @@
       "Wells_ME": {
         "latitude": 43.322425,
         "longitude": -70.580458
+      },
+      "Westchester_NY": {
+        "latitude": 41.1763139,
+        "longitude": -73.7907554
       },
       "Westport_CT": {
         "latitude": 41.166964,
@@ -771,6 +866,10 @@
         "latitude": 42.35031,
         "longitude": -72.051734
       },
+      "New-Hampshire": {
+        "latitude": 43.639509,
+        "longitude": -71.561448
+      },
       "New-York": {
         "latitude": 42.362333,
         "longitude": -74.494279
@@ -791,6 +890,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in New England",
-  "updated": "17 Nov 2020",
-  "virus_count": 303
+  "updated": "09 Dec 2020",
+  "virus_count": 324
 }
