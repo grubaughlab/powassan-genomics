@@ -98,6 +98,12 @@
       "paper_url": "https://pubmed.ncbi.nlm.nih.gov/19363586/",
       "title": "Characterization of Powassan viruses from Far Eastern Russia"
     },
+    "Mandl et al. (1989)": {
+      "journal": "",
+      "n": 1,
+      "paper_url": "",
+      "title": ""
+    },
     "Mandl et al. (1993)": {
       "journal": "Virology 194 (1), 173-184 (1993)",
       "n": 1,
@@ -121,6 +127,12 @@
       "n": 2,
       "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/29020227",
       "title": "Rapid detection of Powassan virus in a patient with encephalitis by metagenomic sequencing"
+    },
+    "Pivanova et al.": {
+      "journal": "",
+      "n": 1,
+      "paper_url": "",
+      "title": ""
     },
     "Robich et al. (2019)": {
       "journal": "Am. J. Trop. Med. Hyg.\u00a0101(2):467-471 (2019)",
@@ -360,6 +372,10 @@
         "latitude": 43.085854,
         "longitude": -73.384505
       },
+      "Kamenushki_Russia": {
+        "latitude": 43.62199636377992,
+        "longitude": 132.2304047046921
+      },
       "Laurier-Township_ON": {
         "latitude": 45.926384,
         "longitude": -79.380141
@@ -532,6 +548,10 @@
         "latitude": 42.143773,
         "longitude": -73.677346
       },
+      "Unknown_Austria": {
+        "latitude": 47.408539699633536,
+        "longitude": 14.198003393694037
+      },
       "Unknown_CT": {
         "latitude": 41.625089,
         "longitude": -72.691524
@@ -618,6 +638,10 @@
         "latitude": 41.730736,
         "longitude": -71.566135
       },
+      "Unknown_Austria": {
+        "latitude": 47.408539699633536,
+        "longitude": 14.198003393694037
+      },
       "Unknown_Russia": {
         "latitude": 45.05230159716622,
         "longitude": 134.98126716248274
@@ -639,5 +663,5 @@
   ],
   "title": "Powassan virus evolution & spread in North America",
   "updated": "08 Dec 2020",
-  "virus_count": 353
+  "virus_count": 356
 }
