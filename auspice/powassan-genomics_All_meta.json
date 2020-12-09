@@ -653,7 +653,7 @@
     }
   },
   "maintainer": [
-    "Grubaugh Lab",
+    "Chantal Vogels",
     "http://grubaughlab.com/"
   ],
   "panels": [
@@ -662,6 +662,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in North America",
-  "updated": "08 Dec 2020",
+  "updated": "09 Dec 2020",
   "virus_count": 356
 }

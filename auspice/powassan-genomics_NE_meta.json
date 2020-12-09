@@ -339,10 +339,6 @@
           "#C14A4A"
         ],
         [
-          "Dutchess_NY",
-          "#C35050"
-        ],
-        [
           "Milton_NY",
           "#C55757"
         ],
@@ -599,10 +595,6 @@
       "Copake_NY": {
         "latitude": 42.106095,
         "longitude": -73.550117
-      },
-      "Dutchess_NY": {
-        "latitude": 41.76571,
-        "longitude": -73.745117
       },
       "East-Hampton_NY": {
         "latitude": 40.95099,
@@ -891,5 +883,5 @@
   ],
   "title": "Powassan virus evolution & spread in New England",
   "updated": "09 Dec 2020",
-  "virus_count": 324
+  "virus_count": 323
 }

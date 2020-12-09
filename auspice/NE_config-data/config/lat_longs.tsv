@@ -19,6 +19,7 @@ city	Dutchess_NY	41.765710	-73.745117
 city	East-Hampton_NY	40.950990	-72.189161
 city	East-Islip_NY	40.710314	-73.165628
 city	East-Taghkanic_NY	42.132796	-73.658633
+city	Fort-Collins_CO	40.635720	-105.174396
 city	Glenville_NY	42.930748	-74.051900
 city	Greenfield_NY	43.105187	-73.864184
 city	Greenport_NY	41.105498	-72.370175
@@ -54,6 +55,7 @@ city	North-East_NY	41.937251	-73.542365
 city	Northumberland_NY	43.128611	-73.588429
 city	Old-Lyme_CT	41.321891	-72.297986
 city	Oyster-Bay_NY	40.871589	-73.531159
+city	Philadelphia_NY	44.155102	-75.710222
 city	Poestenkill_NY	42.693973	-73.557972
 city	Pound-Ridge_NY	41.209591	-73.575021
 city	Powassan_ON	46.082704	-79.364848
@@ -90,6 +92,7 @@ city	Unknown_NH	43.639509	-71.561448
 city	Unknown_NY	42.362333	-74.494279
 city	Unknown_RI	41.730736	-71.566135
 state	Connecticut	41.625089	-72.691524
+state	Colorado	39.078863	-105.7399222
 state	Maine	45.012162	-69.09493
 state	Massachusetts	42.35031	-72.051734
 state	New-Hampshire	43.639509	-71.561448

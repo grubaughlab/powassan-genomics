@@ -6,17 +6,22 @@
     "city": {"legendTitle":"City", "type":"discrete"},
     "authors": {"legendTitle":"Authors", "type":"discrete"},
     "source": {"legendTitle":"Source", "type":"discrete"},
-    "host": {"legendTitle":"Host Species", "type":"discrete"}
+    "host": {"legendTitle":"Host Species", "type":"discrete"},
+    "lineage": {"legendTitle":"Lineage", "type":"discrete"},
+    "collection": {"legendTitle":"Collection Method", "type":"discrete"}
   },
   "geo": [
     "state",
     "city"
   ],
   "maintainer": [
-    "Grubaugh Lab",
+    "Chantal Vogels",
     "http://grubaughlab.com/"
   ],
   "filters": [
+    "lineage",
+    "host",
+    "collection",
     "state",
     "city",
     "authors",

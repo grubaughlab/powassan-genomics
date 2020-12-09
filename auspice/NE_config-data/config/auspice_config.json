@@ -1,11 +1,14 @@
 {
   "title": "Powassan virus evolution & spread in New England",
   "color_options": {
+    "num_date": {"menuItem": "date", "legendTitle": "Sampling date", "type": "continuous"},
     "state": {"legendTitle":"State", "menuItem":"state", "type":"discrete"},
     "city": {"legendTitle":"City", "type":"discrete"},
     "authors": {"legendTitle":"Authors", "type":"discrete"},
     "source": {"legendTitle":"Source", "type":"discrete"},
-    "host": {"legendTitle":"Host Species", "type":"discrete"}
+    "host": {"legendTitle":"Host Species", "type":"discrete"},
+    "lineage": {"legendTitle":"Lineage", "type":"discrete"},
+    "collection": {"legendTitle":"Collection Method", "type":"discrete"}
   },
   "geo": [
     "state",
@@ -16,6 +19,9 @@
     "http://grubaughlab.com/"
   ],
   "filters": [
+    "lineage",
+    "host",
+    "collection",
     "state",
     "city",
     "authors",
@@ -23,10 +29,9 @@
 
   ],
   "defaults": {
-   "colorBy": "city",
+   "colorBy": "state",
    "mapTriplicate": false,
    "distanceMeasure": "div",
    "geoResolution": "city"
  }
 }
-
