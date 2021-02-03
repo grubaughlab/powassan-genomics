@@ -7,6 +7,7 @@ city	Blenheim_NY	42.488385	-74.490712
 city	Brewster_NY	41.397623	-73.616893
 city	Bridgeport_CT	41.208906	-73.167084
 city	Cairo_NY	42.306412	-74.007262
+city	Camp-Ripley_MN	46.07577633994605	-94.35042435228945
 city	Cape-Elizabeth_ME	43.563674	-70.200001
 city	Charlton_NY	42.934852	-73969186
 city	Chatham_NY	42.362534	-73.597294
@@ -35,6 +36,7 @@ city	Ipswich_MA	42.679171	-70.841138
 city	Islip_NY	40.715997	-73.210236
 city	Jackson_NY	43.085854	-73.384505
 city	Laurier-Township_ON	45.926384	-79.380141
+city	Littlefork_MN	48.397415395469665	-93.56018151211481
 city	Lloyd-Harbor_NY	40.926012	-73.468920
 city	Lyme_CT	41.358801	-72.348391
 city	Malta_NY	42.985634	-73.789366
@@ -75,6 +77,7 @@ city	South-county_RI	41.426206	-71.614550
 city	Southampton_NY	40.884218	-72.394132
 city	Spooner_WI	45.827192	-91.893121
 city	Standish_ME	43.817086	-70.550557
+city	St-Croix_MN	45.19935868146141	-92.77125353652323
 city	Stillwater_NY	42.946852	-73.641310
 city	Taghkanic_NY	42.143773	-73.677346
 city	Verona_NY	43.140668	-75.571089
@@ -98,6 +101,7 @@ state	Connecticut	41.625089	-72.691524
 state	Colorado	39.078863	-105.7399222
 state	Maine	45.012162	-69.09493
 state	Massachusetts	42.35031	-72.051734
+state	Minnesota	46.07043983962658	-94.50548877074432
 state	New-Hampshire	43.639509	-71.561448
 state	New-York	42.362333	-74.494279
 state	Ontario	51.071329	-85.441736

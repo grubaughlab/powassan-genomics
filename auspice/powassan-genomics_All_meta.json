@@ -154,13 +154,7 @@
     },
     "Vogels et al.": {
       "journal": "",
-      "n": 279,
-      "paper_url": "",
-      "title": ""
-    },
-    "Vogels et al. ": {
-      "journal": "",
-      "n": 1,
+      "n": 284,
       "paper_url": "",
       "title": ""
     }
@@ -267,6 +261,10 @@
       "Cairo_NY": {
         "latitude": 42.306412,
         "longitude": -74.007262
+      },
+      "Camp-Ripley_MN": {
+        "latitude": 46.07577633994605,
+        "longitude": -94.35042435228945
       },
       "Cape-Elizabeth_ME": {
         "latitude": 43.563674,
@@ -379,6 +377,10 @@
       "Laurier-Township_ON": {
         "latitude": 45.926384,
         "longitude": -79.380141
+      },
+      "Littlefork_MN": {
+        "latitude": 48.397415395469665,
+        "longitude": -93.56018151211481
       },
       "Lloyd-Harbor_NY": {
         "latitude": 40.926012,
@@ -536,6 +538,10 @@
         "latitude": 45.827192,
         "longitude": -91.893121
       },
+      "St-Croix_MN": {
+        "latitude": 45.19935868146141,
+        "longitude": -92.77125353652323
+      },
       "Standish_ME": {
         "latitude": 43.817086,
         "longitude": -70.550557
@@ -618,6 +624,10 @@
         "latitude": 42.35031,
         "longitude": -72.051734
       },
+      "Minnesota": {
+        "latitude": 46.07043983962658,
+        "longitude": -94.50548877074432
+      },
       "New-Hampshire": {
         "latitude": 43.639509,
         "longitude": -71.561448
@@ -662,6 +672,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in North America",
-  "updated": "09 Dec 2020",
-  "virus_count": 356
+  "updated": "03 Feb 2021",
+  "virus_count": 360
 }

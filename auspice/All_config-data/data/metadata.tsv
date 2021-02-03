@@ -169,7 +169,7 @@ PV094-1341_LII_Standish_ME_USA_Ixodes-scapularis_M_Drag_2016-11-17	1341		LII	Sta
 PV096-CO18_LII_Cape-Elizabeth_ME_USA_Ixodes-scapularis_M_Drag_2017-11-15	CO18		LII	Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis_M	Drag	2017-11-15	MMCRI	Vogels et al.				
 PV097.2-CO46_LII_Cape-Elizabeth_ME_USA_Ixodes-scapularis_F_Drag_2017-11-15	CO46		LII	Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis_F	Drag	2017-11-15	MMCRI	Vogels et al.				
 PV098-CO57_LII_Cape-Elizabeth_ME_USA_Ixodes-scapularis_F_Drag_2017-11-15	CO57		LII	Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis_F	Drag	2017-11-15	MMCRI	Vogels et al.				
-PV099.2-CO68_LII_Cape-Elizabeth_ME_USA_Ixodes-scapularis_F_Drag_2017-11-15	CO68		LII	Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis_F	Drag	2017-11-15	MMCRI	Vogels et al. 				
+PV099.2-CO68_LII_Cape-Elizabeth_ME_USA_Ixodes-scapularis_F_Drag_2017-11-15	CO68		LII	Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis_F	Drag	2017-11-15	MMCRI	Vogels et al.				
 PV100.2-CO95_LII_Cape-Elizabeth_ME_USA_Ixodes-scapularis_M_Drag_2017-11-15	CO95		LII	Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis_M	Drag	2017-11-15	MMCRI	Vogels et al.				
 PV101.2-CO110_LII_Cape-Elizabeth_ME_USA_Ixodes-scapularis_F_Drag_2017-11-15	CO110		LII	Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis_F	Drag	2017-11-15	MMCRI	Vogels et al.				
 PV102-CO166_LII_Cape-Elizabeth_ME_USA_Ixodes-scapularis_F_Drag_2017-11-15	CO166		LII	Cape-Elizabeth_ME	Maine	USA	Ixodes-scapularis_F	Drag	2017-11-15	MMCRI	Vogels et al.				
@@ -252,7 +252,7 @@ PV183-19093-142_LII_Glenville_NY_USA_Ixodes-scapularis_M_Drag_2019-05-16	19093-1
 PV185-19093-242_LII_Glenville_NY_USA_Ixodes-scapularis_M_Drag_2019-05-22	19093-242		LII	Glenville_NY	New-York	USA	Ixodes-scapularis_M	Drag	2019-05-22	NYSDOH	Vogels et al.				
 PV186-19115-021_LII_Jackson_NY_USA_Ixodes-scapularis_F_Drag_2019-05-06	19115-021		LII	Jackson_NY	New-York	USA	Ixodes-scapularis_F	Drag	2019-05-06	NYSDOH	Vogels et al.				
 PV187-16CD17_LII_Copake_NY_USA_Ixodes-scapularis_M_Deer_2016-11-19	16CD17		LII	Copake_NY	New-York	USA	Ixodes-scapularis_M	Deer	2016-11-19	NYSDOH	Vogels et al.				
-PV188-16021-171_LII_Greenport_NY_USA_Ixodes-scapularis_F_Drag_2016-10-21	16021-171		LII	Greenport_NY	New-York	USA	Ixodes-scapularis_F	Drag	2016-10-21	NYSDOH	Vogels et al.				
+PV188-16021-171_LII_Greenport_NY_USA_Ixodes-scapularis_F_Drag_2016-10-21	16021-171		LII	Greenport_NY	New-York	USA	Ixodes-scapularis_F	Drag	2016102	NYSDOH	Vogels et al.				
 PV189-18091-387_LII_Charlton_NY_USA_Ixodes-scapularis_M_Drag_2018-11-08	18091-387		LII	Charlton_NY	New-York	USA	Ixodes-scapularis_M	Drag	2018-11-08	NYSDOH	Vogels et al.				
 PV190-18091-16-005_LII_Stillwater_NY_USA_Ixodes-scapularis_M_Deer_2018-11-17	18091-16-005		LII	Stillwater_NY	New-York	USA	Ixodes-scapularis_M	Deer	2018-11-17	NYSDOH	Vogels et al.				
 PV191-18091-26-001_LII_Schaghticoke_NY_USA_Ixodes-scapularis_M_Deer_2018-11-18	18091-26-001		LII	Schaghticoke_NY	New-York	USA	Ixodes-scapularis_M	Deer	2018-11-18	NYSDOH	Vogels et al.				
@@ -354,3 +354,7 @@ PV310-LI331_LII_Oyster-Bay_NY_USA_Ixodes-scapularis_M_Drag_2018-10-31	LI331		LII
 PV311-LI336_LII_Oyster-Bay_NY_USA_Ixodes-scapularis_M_Drag_2018-10-31	LI336		LII	Oyster-Bay_NY	New-York	USA	Ixodes-scapularis_M	Drag	2018-10-31	Cornell	Vogels et al.				
 PV312-LI343_LII_Oyster-Bay_NY_USA_Ixodes-scapularis_M_Drag_2018-10-31	LI343		LII	Oyster-Bay_NY	New-York	USA	Ixodes-scapularis_M	Drag	2018-10-31	Cornell	Vogels et al.				
 PV313-LI586_LII_Woodbury_NY_USA_Ixodes-scapularis_M_Drag_2018-12-04	LI586		LII	Woodbury_NY	New-York	USA	Ixodes-scapularis_M	Drag	2018-12-04	Cornell	Vogels et al.				
+PV315-MN26_LII_Camp-Ripley_MN_USA_Ixodes-scapularis_M_Drag_2019-06-27	MN26		LII	Camp-Ripley_MN	Minnesota	USA	Ixodes-scapularis_M	Drag	2019-06-27	UMN	Vogels et al.				
+PV316-MN38_LII_Camp-Ripley_MN_USA_Ixodes-scapularis_M_Drag_2019-06-27	MN38		LII	Camp-Ripley_MN	Minnesota	USA	Ixodes-scapularis_M	Drag	2019-06-27	UMN	Vogels et al.				
+PV318-MN61_LII_St-Croix_MN_USA_Ixodes-scapularis_F_Drag_2019-06-14	MN61		LII	St-Croix_MN	Minnesota	USA	Ixodes-scapularis_F	Drag	2019-06-14	UMN	Vogels et al.				
+PV320-Human-BHK1_LII_Littlefork_MN_USA_Human_NA_NA_2020-06-XX	Human-BHK1		LII	Littlefork_MN	Minnesota	USA	Homo-sapiens	NA	2019-06-27	UMN	Vogels et al.				
