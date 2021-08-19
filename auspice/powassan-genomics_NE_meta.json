@@ -74,12 +74,6 @@
       "paper_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5210029/",
       "title": "Transmission bottlenecks and RNAi collectively influence tick-borne flavivirus evolution"
     },
-    "Kuno et al. (2001)": {
-      "journal": "Am. J. Trop. Med. Hyg. 65(5): 671-676 (2011)",
-      "n": 1,
-      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/11716135/",
-      "title": "Genomic sequencing of deer tick virus and phylogeny of powassan-related viruses of North America"
-    },
     "Normandin et al.": {
       "journal": "",
       "n": 28,
@@ -116,15 +110,9 @@
       "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/29564401",
       "title": "Identification of novel viruses in Amblyomma americanum, Dermacentor variablis, and Ixodes scapularis ticks"
     },
-    "Vogels et al.": {
+    "Unpublished": {
       "journal": "",
-      "n": 279,
-      "paper_url": "",
-      "title": ""
-    },
-    "Vogels et al. ": {
-      "journal": "",
-      "n": 1,
+      "n": 287,
       "paper_url": "",
       "title": ""
     }
@@ -299,6 +287,10 @@
           "#AA0606"
         ],
         [
+          "Unknown_NY",
+          "#AC0C0C"
+        ],
+        [
           "Windham_NY",
           "#AE1212"
         ],
@@ -333,6 +325,10 @@
         [
           "Ancramdale_NY",
           "#BF4444"
+        ],
+        [
+          "Ulster_NY",
+          "#B84646"
         ],
         [
           "North-East_NY",
@@ -724,10 +720,6 @@
         "latitude": 43.128611,
         "longitude": -73.588429
       },
-      "Old-Lyme_CT": {
-        "latitude": 41.321891,
-        "longitude": -72.297986
-      },
       "Oyster-Bay_NY": {
         "latitude": 40.871589,
         "longitude": -73.531159
@@ -808,6 +800,10 @@
         "latitude": 42.143773,
         "longitude": -73.677346
       },
+      "Ulster_NY": {
+        "latitude": 41.963055,
+        "longitude": -73.99047
+      },
       "Unknown_CT": {
         "latitude": 41.625089,
         "longitude": -72.691524
@@ -815,6 +811,10 @@
       "Unknown_NH": {
         "latitude": 43.639509,
         "longitude": -71.561448
+      },
+      "Unknown_NY": {
+        "latitude": 42.362333,
+        "longitude": -74.494279
       },
       "Wallkill_NY": {
         "latitude": 41.608395,
@@ -881,7 +881,7 @@
     "map",
     "entropy"
   ],
-  "title": "Powassan virus evolution & spread in New England",
-  "updated": "09 Dec 2020",
-  "virus_count": 323
+  "title": "Powassan virus evolution & spread in North America",
+  "updated": "19 Aug 2021",
+  "virus_count": 324
 }

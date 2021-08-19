@@ -152,9 +152,9 @@
       "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/29564401",
       "title": "Identification of novel viruses in Amblyomma americanum, Dermacentor variablis, and Ixodes scapularis ticks"
     },
-    "Vogels et al.": {
+    "Unpublished": {
       "journal": "",
-      "n": 284,
+      "n": 291,
       "paper_url": "",
       "title": ""
     }
@@ -554,6 +554,10 @@
         "latitude": 42.143773,
         "longitude": -73.677346
       },
+      "Ulster_NY": {
+        "latitude": 41.963055,
+        "longitude": -73.99047
+      },
       "Unknown_Austria": {
         "latitude": 47.408539699633536,
         "longitude": 14.198003393694037
@@ -672,6 +676,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in North America",
-  "updated": "03 Feb 2021",
-  "virus_count": 360
+  "updated": "19 Aug 2021",
+  "virus_count": 367
 }
