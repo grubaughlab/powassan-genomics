@@ -64,7 +64,7 @@
   "author_info": {
     "Ciota et al.": {
       "journal": "",
-      "n": 17,
+      "n": 19,
       "paper_url": "",
       "title": ""
     },
@@ -73,6 +73,18 @@
       "n": 1,
       "paper_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5210029/",
       "title": "Transmission bottlenecks and RNAi collectively influence tick-borne flavivirus evolution"
+    },
+    "Kuno et al. (2001)": {
+      "journal": "Am. J. Trop. Med. Hyg. 65(5): 671-676 (2011)",
+      "n": 1,
+      "paper_url": "https://pubmed.ncbi.nlm.nih.gov/11716135/",
+      "title": "Genomic sequencing of deer tick virus and phylogeny of powassan-related viruses of North America"
+    },
+    "Mandl et al. (1989)": {
+      "journal": "",
+      "n": 1,
+      "paper_url": "",
+      "title": ""
     },
     "Normandin et al.": {
       "journal": "",
@@ -112,7 +124,7 @@
     },
     "Unpublished": {
       "journal": "",
-      "n": 287,
+      "n": 291,
       "paper_url": "",
       "title": ""
     }
@@ -195,12 +207,20 @@
           "#A800A8"
         ],
         [
+          "Philadelphia_NY",
+          "#180000"
+        ],
+        [
           "Hermon_NY",
           "#170000"
         ],
         [
           "Wilton_NY",
           "#1C0000"
+        ],
+        [
+          "Verona_NY",
+          "#220000"
         ],
         [
           "Northumberland_NY",
@@ -221,6 +241,10 @@
         [
           "Greenwich_NY",
           "#3F0000"
+        ],
+        [
+          "Jackson_NY",
+          "#450000"
         ],
         [
           "Ballston-Spa_NY",
@@ -299,10 +323,6 @@
           "#B01818"
         ],
         [
-          "Columbia_NY",
-          "#B21F1F"
-        ],
-        [
           "Taghkanic_NY",
           "#B42525"
         ],
@@ -327,10 +347,6 @@
           "#BF4444"
         ],
         [
-          "Ulster_NY",
-          "#B84646"
-        ],
-        [
           "North-East_NY",
           "#C14A4A"
         ],
@@ -351,10 +367,6 @@
           "#CC6969"
         ],
         [
-          "Putnam_NY",
-          "#CE6F6F"
-        ],
-        [
           "Brewster_NY",
           "#D07676"
         ],
@@ -369,14 +381,6 @@
         [
           "Pound-Ridge_NY",
           "#D68888"
-        ],
-        [
-          "Westchester_NY",
-          "#D88F8F"
-        ],
-        [
-          "Rockland_NY",
-          "#DA9595"
         ],
         [
           "Montebello_NY",
@@ -437,10 +441,6 @@
         [
           "East-Islip_NY",
           "#FAF2F2"
-        ],
-        [
-          "South-county_RI",
-          "#6C00A8"
         ]
       ],
       "key": "city",
@@ -452,6 +452,142 @@
       "key": "collection",
       "legendTitle": "Collection Method",
       "menuItem": "collection",
+      "type": "discrete"
+    },
+    "county": {
+      "color_map": [
+        [
+          "Fairfield_CT",
+          "#002A54"
+        ],
+        [
+          "New-Haven_CT",
+          "#0054A8"
+        ],
+        [
+          "New-London_CT",
+          "#AAC6E2"
+        ],
+        [
+          "St.-Lawrence_NY",
+          "#170000"
+        ],
+        [
+          "Jefferson_NY",
+          "#390000"
+        ],
+        [
+          "Washington_NY",
+          "#450000"
+        ],
+        [
+          "Oneida_NY",
+          "#560000"
+        ],
+        [
+          "Saratoga_NY",
+          "#680000"
+        ],
+        [
+          "Schenectady_NY",
+          "#790000"
+        ],
+        [
+          "Rensselaer_NY",
+          "#8B0000"
+        ],
+        [
+          "Albany_NY",
+          "#9C0000"
+        ],
+        [
+          "Schoharie_NY",
+          "#AA0606"
+        ],
+        [
+          "Greene_NY",
+          "#B01818"
+        ],
+        [
+          "Columbia_NY",
+          "#B83131"
+        ],
+        [
+          "Ulster_NY",
+          "#BF4444"
+        ],
+        [
+          "Dutchess_NY",
+          "#C55757"
+        ],
+        [
+          "Sullivan_NY",
+          "#CC6969"
+        ],
+        [
+          "Putnam_NY",
+          "#D48282"
+        ],
+        [
+          "Orange_NY",
+          "#DFA1A1"
+        ],
+        [
+          "Rockland_NY",
+          "#E5B4B4"
+        ],
+        [
+          "Westchester_NY",
+          "#EBC7C7"
+        ],
+        [
+          "Nassau_NY",
+          "#F2D9D9"
+        ],
+        [
+          "Suffolk_NY",
+          "#F8ECEC"
+        ],
+        [
+          "Essex_MA",
+          "#4D3900"
+        ],
+        [
+          "Middlesex_MA",
+          "#9A7300"
+        ],
+        [
+          "Norfolk_MA",
+          "#E7AD00"
+        ],
+        [
+          "Dukes_MA",
+          "#EFC855"
+        ],
+        [
+          "Nantucket_MA",
+          "#F7E3AA"
+        ],
+        [
+          "York_ME",
+          "#3F5400"
+        ],
+        [
+          "Cumberland_ME",
+          "#7EA800"
+        ],
+        [
+          "Knox_ME",
+          "#BED37F"
+        ],
+        [
+          "Washington_RI",
+          "#6C00A8"
+        ]
+      ],
+      "key": "county",
+      "legendTitle": "County",
+      "menuItem": "county",
       "type": "discrete"
     },
     "host": {
@@ -522,6 +658,7 @@
     "host",
     "collection",
     "state",
+    "county",
     "city",
     "authors",
     "source"
@@ -583,10 +720,6 @@
       "Clifton-Park_NY": {
         "latitude": 42.859156,
         "longitude": -73.82446
-      },
-      "Columbia_NY": {
-        "latitude": 42.2415027,
-        "longitude": -73.6723456
       },
       "Copake_NY": {
         "latitude": 42.106095,
@@ -651,6 +784,10 @@
       "Islip_NY": {
         "latitude": 40.715997,
         "longitude": -73.210236
+      },
+      "Jackson_NY": {
+        "latitude": 43.085854,
+        "longitude": -73.384505
       },
       "Lloyd-Harbor_NY": {
         "latitude": 40.926012,
@@ -724,6 +861,10 @@
         "latitude": 40.871589,
         "longitude": -73.531159
       },
+      "Philadelphia_NY": {
+        "latitude": 44.155102,
+        "longitude": -75.710222
+      },
       "Poestenkill_NY": {
         "latitude": 42.693973,
         "longitude": -73.557972
@@ -732,10 +873,6 @@
         "latitude": 41.209591,
         "longitude": -73.575021
       },
-      "Putnam_NY": {
-        "latitude": 41.426996,
-        "longitude": -73.760156
-      },
       "Redding_CT": {
         "latitude": 41.286584,
         "longitude": -73.369246
@@ -743,10 +880,6 @@
       "Rockland_ME": {
         "latitude": 44.129379,
         "longitude": -69.138847
-      },
-      "Rockland_NY": {
-        "latitude": 41.1519319,
-        "longitude": -74.0357266
       },
       "Saratoga-Springs_NY": {
         "latitude": 43.095372,
@@ -780,10 +913,6 @@
         "latitude": 41.306503,
         "longitude": -73.725606
       },
-      "South-county_RI": {
-        "latitude": 41.426206,
-        "longitude": -71.61455
-      },
       "Southampton_NY": {
         "latitude": 40.884218,
         "longitude": -72.394132
@@ -800,9 +929,13 @@
         "latitude": 42.143773,
         "longitude": -73.677346
       },
-      "Ulster_NY": {
-        "latitude": 41.963055,
-        "longitude": -73.99047
+      "Thomaston_ME": {
+        "latitude": 44.09374826673043,
+        "longitude": -69.17321384531603
+      },
+      "Unknown_Austria": {
+        "latitude": 47.408539699633536,
+        "longitude": 14.198003393694037
       },
       "Unknown_CT": {
         "latitude": 41.625089,
@@ -816,6 +949,14 @@
         "latitude": 42.362333,
         "longitude": -74.494279
       },
+      "Unknown_RI": {
+        "latitude": 41.730736,
+        "longitude": -71.566135
+      },
+      "Verona_NY": {
+        "latitude": 43.140668,
+        "longitude": -75.571089
+      },
       "Wallkill_NY": {
         "latitude": 41.608395,
         "longitude": -74.169624
@@ -823,10 +964,6 @@
       "Wells_ME": {
         "latitude": 43.322425,
         "longitude": -70.580458
-      },
-      "Westchester_NY": {
-        "latitude": 41.1763139,
-        "longitude": -73.7907554
       },
       "Westport_CT": {
         "latitude": 41.166964,
@@ -843,6 +980,136 @@
       "Woodbury_NY": {
         "latitude": 40.81978,
         "longitude": -73.469648
+      }
+    },
+    "county": {
+      "Albany_NY": {
+        "latitude": 42.60017643,
+        "longitude": -73.97355857
+      },
+      "Columbia_NY": {
+        "latitude": 42.25007012,
+        "longitude": -73.6318705
+      },
+      "Cumberland_ME": {
+        "latitude": 43.80608211,
+        "longitude": -70.33020063
+      },
+      "Dukes_MA": {
+        "latitude": 41.38877474,
+        "longitude": -70.69877158
+      },
+      "Dutchess_NY": {
+        "latitude": 41.76514744,
+        "longitude": -73.74286305
+      },
+      "Essex_MA": {
+        "latitude": 42.63891538,
+        "longitude": -70.86791996
+      },
+      "Fairfield_CT": {
+        "latitude": 41.22496008,
+        "longitude": -73.37120461
+      },
+      "Greene_NY": {
+        "latitude": 42.27651977,
+        "longitude": -74.1227065
+      },
+      "Jefferson_NY": {
+        "latitude": 43.99886177,
+        "longitude": -76.05206867
+      },
+      "Knox_ME": {
+        "latitude": 44.02729874,
+        "longitude": -69.01554749
+      },
+      "Middlesex_MA": {
+        "latitude": 42.48553813,
+        "longitude": -71.39174247
+      },
+      "Nantucket_MA": {
+        "latitude": 41.30124061,
+        "longitude": -70.12811317
+      },
+      "Nassau_NY": {
+        "latitude": 40.73214216,
+        "longitude": -73.58553667
+      },
+      "New-Haven_CT": {
+        "latitude": 41.34882429,
+        "longitude": -72.89985769
+      },
+      "New-London_CT": {
+        "latitude": 41.46678625,
+        "longitude": -72.1065129
+      },
+      "Norfolk_MA": {
+        "latitude": 42.17098063,
+        "longitude": -71.18382918
+      },
+      "Oneida_NY": {
+        "latitude": 43.2417469,
+        "longitude": -75.43584017
+      },
+      "Orange_NY": {
+        "latitude": 41.4021312,
+        "longitude": -74.30553764
+      },
+      "Putnam_NY": {
+        "latitude": 41.42666156,
+        "longitude": -73.74951416
+      },
+      "Rensselaer_NY": {
+        "latitude": 42.71105355,
+        "longitude": -73.50971214
+      },
+      "Rockland_NY": {
+        "latitude": 41.15246359,
+        "longitude": -74.02406549
+      },
+      "Saratoga_NY": {
+        "latitude": 43.1073812,
+        "longitude": -73.86390455
+      },
+      "Schenectady_NY": {
+        "latitude": 42.81812124,
+        "longitude": -74.05857256
+      },
+      "Schoharie_NY": {
+        "latitude": 42.58821929,
+        "longitude": -74.44211759
+      },
+      "St.-Lawrence_NY": {
+        "latitude": 44.49640214,
+        "longitude": -75.06895227
+      },
+      "Suffolk_NY": {
+        "latitude": 40.94046106,
+        "longitude": -72.68524126
+      },
+      "Sullivan_NY": {
+        "latitude": 41.71642257,
+        "longitude": -74.76814298
+      },
+      "Ulster_NY": {
+        "latitude": 41.88814563,
+        "longitude": -74.25856953
+      },
+      "Washington_NY": {
+        "latitude": 43.3137034,
+        "longitude": -73.43075892
+      },
+      "Washington_RI": {
+        "latitude": 41.39649561,
+        "longitude": -71.61965744
+      },
+      "Westchester_NY": {
+        "latitude": 41.15148119,
+        "longitude": -73.75339068
+      },
+      "York_ME": {
+        "latitude": 43.4292262,
+        "longitude": -70.67014607
       }
     },
     "state": {
@@ -869,6 +1136,10 @@
       "Rhode-Island": {
         "latitude": 41.730736,
         "longitude": -71.566135
+      },
+      "Unknown_Austria": {
+        "latitude": 47.408539699633536,
+        "longitude": 14.198003393694037
       }
     }
   },
@@ -881,7 +1152,7 @@
     "map",
     "entropy"
   ],
-  "title": "Powassan virus evolution & spread in North America",
-  "updated": "19 Aug 2021",
-  "virus_count": 324
+  "title": "Powassan virus evolution & spread in the Northeastern United States",
+  "updated": "05 Nov 2021",
+  "virus_count": 338
 }

@@ -1,8 +1,9 @@
 {
-  "title": "Powassan virus evolution & spread in North America",
+  "title": "Powassan virus evolution & spread in the Northeastern United States",
   "color_options": {
     "num_date": {"menuItem": "date", "legendTitle": "Sampling date", "type": "continuous"},
     "state": {"legendTitle":"State", "menuItem":"state", "type":"discrete"},
+    "county": {"legendTitle":"County", "type":"discrete"},
     "city": {"legendTitle":"City", "type":"discrete"},
     "authors": {"legendTitle":"Authors", "type":"discrete"},
     "source": {"legendTitle":"Source", "type":"discrete"},
@@ -12,6 +13,7 @@
   },
   "geo": [
     "state",
+    "county",
     "city"
   ],
   "maintainer": [
@@ -23,6 +25,7 @@
     "host",
     "collection",
     "state",
+	"county",
     "city",
     "authors",
     "source"

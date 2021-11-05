@@ -70,7 +70,7 @@
     },
     "Ciota et al.": {
       "journal": "",
-      "n": 17,
+      "n": 19,
       "paper_url": "",
       "title": ""
     },
@@ -178,6 +178,12 @@
       "menuItem": "collection",
       "type": "discrete"
     },
+    "county": {
+      "key": "county",
+      "legendTitle": "County",
+      "menuItem": "county",
+      "type": "discrete"
+    },
     "host": {
       "key": "host",
       "legendTitle": "Host Species",
@@ -220,6 +226,7 @@
     "host",
     "collection",
     "state",
+    "county",
     "city",
     "authors",
     "source"
@@ -263,8 +270,8 @@
         "longitude": -74.007262
       },
       "Camp-Ripley_MN": {
-        "latitude": 46.07577633994605,
-        "longitude": -94.35042435228945
+        "latitude": 46.0822636624014,
+        "longitude": -94.3461189089669
       },
       "Cape-Elizabeth_ME": {
         "latitude": 43.563674,
@@ -290,17 +297,9 @@
         "latitude": 42.859156,
         "longitude": -73.82446
       },
-      "Columbia_NY": {
-        "latitude": 42.2415027,
-        "longitude": -73.6723456
-      },
       "Copake_NY": {
         "latitude": 42.106095,
         "longitude": -73.550117
-      },
-      "Dutchess_NY": {
-        "latitude": 41.76571,
-        "longitude": -73.745117
       },
       "East-Hampton_NY": {
         "latitude": 40.95099,
@@ -454,10 +453,6 @@
         "latitude": 43.128611,
         "longitude": -73.588429
       },
-      "Old-Lyme_CT": {
-        "latitude": 41.321891,
-        "longitude": -72.297986
-      },
       "Oyster-Bay_NY": {
         "latitude": 40.871589,
         "longitude": -73.531159
@@ -478,10 +473,6 @@
         "latitude": 46.082704,
         "longitude": -79.364848
       },
-      "Putnam_NY": {
-        "latitude": 41.426996,
-        "longitude": -73.760156
-      },
       "Redding_CT": {
         "latitude": 41.286584,
         "longitude": -73.369246
@@ -489,10 +480,6 @@
       "Rockland_ME": {
         "latitude": 44.129379,
         "longitude": -69.138847
-      },
-      "Rockland_NY": {
-        "latitude": 41.1519319,
-        "longitude": -74.0357266
       },
       "Saratoga-Springs_NY": {
         "latitude": 43.095372,
@@ -526,10 +513,6 @@
         "latitude": 41.306503,
         "longitude": -73.725606
       },
-      "South-county_RI": {
-        "latitude": 41.426206,
-        "longitude": -71.61455
-      },
       "Southampton_NY": {
         "latitude": 40.884218,
         "longitude": -72.394132
@@ -554,9 +537,9 @@
         "latitude": 42.143773,
         "longitude": -73.677346
       },
-      "Ulster_NY": {
-        "latitude": 41.963055,
-        "longitude": -73.99047
+      "Thomaston_ME": {
+        "latitude": 44.09374826673043,
+        "longitude": -69.17321384531603
       },
       "Unknown_Austria": {
         "latitude": 47.408539699633536,
@@ -574,6 +557,10 @@
         "latitude": 42.362333,
         "longitude": -74.494279
       },
+      "Unknown_RI": {
+        "latitude": 41.730736,
+        "longitude": -71.566135
+      },
       "Unknown_Russia": {
         "latitude": 45.05230159716622,
         "longitude": 134.98126716248274
@@ -590,10 +577,6 @@
         "latitude": 43.322425,
         "longitude": -70.580458
       },
-      "Westchester_NY": {
-        "latitude": 41.1763139,
-        "longitude": -73.7907554
-      },
       "Westport_CT": {
         "latitude": 41.166964,
         "longitude": -73.358576
@@ -609,6 +592,156 @@
       "Woodbury_NY": {
         "latitude": 40.81978,
         "longitude": -73.469648
+      }
+    },
+    "county": {
+      "Albany_NY": {
+        "latitude": 42.60017643,
+        "longitude": -73.97355857
+      },
+      "Chippewa_WI": {
+        "latitude": 45.069408,
+        "longitude": -91.27988602
+      },
+      "Columbia_NY": {
+        "latitude": 42.25007012,
+        "longitude": -73.6318705
+      },
+      "Cumberland_ME": {
+        "latitude": 43.80608211,
+        "longitude": -70.33020063
+      },
+      "Dukes_MA": {
+        "latitude": 41.38877474,
+        "longitude": -70.69877158
+      },
+      "Dutchess_NY": {
+        "latitude": 41.76514744,
+        "longitude": -73.74286305
+      },
+      "Essex_MA": {
+        "latitude": 42.63891538,
+        "longitude": -70.86791996
+      },
+      "Fairfield_CT": {
+        "latitude": 41.22496008,
+        "longitude": -73.37120461
+      },
+      "Greene_NY": {
+        "latitude": 42.27651977,
+        "longitude": -74.1227065
+      },
+      "Jefferson_NY": {
+        "latitude": 43.99886177,
+        "longitude": -76.05206867
+      },
+      "Knox_ME": {
+        "latitude": 44.02729874,
+        "longitude": -69.01554749
+      },
+      "Koochiching_MN": {
+        "latitude": 48.2452684,
+        "longitude": -93.7833663
+      },
+      "Larimer_CO": {
+        "latitude": 40.66641722,
+        "longitude": -105.4611445
+      },
+      "Middlesex_MA": {
+        "latitude": 42.48553813,
+        "longitude": -71.39174247
+      },
+      "Morrison_MN": {
+        "latitude": 46.01261769,
+        "longitude": -94.26841531
+      },
+      "Nantucket_MA": {
+        "latitude": 41.30124061,
+        "longitude": -70.12811317
+      },
+      "Nassau_NY": {
+        "latitude": 40.73214216,
+        "longitude": -73.58553667
+      },
+      "New-Haven_CT": {
+        "latitude": 41.34882429,
+        "longitude": -72.89985769
+      },
+      "New-London_CT": {
+        "latitude": 41.46678625,
+        "longitude": -72.1065129
+      },
+      "Norfolk_MA": {
+        "latitude": 42.17098063,
+        "longitude": -71.18382918
+      },
+      "Oneida_NY": {
+        "latitude": 43.2417469,
+        "longitude": -75.43584017
+      },
+      "Orange_NY": {
+        "latitude": 41.4021312,
+        "longitude": -74.30553764
+      },
+      "Putnam_NY": {
+        "latitude": 41.42666156,
+        "longitude": -73.74951416
+      },
+      "Rensselaer_NY": {
+        "latitude": 42.71105355,
+        "longitude": -73.50971214
+      },
+      "Rockland_NY": {
+        "latitude": 41.15246359,
+        "longitude": -74.02406549
+      },
+      "Saratoga_NY": {
+        "latitude": 43.1073812,
+        "longitude": -73.86390455
+      },
+      "Schenectady_NY": {
+        "latitude": 42.81812124,
+        "longitude": -74.05857256
+      },
+      "Schoharie_NY": {
+        "latitude": 42.58821929,
+        "longitude": -74.44211759
+      },
+      "St.-Lawrence_NY": {
+        "latitude": 44.49640214,
+        "longitude": -75.06895227
+      },
+      "Suffolk_NY": {
+        "latitude": 40.94046106,
+        "longitude": -72.68524126
+      },
+      "Sullivan_NY": {
+        "latitude": 41.71642257,
+        "longitude": -74.76814298
+      },
+      "Ulster_NY": {
+        "latitude": 41.88814563,
+        "longitude": -74.25856953
+      },
+      "Washburn_WI": {
+        "latitude": 45.89917917,
+        "longitude": -91.79123463
+      },
+      "Washington_NY": {
+        "latitude": 43.3137034,
+        "longitude": -73.43075892
+      },
+      "Washington_RI": {
+        "latitude": 41.39649561,
+        "longitude": -71.61965744
+      },
+      "Westchester_NY": {
+        "latitude": 41.15148119,
+        "longitude": -73.75339068
+      },
+      "York_ME": {
+        "latitude": 43.4292262,
+        "longitude": -70.67014607
       }
     },
     "state": {
@@ -676,6 +809,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in North America",
-  "updated": "19 Aug 2021",
-  "virus_count": 367
+  "updated": "05 Nov 2021",
+  "virus_count": 366
 }

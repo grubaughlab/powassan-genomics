@@ -1,5 +1,5 @@
-SPO_LII_Spooner_WI_USA_Unknown_Unknown_Unknown_1997-XX-XX
 LB_LI_Powassan_ON_Canada_Homo-sapiens_NA_NA_1958-09-23
+SPO_LII_Spooner_WI_USA_Unknown_Unknown_Unknown_1997-XX-XX
 DTVWiC08_LII_Spooner_WI_USA_Ixodes-scapularis_Unknown_Unknown_2008-XX-XX
 DTVWiB08_LII_Spooner_WI_USA_Ixodes-scapularis_Unknown_Unknown_2008-XX-XX
 DTVWiA08_LII_Spooner_WI_USA_Ixodes-scapularis_Unknown_Unknown_2008-XX-XX
@@ -13,4 +13,5 @@ MA5-13-47_LII_Spooner_WI_USA_Ixodes-scapularis_Unknown_Unknown_2008-XX-XX
 MB5-12-73_LII_Spooner_WI_USA_Ixodes-scapularis_Unknown_Unknown_2008-XX-XX
 FB5-13-140_LII_Spooner_WI_USA_Ixodes-scapularis_Unknown_Unknown_2008-XX-XX
 FB5-13-1_LII_Spooner_WI_USA_Ixodes-scapularis_Unknown_Unknown_2008-XX-XX
-POW_CO-D_LI_Fort-Collins_CO_US_Dermacentor-andersoni_Unknown_Unknown_1952-05-XX
+POW_CO-D_LII_Fort-Collins_CO_US_Dermacentor-andersoni_Unknown_Unknown_1952-05-XX
+PV044-Ar-218-78_LI_Old-Lyme_CT_USA_Ixodes-cookei_Unknown_Unknown_1978-10-07
