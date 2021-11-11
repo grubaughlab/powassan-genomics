@@ -242,8 +242,8 @@
         "longitude": -73.5914
       },
       "Armonk_NY": {
-        "latitude": 41.132453,
-        "longitude": -73.714185
+        "latitude": 41.127825,
+        "longitude": -73.730321
       },
       "Ballston-Spa_NY": {
         "latitude": 43.007096,
@@ -254,44 +254,44 @@
         "longitude": -73.882494
       },
       "Blenheim_NY": {
-        "latitude": 42.488385,
-        "longitude": -74.490712
+        "latitude": 42.43738,
+        "longitude": -74.45799
       },
       "Brewster_NY": {
-        "latitude": 41.397623,
-        "longitude": -73.616893
+        "latitude": 41.36554,
+        "longitude": -73.59385
       },
       "Bridgeport_CT": {
         "latitude": 41.208906,
         "longitude": -73.167084
       },
       "Cairo_NY": {
-        "latitude": 42.306412,
-        "longitude": -74.007262
+        "latitude": 42.33263,
+        "longitude": -74.0015
       },
       "Camp-Ripley_MN": {
-        "latitude": 46.0822636624014,
-        "longitude": -94.3461189089669
+        "latitude": 46.08226366,
+        "longitude": -94.34611891
       },
       "Cape-Elizabeth_ME": {
-        "latitude": 43.563674,
-        "longitude": -70.200001
+        "latitude": 43.574465,
+        "longitude": -70.255755
       },
       "Charlton_NY": {
-        "latitude": 42.934852,
-        "longitude": -73969186.0
+        "latitude": 42.928903,
+        "longitude": -73.964172
       },
       "Chatham_NY": {
-        "latitude": 42.362534,
-        "longitude": -73.597294
+        "latitude": 42.37083,
+        "longitude": -73.60302
       },
       "Chippewa-Falls_WI": {
         "latitude": 44.943671,
         "longitude": -91.389701
       },
       "Clermont_NY": {
-        "latitude": 42.086681,
-        "longitude": -73.826903
+        "latitude": 42.08186,
+        "longitude": -73.9155
       },
       "Clifton-Park_NY": {
         "latitude": 42.859156,
@@ -302,8 +302,8 @@
         "longitude": -73.550117
       },
       "East-Hampton_NY": {
-        "latitude": 40.95099,
-        "longitude": -72.189161
+        "latitude": 41.039602,
+        "longitude": -72.239154
       },
       "East-Islip_NY": {
         "latitude": 40.710314,
@@ -318,68 +318,68 @@
         "longitude": -105.174396
       },
       "Glenville_NY": {
-        "latitude": 42.930748,
-        "longitude": -74.0519
+        "latitude": 42.87216,
+        "longitude": -73.90761
       },
       "Greenfield_NY": {
-        "latitude": 43.105187,
-        "longitude": -73.864184
+        "latitude": 43.118359,
+        "longitude": -73.828524
       },
       "Greenport_NY": {
-        "latitude": 41.105498,
-        "longitude": -72.370175
+        "latitude": 42.21068,
+        "longitude": -73.832996
       },
       "Greenville_NY": {
-        "latitude": 40.998285,
-        "longitude": -73.821151
+        "latitude": 42.422584,
+        "longitude": -74.0345
       },
       "Greenwich_NY": {
-        "latitude": 43.093459,
-        "longitude": -73.49939
+        "latitude": 43.13682,
+        "longitude": -73.58446
       },
       "Groton_CT": {
-        "latitude": 41.335594,
-        "longitude": -72.033408
+        "latitude": 41.336446,
+        "longitude": -72.033503
       },
       "Guilderland_NY": {
-        "latitude": 42.707454,
-        "longitude": -73.911612
+        "latitude": 42.72626,
+        "longitude": -73.90375
       },
       "Hermon_NY": {
-        "latitude": 44.46705,
-        "longitude": -75.231509
+        "latitude": 44.36872,
+        "longitude": -75.30672
       },
       "Holmes_NY": {
-        "latitude": 41.524646,
-        "longitude": -73.646967
+        "latitude": 41.572981,
+        "longitude": -73.680646
       },
       "Huntington_NY": {
-        "latitude": 40.873993,
-        "longitude": -73.409039
+        "latitude": 40.922719,
+        "longitude": -73.469993
       },
       "Ipswich_MA": {
         "latitude": 42.679171,
         "longitude": -70.841138
       },
       "Islip_NY": {
-        "latitude": 40.715997,
-        "longitude": -73.210236
+        "latitude": 40.7653,
+        "longitude": -73.1236
       },
       "Jackson_NY": {
         "latitude": 43.085854,
         "longitude": -73.384505
       },
       "Kamenushki_Russia": {
-        "latitude": 43.62199636377992,
-        "longitude": 132.2304047046921
+        "latitude": 43.62199636,
+        "longitude": 132.2304047
       },
       "Laurier-Township_ON": {
         "latitude": 45.926384,
         "longitude": -79.380141
       },
       "Littlefork_MN": {
-        "latitude": 48.397415395469665,
-        "longitude": -93.56018151211481
+        "latitude": 48.3974154,
+        "longitude": -93.56018151
       },
       "Lloyd-Harbor_NY": {
         "latitude": 40.926012,
@@ -390,36 +390,36 @@
         "longitude": -72.348391
       },
       "Malta_NY": {
-        "latitude": 42.985634,
-        "longitude": -73.789366
+        "latitude": 42.95909,
+        "longitude": -73.76926
       },
       "Mamakating_NY": {
-        "latitude": 41.58642,
-        "longitude": -74.487059
+        "latitude": 41.585613,
+        "longitude": -74.474215
       },
       "Marthas-Vineyard_MA": {
         "latitude": 41.38807,
         "longitude": -70.645364
       },
       "Mill-Neck_NY": {
-        "latitude": 40.886379,
-        "longitude": -73.553367
+        "latitude": 40.8776539,
+        "longitude": -73.5655589
       },
       "Millis_MA": {
         "latitude": 42.167719,
         "longitude": -71.352688
       },
       "Milton_NY": {
-        "latitude": 41.6609,
-        "longitude": -73.964049
+        "latitude": 43.031144,
+        "longitude": -73.847606
       },
       "Mohansic_NY": {
-        "latitude": 41.279769,
-        "longitude": -73.805241
+        "latitude": 41.26993,
+        "longitude": -73.80933
       },
       "Montebello_NY": {
-        "latitude": 41.132892,
-        "longitude": -74.113244
+        "latitude": 41.14542,
+        "longitude": -74.1129
       },
       "Nantucket_MA": {
         "latitude": 41.274539,
@@ -434,8 +434,8 @@
         "longitude": -79.380542
       },
       "North-Blenheim_NY": {
-        "latitude": 42.471226,
-        "longitude": -74.445681
+        "latitude": 42.43738,
+        "longitude": -74.45799
       },
       "North-Branford_CT": {
         "latitude": 41.370778,
@@ -450,12 +450,12 @@
         "longitude": -73.342632
       },
       "Northumberland_NY": {
-        "latitude": 43.128611,
-        "longitude": -73.588429
+        "latitude": 43.1784,
+        "longitude": -73.6711
       },
       "Oyster-Bay_NY": {
-        "latitude": 40.871589,
-        "longitude": -73.531159
+        "latitude": 40.8638889,
+        "longitude": -73.5077778
       },
       "Philadelphia_NY": {
         "latitude": 44.155102,
@@ -478,12 +478,12 @@
         "longitude": -73.369246
       },
       "Rockland_ME": {
-        "latitude": 44.129379,
-        "longitude": -69.138847
+        "latitude": 44.123197,
+        "longitude": -69.156464
       },
       "Saratoga-Springs_NY": {
-        "latitude": 43.095372,
-        "longitude": -73.886165
+        "latitude": 43.04888,
+        "longitude": -73.8108
       },
       "Saratoga_NY": {
         "latitude": 43.095372,
@@ -494,8 +494,8 @@
         "longitude": -73.588041
       },
       "Schodack_NY": {
-        "latitude": 42.532246,
-        "longitude": -73.695957
+        "latitude": 42.49766,
+        "longitude": -73.77617
       },
       "Shelter-Island_NY": {
         "latitude": 41.057998,
@@ -506,44 +506,44 @@
         "longitude": -71.372815
       },
       "Smithtown_NY": {
-        "latitude": 40.858068,
-        "longitude": -73.215574
+        "latitude": 40.84254,
+        "longitude": -73.230303
       },
       "Somers_NY": {
         "latitude": 41.306503,
         "longitude": -73.725606
       },
       "Southampton_NY": {
-        "latitude": 40.884218,
-        "longitude": -72.394132
+        "latitude": 40.901571,
+        "longitude": -72.417697
       },
       "Spooner_WI": {
         "latitude": 45.827192,
         "longitude": -91.893121
       },
       "St-Croix_MN": {
-        "latitude": 45.19935868146141,
-        "longitude": -92.77125353652323
+        "latitude": 45.19935868,
+        "longitude": -92.77125354
       },
       "Standish_ME": {
-        "latitude": 43.817086,
-        "longitude": -70.550557
+        "latitude": 43.827362,
+        "longitude": -70.60952
       },
       "Stillwater_NY": {
-        "latitude": 42.946852,
-        "longitude": -73.64131
+        "latitude": 42.98338,
+        "longitude": -73.63022
       },
       "Taghkanic_NY": {
-        "latitude": 42.143773,
-        "longitude": -73.677346
+        "latitude": 42.09408,
+        "longitude": -73.70345
       },
       "Thomaston_ME": {
-        "latitude": 44.09374826673043,
-        "longitude": -69.17321384531603
+        "latitude": 44.10352172,
+        "longitude": -69.17414197
       },
       "Unknown_Austria": {
-        "latitude": 47.408539699633536,
-        "longitude": 14.198003393694037
+        "latitude": 47.4085397,
+        "longitude": 14.19800339
       },
       "Unknown_CT": {
         "latitude": 41.625089,
@@ -562,36 +562,36 @@
         "longitude": -71.566135
       },
       "Unknown_Russia": {
-        "latitude": 45.05230159716622,
-        "longitude": 134.98126716248274
+        "latitude": 45.0523016,
+        "longitude": 134.9812672
       },
       "Verona_NY": {
         "latitude": 43.140668,
         "longitude": -75.571089
       },
       "Wallkill_NY": {
-        "latitude": 41.608395,
-        "longitude": -74.169624
+        "latitude": 41.50923,
+        "longitude": -74.32351
       },
       "Wells_ME": {
-        "latitude": 43.322425,
-        "longitude": -70.580458
+        "latitude": 43.336526,
+        "longitude": -70.54819
       },
       "Westport_CT": {
-        "latitude": 41.166964,
-        "longitude": -73.358576
+        "latitude": 41.187218,
+        "longitude": -73.343335
       },
       "Wilton_NY": {
-        "latitude": 43.181824,
-        "longitude": -73.74463
+        "latitude": 43.15132,
+        "longitude": -73.70825
       },
       "Windham_NY": {
-        "latitude": 42.311957,
-        "longitude": -74.245086
+        "latitude": 42.313721,
+        "longitude": -74.189797
       },
       "Woodbury_NY": {
-        "latitude": 40.81978,
-        "longitude": -73.469648
+        "latitude": 40.840628,
+        "longitude": -73.460948
       }
     },
     "county": {
@@ -762,8 +762,8 @@
         "longitude": -72.051734
       },
       "Minnesota": {
-        "latitude": 46.07043983962658,
-        "longitude": -94.50548877074432
+        "latitude": 46.07043984,
+        "longitude": -94.50548877
       },
       "New-Hampshire": {
         "latitude": 43.639509,
@@ -778,20 +778,20 @@
         "longitude": -85.441736
       },
       "Primorsky-Krai_Russia": {
-        "latitude": 45.05230159716622,
-        "longitude": 134.98126716248274
+        "latitude": 45.0523016,
+        "longitude": 134.9812672
       },
       "Rhode-Island": {
         "latitude": 41.730736,
         "longitude": -71.566135
       },
       "Unknown_Austria": {
-        "latitude": 47.408539699633536,
-        "longitude": 14.198003393694037
+        "latitude": 47.4085397,
+        "longitude": 14.19800339
       },
       "Unknown_Russia": {
-        "latitude": 45.05230159716622,
-        "longitude": 134.98126716248274
+        "latitude": 45.0523016,
+        "longitude": 134.9812672
       },
       "Wisconsin": {
         "latitude": 44.890674,
@@ -809,6 +809,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in North America",
-  "updated": "05 Nov 2021",
+  "updated": "11 Nov 2021",
   "virus_count": 366
 }
