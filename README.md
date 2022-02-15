@@ -2,11 +2,12 @@
 In this project we aim to understand evolution and spread of Powassan virus by sequencing viruses isolated from *Ixodes scapularis* ticks in the Northeastern United States. 
 
 ## Sample collection
-Ticks were collected at different locations by colleagues at the Connecticut Agricultural Experiment Station, Colorado State University, Cornell, Maine Medical Center Research Institute, New York State Department of Health, Tufts. Metadata and sequencing statistics can be found [here](https://docs.google.com/spreadsheets/d/1vPY7roZUkjlYLiJvrNX6X5KLFuoD-c_5LbVUiRM02KQ/edit?usp=sharing).
+Ticks were collected at different locations by colleagues at the Connecticut Agricultural Experiment Station, Colorado State University, Cornell, Maine Medical Center Research Institute, New York State Department of Health, Tufts.
 
 ## Sequencing
 ### Sequencing platform
 * Library construction was performed using a [metagenomics approach](https://docs.google.com/document/d/1Tm-fABgAUdCHuBHnyW9az5tbEcoQW7AzjXeIdduDy-I/edit) (without DNAse treatment), or an amplicon approach.
+* The Powassan LII primer scheme for amplicon-based sequencing can be found in the primers_scheme folder
 * Sequencing was performed on the NovaSeq, paired-end 150.
 
 ### Alignments
