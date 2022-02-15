@@ -1,20 +1,17 @@
 # powassan-genomics
-In this project we aim to understand evolution and spread of Powassan virus by sequencing viruses isolated from *Ixodes scapularis* ticks in the Northeastern United States. 
+In this project we aim to understand evolution and spread of Powassan virus by sequencing viruses isolated from ticks in the Northeastern United States. 
 
 ## Sample collection
-Ticks were collected at different locations by colleagues at the Connecticut Agricultural Experiment Station, Colorado State University, Cornell, Maine Medical Center Research Institute, New York State Department of Health, Tufts.
+Ticks were collected at different locations by colleagues at the Connecticut Agricultural Experiment Station, Colorado State University, Cornell, Maine Medical Center Research Institute, New York State Department of Health, Tufts, and Upstate Medical University.
 
 ## Sequencing
 ### Sequencing platform
-* Library construction was performed using a [metagenomics approach](https://docs.google.com/document/d/1Tm-fABgAUdCHuBHnyW9az5tbEcoQW7AzjXeIdduDy-I/edit) (without DNAse treatment), or an amplicon approach.
-* The Powassan LII primer scheme for amplicon-based sequencing can be found in the primers_scheme folder
+* Library construction was performed using an [amplicon-based sequencing approach](https://www.nature.com/articles/nprot.2017.066).
+* The Powassan LII primer scheme can be found in the [primer_schemes](primer_schemes) folder
 * Sequencing was performed on the NovaSeq, paired-end 150.
 
 ### Alignments
-* Geneious Prime was used to process metagenomic sequence data.
-* PCR duplicates were removed using dedupe duplicates remover.
-* Sequences were mapped to reference sequence using bowtie2 at high sensitivity.
-* iVar was used to process amplicon data.
+* [iVar](https://github.com/andersen-lab/ivar) was used to generate consensus genomes.
 
 ### Consensus genomes
 * Created using a 75% treshold and at least 10X coverage.
