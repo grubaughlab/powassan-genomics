@@ -154,7 +154,7 @@
     },
     "Unpublished": {
       "journal": "",
-      "n": 291,
+      "n": 317,
       "paper_url": "",
       "title": ""
     }
@@ -627,9 +627,17 @@
         "latitude": 41.22496008,
         "longitude": -73.37120461
       },
+      "Fulton_NY": {
+        "latitude": 43.11193127635503,
+        "longitude": -74.45138369847363
+      },
       "Greene_NY": {
         "latitude": 42.27651977,
         "longitude": -74.1227065
+      },
+      "Herkimer_NY": {
+        "latitude": 43.430286066208595,
+        "longitude": -74.95507971213152
       },
       "Jefferson_NY": {
         "latitude": 43.99886177,
@@ -809,6 +817,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in North America",
-  "updated": "11 Nov 2021",
-  "virus_count": 366
+  "updated": "04 Jan 2022",
+  "virus_count": 392
 }
