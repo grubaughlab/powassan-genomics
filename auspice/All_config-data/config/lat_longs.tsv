@@ -92,6 +92,11 @@ city	Unknown_NH	43.639509	-71.561448
 city	Unknown_NY	42.362333	-74.494279
 city	Unknown_RI	41.730736	-71.566135
 city	Unknown_Russia	45.0523016	134.9812672
+city	Spassky-district_Russia	44.77233291	133.06724801
+city	Partizansk_Russia	43.13181200	133.13069112
+city	Vladivostok_Russia	43.1438959	131.93823692
+city	Nadezhdinsky-district_Russia	43.49251380	131.84589809
+city	Terneysky-district_Russia	46.3447845	137.83666129
 city	Kamenushki_Russia	43.62199636	132.2304047
 city	Unknown_Austria	47.4085397	14.19800339
 county	Fairfield_CT	41.22496008	-73.37120461
@@ -101,7 +106,9 @@ county	Larimer_CO	40.66641722	-105.4611445
 county	Albany_NY	42.60017643	-73.97355857
 county	Columbia_NY	42.25007012	-73.6318705
 county	Dutchess_NY	41.76514744	-73.74286305
+county	Fulton_NY	43.11193127	-74.45138369
 county	Greene_NY	42.27651977	-74.1227065
+county	Herkimer_NY	43.43028606	-74.95507971
 county	Jefferson_NY	43.99886177	-76.05206867
 county	Nassau_NY	40.73214216	-73.58553667
 county	Oneida_NY	43.2417469	-75.43584017

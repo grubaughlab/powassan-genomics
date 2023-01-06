@@ -421,6 +421,10 @@
         "latitude": 41.14542,
         "longitude": -74.1129
       },
+      "Nadezhdinsky-district_Russia": {
+        "latitude": 43.4925138,
+        "longitude": 131.84589809
+      },
       "Nantucket_MA": {
         "latitude": 41.274539,
         "longitude": -70.052327
@@ -456,6 +460,10 @@
       "Oyster-Bay_NY": {
         "latitude": 40.8638889,
         "longitude": -73.5077778
+      },
+      "Partizansk_Russia": {
+        "latitude": 43.131812,
+        "longitude": 133.13069112
       },
       "Philadelphia_NY": {
         "latitude": 44.155102,
@@ -517,6 +525,10 @@
         "latitude": 40.901571,
         "longitude": -72.417697
       },
+      "Spassky-district_Russia": {
+        "latitude": 44.77233291,
+        "longitude": 133.06724801
+      },
       "Spooner_WI": {
         "latitude": 45.827192,
         "longitude": -91.893121
@@ -536,6 +548,10 @@
       "Taghkanic_NY": {
         "latitude": 42.09408,
         "longitude": -73.70345
+      },
+      "Terneysky-district_Russia": {
+        "latitude": 46.3447845,
+        "longitude": 137.83666129
       },
       "Thomaston_ME": {
         "latitude": 44.10352172,
@@ -568,6 +584,10 @@
       "Verona_NY": {
         "latitude": 43.140668,
         "longitude": -75.571089
+      },
+      "Vladivostok_Russia": {
+        "latitude": 43.1438959,
+        "longitude": 131.93823692
       },
       "Wallkill_NY": {
         "latitude": 41.50923,
@@ -628,16 +648,16 @@
         "longitude": -73.37120461
       },
       "Fulton_NY": {
-        "latitude": 43.11193127635503,
-        "longitude": -74.45138369847363
+        "latitude": 43.11193127,
+        "longitude": -74.45138369
       },
       "Greene_NY": {
         "latitude": 42.27651977,
         "longitude": -74.1227065
       },
       "Herkimer_NY": {
-        "latitude": 43.430286066208595,
-        "longitude": -74.95507971213152
+        "latitude": 43.43028606,
+        "longitude": -74.95507971
       },
       "Jefferson_NY": {
         "latitude": 43.99886177,
@@ -797,10 +817,6 @@
         "latitude": 47.4085397,
         "longitude": 14.19800339
       },
-      "Unknown_Russia": {
-        "latitude": 45.0523016,
-        "longitude": 134.9812672
-      },
       "Wisconsin": {
         "latitude": 44.890674,
         "longitude": -90.223444
@@ -817,6 +833,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in North America",
-  "updated": "04 Jan 2022",
+  "updated": "06 Jan 2023",
   "virus_count": 392
 }
