@@ -21,11 +21,11 @@ John F. Anderson2, Charles B. Lubelczyk5, Rachel E. Lange3,4, Melissa A. Prusins
 13 Spatial Epidemiology Lab (SpELL), Université Libre de Bruxelles, Brussels, Belgium  
 14 Department of Ecology and Evolutionary Biology, Yale University, New Haven, CT, USA  
  
-& Co-first authors
-^ Co-senior authors
-@ Co-corresponding authors 
+& Co-first authors  
+^ Co-senior authors  
+@ Co-corresponding authors   
 
-Link to preprint: https://www.biorxiv.org/content/10.1101/2022.10.14.512245v1
+**Link to preprint**: https://www.biorxiv.org/content/10.1101/2022.10.14.512245v1
 
 **BETS_analysis**: BEAST "xml" files of the Bayesian Evaluation of Temporal Signal analysis  
 **Continuous_phylogeographic_analysis**: BEAST trees, "xml", and log files of the continuous phylogeographic analysis  
