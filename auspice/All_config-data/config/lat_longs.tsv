@@ -1,3 +1,4 @@
+city	Ashford_CT	41.867462	-72.150704
 city	Ancram_NY	42.051135	-73.635708
 city	Ancramdale_NY	42.018929	-73.5914
 city	Armonk_NY	41.127825	-73.730321
@@ -6,6 +7,7 @@ city	Ballston-Spa_NY	43.007096	-73.851092
 city	Blenheim_NY	42.43738	-74.45799
 city	Brewster_NY	41.36554	-73.59385
 city	Bridgeport_CT	41.208906	-73.167084
+city	Burlington_CT	41.73288	-72.955188
 city	Cairo_NY	42.33263	-74.0015
 city	Camp-Ripley_MN	46.08226366	-94.34611891
 city	Cape-Elizabeth_ME	43.574465	-70.255755
@@ -27,6 +29,7 @@ city	Greenwich_NY	43.13682	-73.58446
 city	Groton_CT	41.336446	-72.033503
 city	Guilderland_NY	42.72626	-73.90375
 city	Hermon_NY	44.36872	-75.30672
+city	Hinckley_MN	46.01439893143895	-92.93591353389016
 city	Holmes_NY	41.572981	-73.680646
 city	Hoosick-Falls_NY	42.899634	-73.350888
 city	Huntington_NY	40.922719	-73.469993
@@ -50,6 +53,7 @@ city	Nassau_NY	42.513484	-73.612061
 city	North-Bay_ON	46.373133	-79.380542
 city	North-Blenheim_NY	42.43738	-74.45799
 city	North-Branford_CT	41.370778	-72.778166
+city	North-Franklin_CT	41.605847	-72.136009
 city	North-Hoosick_NY	42.929326	-73.342632
 city	North-East_NY	41.937251	-73.542365
 city	Northumberland_NY	43.1784	-73.6711
@@ -67,6 +71,7 @@ city	Schaghticoke_NY	42.900805	-73.588041
 city	Schodack_NY	42.49766	-73.77617
 city	Shelter-Island_NY	41.057998	-72.304422
 city	Sherborn_MA	42.240436	-71.372815
+city	Simsbury_CT	41.838361	-72.786355
 city	Smithtown_NY	40.84254	-73.230303
 city	Somers_NY	41.306503	-73.725606
 city	South-county_RI	41.426206	-71.61455
@@ -100,8 +105,10 @@ city	Terneysky-district_Russia	46.3447845	137.83666129
 city	Kamenushki_Russia	43.62199636	132.2304047
 city	Unknown_Austria	47.4085397	14.19800339
 county	Fairfield_CT	41.22496008	-73.37120461
+county	Hartford_CT	41.81261504870007	-72.72561436923286
 county	New-Haven_CT	41.34882429	-72.89985769
 county	New-London_CT	41.46678625	-72.1065129
+county	Windham_CT	41.8292739898916	-71.96875886933279
 county	Larimer_CO	40.66641722	-105.4611445
 county	Albany_NY	42.60017643	-73.97355857
 county	Columbia_NY	42.25007012	-73.6318705
@@ -135,6 +142,7 @@ county	Knox_ME	44.02729874	-69.01554749
 county	York_ME	43.4292262	-70.67014607
 county	Koochiching_MN	48.2452684	-93.7833663
 county	Morrison_MN	46.01261769	-94.26841531
+county	Pine_MN	46.08624404801688	92.69423364171605
 county	Washington_RI	41.39649561	-71.61965744
 county	Chippewa_WI	45.069408	-91.27988602
 county	Washburn_WI	45.89917917	-91.79123463
