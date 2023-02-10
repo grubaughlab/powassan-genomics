@@ -124,7 +124,7 @@
     },
     "Unpublished": {
       "journal": "",
-      "n": 291,
+      "n": 329,
       "paper_url": "",
       "title": ""
     }
@@ -140,31 +140,43 @@
       "color_map": [
         [
           "Redding_CT",
-          "#00152A"
+          "#00366C"
         ],
         [
           "Westport_CT",
-          "#002A54"
+          "#004B84"
         ],
         [
           "Bridgeport_CT",
-          "#003F7E"
+          "#00619F"
+        ],
+        [
+          "Burlington_CT",
+          "#0077BC"
+        ],
+        [
+          "Simsbury_CT",
+          "#408DCE"
         ],
         [
           "North-Branford_CT",
-          "#0054A8"
+          "#68A1DC"
         ],
         [
           "Lyme_CT",
-          "#558DC5"
+          "#88B4E8"
+        ],
+        [
+          "Ashford_CT",
+          "#A4C7F3"
         ],
         [
           "Groton_CT",
-          "#AAC6E2"
+          "#BED7FB"
         ],
         [
-          "Unknown_CT",
-          "#BFD4E9"
+          "North-Franklin_CT",
+          "#D4E6FF"
         ],
         [
           "Wells_ME",
@@ -458,95 +470,111 @@
       "color_map": [
         [
           "Fairfield_CT",
-          "#002A54"
+          "#00366C"
         ],
         [
           "New-Haven_CT",
-          "#0054A8"
+          "#0066A5"
+        ],
+        [
+          "Hartford_CT",
+          "#5295D4"
         ],
         [
           "New-London_CT",
-          "#AAC6E2"
+          "#99BFEF"
+        ],
+        [
+          "Windham_CT",
+          "#D0E4FF"
         ],
         [
           "St.-Lawrence_NY",
-          "#170000"
+          "#69000C"
+        ],
+        [
+          "Fulton_NY",
+          "#770312"
+        ],
+        [
+          "Herkimer_NY",
+          "#850718"
         ],
         [
           "Jefferson_NY",
-          "#390000"
+          "#940C1D"
         ],
         [
           "Washington_NY",
-          "#450000"
+          "#A21122"
         ],
         [
           "Oneida_NY",
-          "#560000"
+          "#B11527"
         ],
         [
           "Saratoga_NY",
-          "#680000"
+          "#C0192C"
         ],
         [
           "Schenectady_NY",
-          "#790000"
+          "#CF1D31"
         ],
         [
           "Rensselaer_NY",
-          "#8B0000"
+          "#DF2135"
         ],
         [
           "Albany_NY",
-          "#9C0000"
+          "#EE253A"
         ],
         [
           "Schoharie_NY",
-          "#AA0606"
+          "#F43A49"
         ],
         [
           "Greene_NY",
-          "#B01818"
+          "#F94C58"
         ],
         [
           "Columbia_NY",
-          "#B83131"
+          "#FE5B65"
         ],
         [
           "Ulster_NY",
-          "#BF4444"
+          "#FF6972"
         ],
         [
           "Dutchess_NY",
-          "#C55757"
+          "#FF767E"
         ],
         [
           "Sullivan_NY",
-          "#CC6969"
+          "#FF8389"
         ],
         [
           "Putnam_NY",
-          "#D48282"
+          "#FF8F95"
         ],
         [
           "Orange_NY",
-          "#DFA1A1"
+          "#FF9BA0"
         ],
         [
           "Rockland_NY",
-          "#E5B4B4"
+          "#FFA6AA"
         ],
         [
           "Westchester_NY",
-          "#EBC7C7"
+          "#FFB1B5"
         ],
         [
           "Nassau_NY",
-          "#F2D9D9"
+          "#FFBCBF"
         ],
         [
           "Suffolk_NY",
-          "#F8ECEC"
+          "#FFC6C8"
         ],
         [
           "Essex_MA",
@@ -677,6 +705,10 @@
         "latitude": 41.127825,
         "longitude": -73.730321
       },
+      "Ashford_CT": {
+        "latitude": 41.867462,
+        "longitude": -72.150704
+      },
       "Ballston-Spa_NY": {
         "latitude": 43.007096,
         "longitude": -73.851092
@@ -696,6 +728,10 @@
       "Bridgeport_CT": {
         "latitude": 41.208906,
         "longitude": -73.167084
+      },
+      "Burlington_CT": {
+        "latitude": 41.73288,
+        "longitude": -72.955188
       },
       "Cairo_NY": {
         "latitude": 42.33263,
@@ -849,6 +885,10 @@
         "latitude": 41.937251,
         "longitude": -73.542365
       },
+      "North-Franklin_CT": {
+        "latitude": 41.605847,
+        "longitude": -72.136009
+      },
       "North-Hoosick_NY": {
         "latitude": 42.929326,
         "longitude": -73.342632
@@ -904,6 +944,10 @@
       "Sherborn_MA": {
         "latitude": 42.240436,
         "longitude": -71.372815
+      },
+      "Simsbury_CT": {
+        "latitude": 41.838361,
+        "longitude": -72.786355
       },
       "Smithtown_NY": {
         "latitude": 40.84254,
@@ -1011,9 +1055,21 @@
         "latitude": 41.22496008,
         "longitude": -73.37120461
       },
+      "Fulton_NY": {
+        "latitude": 43.11193127,
+        "longitude": -74.45138369
+      },
       "Greene_NY": {
         "latitude": 42.27651977,
         "longitude": -74.1227065
+      },
+      "Hartford_CT": {
+        "latitude": 41.81261504870007,
+        "longitude": -72.72561436923286
+      },
+      "Herkimer_NY": {
+        "latitude": 43.43028606,
+        "longitude": -74.95507971
       },
       "Jefferson_NY": {
         "latitude": 43.99886177,
@@ -1107,6 +1163,10 @@
         "latitude": 41.15148119,
         "longitude": -73.75339068
       },
+      "Windham_CT": {
+        "latitude": 41.8292739898916,
+        "longitude": -71.96875886933279
+      },
       "York_ME": {
         "latitude": 43.4292262,
         "longitude": -70.67014607
@@ -1153,6 +1213,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in the Northeastern United States",
-  "updated": "11 Nov 2021",
-  "virus_count": 338
+  "updated": "10 Feb 2023",
+  "virus_count": 376
 }
