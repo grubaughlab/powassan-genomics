@@ -154,7 +154,7 @@
     },
     "Unpublished": {
       "journal": "",
-      "n": 317,
+      "n": 330,
       "paper_url": "",
       "title": ""
     }
@@ -245,6 +245,10 @@
         "latitude": 41.127825,
         "longitude": -73.730321
       },
+      "Ashford_CT": {
+        "latitude": 41.867462,
+        "longitude": -72.150704
+      },
       "Ballston-Spa_NY": {
         "latitude": 43.007096,
         "longitude": -73.851092
@@ -264,6 +268,10 @@
       "Bridgeport_CT": {
         "latitude": 41.208906,
         "longitude": -73.167084
+      },
+      "Burlington_CT": {
+        "latitude": 41.73288,
+        "longitude": -72.955188
       },
       "Cairo_NY": {
         "latitude": 42.33263,
@@ -348,6 +356,10 @@
       "Hermon_NY": {
         "latitude": 44.36872,
         "longitude": -75.30672
+      },
+      "Hinckley_MN": {
+        "latitude": 46.01439893143895,
+        "longitude": -92.93591353389016
       },
       "Holmes_NY": {
         "latitude": 41.572981,
@@ -449,6 +461,10 @@
         "latitude": 41.937251,
         "longitude": -73.542365
       },
+      "North-Franklin_CT": {
+        "latitude": 41.605847,
+        "longitude": -72.136009
+      },
       "North-Hoosick_NY": {
         "latitude": 42.929326,
         "longitude": -73.342632
@@ -512,6 +528,10 @@
       "Sherborn_MA": {
         "latitude": 42.240436,
         "longitude": -71.372815
+      },
+      "Simsbury_CT": {
+        "latitude": 41.838361,
+        "longitude": -72.786355
       },
       "Smithtown_NY": {
         "latitude": 40.84254,
@@ -655,6 +675,10 @@
         "latitude": 42.27651977,
         "longitude": -74.1227065
       },
+      "Hartford_CT": {
+        "latitude": 41.81261504870007,
+        "longitude": -72.72561436923286
+      },
       "Herkimer_NY": {
         "latitude": 43.43028606,
         "longitude": -74.95507971
@@ -711,6 +735,10 @@
         "latitude": 41.4021312,
         "longitude": -74.30553764
       },
+      "Pine_MN": {
+        "latitude": 46.08624404801688,
+        "longitude": 92.69423364171605
+      },
       "Putnam_NY": {
         "latitude": 41.42666156,
         "longitude": -73.74951416
@@ -766,6 +794,10 @@
       "Westchester_NY": {
         "latitude": 41.15148119,
         "longitude": -73.75339068
+      },
+      "Windham_CT": {
+        "latitude": 41.8292739898916,
+        "longitude": -71.96875886933279
       },
       "York_ME": {
         "latitude": 43.4292262,
@@ -833,6 +865,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in North America",
-  "updated": "06 Jan 2023",
-  "virus_count": 392
+  "updated": "09 Feb 2023",
+  "virus_count": 405
 }
