@@ -154,7 +154,7 @@
     },
     "Unpublished": {
       "journal": "",
-      "n": 330,
+      "n": 359,
       "paper_url": "",
       "title": ""
     }
@@ -233,6 +233,10 @@
   ],
   "geo": {
     "city": {
+      "Allentown-City_PA": {
+        "latitude": 40.60890872,
+        "longitude": -75.46628493
+      },
       "Ancram_NY": {
         "latitude": 42.051135,
         "longitude": -73.635708
@@ -256,6 +260,14 @@
       "Ballston_NY": {
         "latitude": 42.95722,
         "longitude": -73.882494
+      },
+      "Barnstable_MA": {
+        "latitude": 41.69875704,
+        "longitude": -70.30194143
+      },
+      "Benton-Township_PA": {
+        "latitude": 41.61185515,
+        "longitude": -75.69868689
       },
       "Blenheim_NY": {
         "latitude": 42.43738,
@@ -309,6 +321,10 @@
         "latitude": 42.106095,
         "longitude": -73.550117
       },
+      "Derby_CT": {
+        "latitude": 41.32617023,
+        "longitude": -73.09202576
+      },
       "East-Hampton_NY": {
         "latitude": 41.039602,
         "longitude": -72.239154
@@ -328,6 +344,10 @@
       "Glenville_NY": {
         "latitude": 42.87216,
         "longitude": -73.90761
+      },
+      "Greene-Township_PA": {
+        "latitude": 39.9600958,
+        "longitude": -77.57019921
       },
       "Greenfield_NY": {
         "latitude": 43.118359,
@@ -353,13 +373,17 @@
         "latitude": 42.72626,
         "longitude": -73.90375
       },
+      "Hanover-Township_PA": {
+        "latitude": 41.20993045,
+        "longitude": -75.92973125
+      },
       "Hermon_NY": {
         "latitude": 44.36872,
         "longitude": -75.30672
       },
       "Hinckley_MN": {
-        "latitude": 46.01439893143895,
-        "longitude": -92.93591353389016
+        "latitude": 46.01439893,
+        "longitude": -92.93591353
       },
       "Holmes_NY": {
         "latitude": 41.572981,
@@ -385,9 +409,21 @@
         "latitude": 43.62199636,
         "longitude": 132.2304047
       },
+      "Killingworth_CT": {
+        "latitude": 41.37722635,
+        "longitude": -72.57435686
+      },
       "Laurier-Township_ON": {
         "latitude": 45.926384,
         "longitude": -79.380141
+      },
+      "Liberty-Township_PA": {
+        "latitude": 39.74282405,
+        "longitude": -77.35595514
+      },
+      "Litchfield_CT": {
+        "latitude": 41.74898869,
+        "longitude": -73.18944131
       },
       "Littlefork_MN": {
         "latitude": 48.3974154,
@@ -400,6 +436,10 @@
       "Lyme_CT": {
         "latitude": 41.358801,
         "longitude": -72.348391
+      },
+      "Main-Township_PA": {
+        "latitude": 40.98477473,
+        "longitude": -76.38349202
       },
       "Malta_NY": {
         "latitude": 42.95909,
@@ -435,7 +475,7 @@
       },
       "Nadezhdinsky-district_Russia": {
         "latitude": 43.4925138,
-        "longitude": 131.84589809
+        "longitude": 131.8458981
       },
       "Nantucket_MA": {
         "latitude": 41.274539,
@@ -469,6 +509,10 @@
         "latitude": 42.929326,
         "longitude": -73.342632
       },
+      "Northford_CT": {
+        "latitude": 41.38620274,
+        "longitude": -72.78652775
+      },
       "Northumberland_NY": {
         "latitude": 43.1784,
         "longitude": -73.6711
@@ -479,7 +523,11 @@
       },
       "Partizansk_Russia": {
         "latitude": 43.131812,
-        "longitude": 133.13069112
+        "longitude": 133.1306911
+      },
+      "Patton-Township_PA": {
+        "latitude": 40.8350968,
+        "longitude": -77.9206965
       },
       "Philadelphia_NY": {
         "latitude": 44.155102,
@@ -496,6 +544,10 @@
       "Powassan_ON": {
         "latitude": 46.082704,
         "longitude": -79.364848
+      },
+      "Quaker-Hill_CT": {
+        "latitude": 41.40797308,
+        "longitude": -72.113034
       },
       "Redding_CT": {
         "latitude": 41.286584,
@@ -541,17 +593,25 @@
         "latitude": 41.306503,
         "longitude": -73.725606
       },
+      "South-Kingstown_RI": {
+        "latitude": 41.45635241,
+        "longitude": -71.52079816
+      },
       "Southampton_NY": {
         "latitude": 40.901571,
         "longitude": -72.417697
       },
       "Spassky-district_Russia": {
         "latitude": 44.77233291,
-        "longitude": 133.06724801
+        "longitude": 133.067248
       },
       "Spooner_WI": {
         "latitude": 45.827192,
         "longitude": -91.893121
+      },
+      "Springfield-Township_PA": {
+        "latitude": 39.93290884,
+        "longitude": -75.33661037
       },
       "St-Croix_MN": {
         "latitude": 45.19935868,
@@ -571,11 +631,15 @@
       },
       "Terneysky-district_Russia": {
         "latitude": 46.3447845,
-        "longitude": 137.83666129
+        "longitude": 137.8366613
       },
       "Thomaston_ME": {
         "latitude": 44.10352172,
         "longitude": -69.17414197
+      },
+      "Tunkhannock-Township_PA": {
+        "latitude": 41.04107988,
+        "longitude": -75.48074037
       },
       "Unknown_Austria": {
         "latitude": 47.4085397,
@@ -607,7 +671,7 @@
       },
       "Vladivostok_Russia": {
         "latitude": 43.1438959,
-        "longitude": 131.93823692
+        "longitude": 131.9382369
       },
       "Wallkill_NY": {
         "latitude": 41.50923,
@@ -616,6 +680,10 @@
       "Wells_ME": {
         "latitude": 43.336526,
         "longitude": -70.54819
+      },
+      "West-Brunswick-Township_PA": {
+        "latitude": 40.6362051,
+        "longitude": -76.06120856
       },
       "Westport_CT": {
         "latitude": 41.187218,
@@ -639,13 +707,33 @@
         "latitude": 42.60017643,
         "longitude": -73.97355857
       },
+      "Barnstable_MA": {
+        "latitude": 41.67662506,
+        "longitude": -70.28795054
+      },
+      "Beaver_PA": {
+        "latitude": 40.71316867,
+        "longitude": -80.32918679
+      },
+      "Centre_PA": {
+        "latitude": 40.89989748,
+        "longitude": -77.84409848
+      },
       "Chippewa_WI": {
         "latitude": 45.069408,
         "longitude": -91.27988602
       },
+      "Clinton_PA": {
+        "latitude": 41.28953222,
+        "longitude": -77.65636298
+      },
       "Columbia_NY": {
         "latitude": 42.25007012,
         "longitude": -73.6318705
+      },
+      "Columbia_PA": {
+        "latitude": 41.06565589,
+        "longitude": -76.40631796
       },
       "Cumberland_ME": {
         "latitude": 43.80608211,
@@ -676,8 +764,8 @@
         "longitude": -74.1227065
       },
       "Hartford_CT": {
-        "latitude": 41.81261504870007,
-        "longitude": -72.72561436923286
+        "latitude": 41.81261505,
+        "longitude": -72.72561437
       },
       "Herkimer_NY": {
         "latitude": 43.43028606,
@@ -695,9 +783,25 @@
         "latitude": 48.2452684,
         "longitude": -93.7833663
       },
+      "Lackawanna_PA": {
+        "latitude": 41.44614929,
+        "longitude": -75.60972979
+      },
       "Larimer_CO": {
         "latitude": 40.66641722,
         "longitude": -105.4611445
+      },
+      "Lehigh_PA": {
+        "latitude": 40.62006453,
+        "longitude": -75.60681667
+      },
+      "Litchfield_CT": {
+        "latitude": 41.8211085,
+        "longitude": -73.25693862
+      },
+      "Middlesex_CT": {
+        "latitude": 41.49285839,
+        "longitude": -72.54258002
       },
       "Middlesex_MA": {
         "latitude": 42.48553813,
@@ -736,8 +840,8 @@
         "longitude": -74.30553764
       },
       "Pine_MN": {
-        "latitude": 46.08624404801688,
-        "longitude": 92.69423364171605
+        "latitude": 46.08624405,
+        "longitude": 92.69423364
       },
       "Putnam_NY": {
         "latitude": 41.42666156,
@@ -762,6 +866,10 @@
       "Schoharie_NY": {
         "latitude": 42.58821929,
         "longitude": -74.44211759
+      },
+      "Schuylkill_PA": {
+        "latitude": 40.71850933,
+        "longitude": -76.17476741
       },
       "St.-Lawrence_NY": {
         "latitude": 44.49640214,
@@ -796,12 +904,20 @@
         "longitude": -73.75339068
       },
       "Windham_CT": {
-        "latitude": 41.8292739898916,
-        "longitude": -71.96875886933279
+        "latitude": 41.82927399,
+        "longitude": -71.96875887
+      },
+      "Wyoming_PA": {
+        "latitude": 41.51709353,
+        "longitude": -76.0280777
       },
       "York_ME": {
         "latitude": 43.4292262,
         "longitude": -70.67014607
+      },
+      "York_PA": {
+        "latitude": 39.92299411,
+        "longitude": -76.6857835
       }
     },
     "state": {
@@ -837,6 +953,10 @@
         "latitude": 51.071329,
         "longitude": -85.441736
       },
+      "Pennsylvania": {
+        "latitude": 40.85603283,
+        "longitude": -77.91801849
+      },
       "Primorsky-Krai_Russia": {
         "latitude": 45.0523016,
         "longitude": 134.9812672
@@ -865,6 +985,6 @@
     "entropy"
   ],
   "title": "Powassan virus evolution & spread in North America",
-  "updated": "09 Feb 2023",
-  "virus_count": 405
+  "updated": "06 Jul 2023",
+  "virus_count": 434
 }
