@@ -15,3 +15,9 @@ FB5-13-140_LII_Spooner_WI_USA_Ixodes-scapularis_Unknown_Unknown_2008-XX-XX
 FB5-13-1_LII_Spooner_WI_USA_Ixodes-scapularis_Unknown_Unknown_2008-XX-XX
 POW_CO-D_LII_Fort-Collins_CO_US_Dermacentor-andersoni_Unknown_Unknown_1952-05-XX
 PV044-Ar-218-78_LI_Old-Lyme_CT_USA_Ixodes-cookei_Unknown_Unknown_1978-10-07
+Yale-PV499-HC-M-5-102_LII_Waupaca_WI_USA_Ixodes-scapularis_M_Drag_2023-04-26
+Yale-PV500-HC-M-5-105_LII_Waupaca_WI_USA_Ixodes-scapularis_M_Drag_2023-04-26
+Yale-PV501-PB-M-5-132_LII_Two-Rivers_WI_USA_Ixodes-scapularis_M_Drag_2023-04-28
+Yale-PV502-LC-M-5-215_LII_Lawrence_WI_USA_Ixodes-scapularis_M_Drag_2023-05-15
+Yale-PV527-20200420-96_LII_Two-Rivers_WI_USA_Ixodes-scapularis_F_Human_2020-04-20
+Yale-PV558-WI98_112023_LII_Lafayette_WI_USA_Ixodes-scapularis_M_Deer_2023-11-18
